@@ -1,0 +1,6 @@
+hadoop
+hadoop
+hadoop
+sgfs
+hbase
+hadoop

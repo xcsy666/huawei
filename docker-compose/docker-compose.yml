@@ -1,0 +1,20 @@
+xd-wp:
+  ports:
+  - 8888:80/tcp
+  labels:
+    io.rancher.container.pull_image: always
+  tty: true
+  image: wordpress
+  links:
+  - xd-db:mysql
+  stdin_open: true
+xd-db:
+  environment:
+    MYSQL_ROOT_PASSWORD: wp_xiandian
+  labels:
+    io.rancher.container.pull_image: always
+  tty: true
+  image: mysql
+  volumes:
+  - db_data:/var/lib/mysql
+  stdin_open: true

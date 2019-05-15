@@ -1,0 +1,2050 @@
+stname	stID	class	opt_cour	score
+student1	10120000	Network_1401	badminton	78.2
+student2	10120001	Network_1401	basketball	75.4
+student3	10120002	Network_1401	football	88.2
+student4	10120003	Network_1401	basketball	87.7
+student5	10120004	Network_1401	football	91.6
+student6	10120005	Network_1401	table tennis	70.1
+student7	10120006	Network_1401	swimming	69.1
+student8	10120007	Network_1401	swimming	80.1
+student9	10120008	Network_1401	swimming	92
+student10	10120009	Network_1401	football	88.8
+student11	10120010	Network_1401	table tennis	73.9
+student12	10120011	Network_1401	badminton	82.3
+student13	10120012	Network_1401	volleyball	87.6
+student14	10120013	Network_1401	badminton	97.2
+student15	10120014	Network_1401	volleyball	78.4
+student16	10120015	Network_1401	tennis	61.5
+student17	10120016	Network_1401	volleyball	83.3
+student18	10120017	Network_1401	swimming	79.2
+student19	10120018	Network_1401	football	68.5
+student20	10120019	Network_1401	football	94.1
+student21	10120020	Network_1401	table tennis	78.7
+student22	10120021	Network_1401	badminton	96.4
+student23	10120022	Network_1401	volleyball	83.7
+student24	10120023	Network_1401	tennis	82
+student25	10120024	Network_1401	volleyball	74.3
+student26	10120025	Network_1401	volleyball	79.1
+student27	10120026	Network_1401	tennis	85.9
+student28	10120027	Network_1401	volleyball	73.9
+student29	10120028	Network_1401	basketball	77.1
+student30	10120029	Network_1401	taekwondo	79
+student31	10120030	Network_1401	taekwondo	87
+student32	10120031	Network_1401	table tennis	71.6
+student33	10120032	Network_1401	badminton	72.5
+student34	10120033	Network_1401	tennis	83.1
+student35	10120034	Network_1401	swimming	85.4
+student36	10120035	Network_1401	volleyball	75.2
+student37	10120036	Network_1401	football	76.1
+student38	10120037	Network_1401	table tennis	81.1
+student39	10120038	Network_1401	badminton	73.6
+student40	10120039	Network_1401	swimming	88.2
+student41	10120040	Network_1401	tennis	74
+student42	10120041	Network_1401	volleyball	96.1
+student43	10120042	Network_1401	badminton	81.9
+student44	10120043	Network_1401	basketball	87.5
+student45	10120044	Network_1401	tennis	72.3
+student46	10120045	Network_1401	tennis	69
+student47	10120046	Network_1401	badminton	85.4
+student48	10120047	Network_1401	swimming	82.7
+student49	10120048	Network_1402	table tennis	73.6
+student50	10120049	Network_1402	badminton	71.7
+student51	10120050	Network_1402	volleyball	74.3
+student52	10120051	Network_1402	tennis	99.7
+student53	10120052	Network_1402	badminton	77.4
+student54	10120053	Network_1402	basketball	82
+student55	10120054	Network_1402	table tennis	82.7
+student56	10120055	Network_1402	table tennis	76.5
+student57	10120056	Network_1402	table tennis	67.2
+student58	10120057	Network_1402	table tennis	86.2
+student59	10120058	Network_1402	taekwondo	76.9
+student60	10120059	Network_1402	taekwondo	90
+student61	10120060	Network_1402	football	73.8
+student62	10120061	Network_1402	football	82
+student63	10120062	Network_1402	gymnastics	86.1
+student64	10120063	Network_1402	swimming	88.6
+student65	10120064	Network_1402	swimming	83.1
+student66	10120065	Network_1402	table tennis	75.5
+student67	10120066	Network_1402	taekwondo	86.9
+student68	10120067	Network_1402	taekwondo	87.8
+student69	10120068	Network_1402	gymnastics	73.5
+student70	10120069	Network_1402	gymnastics	80.9
+student71	10120070	Network_1402	badminton	88.4
+student72	10120071	Network_1402	taekwondo	73.7
+student73	10120072	Network_1402	gymnastics	65.6
+student74	10120073	Network_1402	table tennis	83.5
+student75	10120074	Network_1402	taekwondo	71.1
+student76	10120075	Network_1402	taekwondo	79.5
+student77	10120076	Network_1402	football	91.6
+student78	10120077	Network_1402	football	82.5
+student79	10120078	Network_1402	gymnastics	65.4
+student80	10120079	Network_1402	swimming	66.7
+student81	10120080	Network_1402	swimming	69.6
+student82	10120081	Network_1402	table tennis	87.4
+student83	10120082	Network_1402	taekwondo	87.7
+student84	10120083	Network_1402	taekwondo	86.6
+student85	10120084	Network_1402	gymnastics	71.6
+student86	10120085	Network_1402	gymnastics	78
+student87	10120086	Network_1402	basketball	84.1
+student88	10120087	Network_1402	basketball	89.4
+student89	10120088	Network_1402	basketball	72.6
+student90	10120089	Network_1402	gymnastics	96.4
+student91	10120090	Network_1402	gymnastics	86.1
+student92	10120091	Network_1402	basketball	84.7
+student93	10120092	Network_1402	tennis	79.8
+student94	10120093	Network_1402	gymnastics	56.3
+student95	10120094	Network_1402	basketball	94.9
+student96	10120095	Network_1402	gymnastics	85.5
+student97	10120096	Network_1402	tennis	80
+student98	10120097	Network_1402	basketball	88.6
+student99	10120098	Network_1402	tennis	91.6
+student100	10120099	Network_1402	badminton	95.4
+student101	10120100	Network_1403	basketball	88.4
+student102	10120101	Network_1403	football	80.4
+student103	10120102	Network_1403	basketball	74.9
+student104	10120103	Network_1403	football	91.1
+student105	10120104	Network_1403	table tennis	76.1
+student106	10120105	Network_1403	swimming	80.8
+student107	10120106	Network_1403	swimming	71.7
+student108	10120107	Network_1403	swimming	92.9
+student109	10120108	Network_1403	football	64.3
+student110	10120109	Network_1403	table tennis	80.4
+student111	10120110	Network_1403	badminton	99.8
+student112	10120111	Network_1403	volleyball	99.1
+student113	10120112	Network_1403	badminton	73.4
+student114	10120113	Network_1403	volleyball	76.7
+student115	10120114	Network_1403	tennis	88.9
+student116	10120115	Network_1403	volleyball	79.4
+student117	10120116	Network_1403	swimming	71.5
+student118	10120117	Network_1403	football	71.7
+student119	10120118	Network_1403	football	82.2
+student120	10120119	Network_1403	table tennis	76.7
+student121	10120120	Network_1403	badminton	62.2
+student122	10120121	Network_1403	volleyball	77.7
+student123	10120122	Network_1403	tennis	92.8
+student124	10120123	Network_1403	volleyball	81.9
+student125	10120124	Network_1403	volleyball	88.8
+student126	10120125	Network_1403	tennis	84.4
+student127	10120126	Network_1403	volleyball	87.2
+student128	10120127	Network_1403	basketball	81.4
+student129	10120128	Network_1403	taekwondo	89.3
+student130	10120129	Network_1403	taekwondo	86
+student131	10120130	Network_1403	table tennis	73.9
+student132	10120131	Network_1403	badminton	76.1
+student133	10120132	Network_1403	tennis	82.1
+student134	10120133	Network_1403	swimming	76.8
+student135	10120134	Network_1403	volleyball	83.4
+student136	10120135	Network_1403	football	71.3
+student137	10120136	Network_1403	table tennis	81.7
+student138	10120137	Network_1403	badminton	74.8
+student139	10120138	Network_1403	swimming	80.7
+student140	10120139	Network_1403	tennis	80.3
+student141	10120140	Network_1403	volleyball	72
+student142	10120141	Network_1403	badminton	73.6
+student143	10120142	Network_1403	basketball	77.1
+student144	10120143	Network_1403	tennis	80.3
+student145	10120144	Network_1403	tennis	77.8
+student146	10120145	Network_1403	badminton	77.4
+student147	10120146	Network_1403	swimming	86.5
+student148	10120147	Network_1403	table tennis	70.8
+student149	10120148	Network_1403	badminton	82.5
+student150	10120149	Network_1403	volleyball	73.2
+student151	10120150	Network_1403	tennis	88.7
+student152	10120151	Network_1403	badminton	84.7
+student153	10120152	Network_1403	basketball	89.5
+student154	10120153	Network_1403	table tennis	98.7
+student155	10120154	Network_1403	table tennis	80.2
+student156	10120155	Network_1403	table tennis	73.6
+student157	10120156	Network_1403	table tennis	75.9
+student158	10120157	Network_1403	taekwondo	80.2
+student159	10120158	Network_1403	taekwondo	82.2
+student160	10120159	Network_1404	football	75.8
+student161	10120160	Network_1404	football	78.7
+student162	10120161	Network_1404	gymnastics	81
+student163	10120162	Network_1404	swimming	83.4
+student164	10120163	Network_1404	swimming	89.1
+student165	10120164	Network_1404	table tennis	72.5
+student166	10120165	Network_1404	taekwondo	70.4
+student167	10120166	Network_1404	taekwondo	89.3
+student168	10120167	Network_1404	gymnastics	79.2
+student169	10120168	Network_1404	gymnastics	75
+student170	10120169	Network_1404	badminton	88.1
+student171	10120170	Network_1404	taekwondo	80.9
+student172	10120171	Network_1404	gymnastics	96.1
+student173	10120172	Network_1404	table tennis	74
+student174	10120173	Network_1404	taekwondo	84.3
+student175	10120174	Network_1404	taekwondo	79.8
+student176	10120175	Network_1404	football	93.1
+student177	10120176	Network_1404	football	89.7
+student178	10120177	Network_1404	gymnastics	76.2
+student179	10120178	Network_1404	swimming	73.2
+student180	10120179	Network_1404	swimming	81.4
+student181	10120180	Network_1404	table tennis	82.6
+student182	10120181	Network_1404	taekwondo	75.2
+student183	10120182	Network_1404	taekwondo	98.2
+student184	10120183	Network_1404	gymnastics	78
+student185	10120184	Network_1404	gymnastics	70.5
+student186	10120185	Network_1404	basketball	77.7
+student187	10120186	Network_1404	basketball	78.5
+student188	10120187	Network_1404	basketball	77.2
+student189	10120188	Network_1404	gymnastics	70.4
+student190	10120189	Network_1404	gymnastics	99.4
+student191	10120190	Network_1404	basketball	67.5
+student192	10120191	Network_1404	tennis	77.3
+student193	10120192	Network_1404	gymnastics	82.6
+student194	10120193	Network_1404	basketball	73.6
+student195	10120194	Network_1404	gymnastics	89.2
+student196	10120195	Network_1404	tennis	70
+student197	10120196	Network_1404	basketball	87.1
+student198	10120197	Network_1404	tennis	74.4
+student199	10120198	Network_1404	badminton	70.4
+student200	10120199	Network_1404	basketball	73
+student201	10120200	Network_1404	football	87.3
+student202	10120201	Network_1404	basketball	89.7
+student203	10120202	Network_1404	football	89
+student204	10120203	Network_1404	table tennis	73.6
+student205	10120204	Network_1404	swimming	80.3
+student206	10120205	Network_1404	swimming	66.2
+student207	10120206	Network_1404	swimming	73.9
+student208	10120207	Network_1404	football	84.2
+student209	10120208	Network_1404	table tennis	86
+student210	10120209	Network_1404	badminton	78.9
+student211	10120210	Network_1404	volleyball	83.1
+student212	10120211	Network_1404	badminton	72.3
+student213	10120212	Network_1404	volleyball	77.3
+student214	10120213	Network_1404	tennis	99.8
+student215	10120214	Network_1405	volleyball	85.5
+student216	10120215	Network_1405	swimming	81.7
+student217	10120216	Network_1405	football	73.8
+student218	10120217	Network_1405	football	70.6
+student219	10120218	Network_1405	table tennis	85.9
+student220	10120219	Network_1405	badminton	79.4
+student221	10120220	Network_1405	volleyball	71.4
+student222	10120221	Network_1405	tennis	76.9
+student223	10120222	Network_1405	volleyball	71.6
+student224	10120223	Network_1405	volleyball	87.2
+student225	10120224	Network_1405	tennis	73.1
+student226	10120225	Network_1405	volleyball	77.9
+student227	10120226	Network_1405	basketball	75.4
+student228	10120227	Network_1405	taekwondo	93.8
+student229	10120228	Network_1405	taekwondo	79.4
+student230	10120229	Network_1405	table tennis	82.6
+student231	10120230	Network_1405	badminton	84.8
+student232	10120231	Network_1405	tennis	72.7
+student233	10120232	Network_1405	swimming	78.6
+student234	10120233	Network_1405	volleyball	67.9
+student235	10120234	Network_1405	football	77.8
+student236	10120235	Network_1405	table tennis	72.8
+student237	10120236	Network_1405	badminton	74.2
+student238	10120237	Network_1405	swimming	72.9
+student239	10120238	Network_1405	tennis	82.9
+student240	10120239	Network_1405	volleyball	87.8
+student241	10120240	Network_1405	badminton	82.7
+student242	10120241	Network_1405	basketball	66.6
+student243	10120242	Network_1405	tennis	74
+student244	10120243	Network_1405	tennis	75.6
+student245	10120244	Network_1405	badminton	68.4
+student246	10120245	Network_1405	swimming	86
+student247	10120246	Network_1405	table tennis	71.6
+student248	10120247	Network_1405	badminton	88.5
+student249	10120248	Network_1405	volleyball	80.1
+student250	10120249	Network_1405	tennis	77
+student251	10120250	Network_1405	badminton	93.2
+student252	10120251	Network_1405	basketball	72.2
+student253	10120252	Network_1405	table tennis	64.1
+student254	10120253	Network_1405	table tennis	75.2
+student255	10120254	Network_1405	table tennis	92.8
+student256	10120255	Network_1405	table tennis	93.9
+student257	10120256	Network_1405	taekwondo	87.3
+student258	10120257	Network_1405	taekwondo	79.3
+student259	10120258	Network_1405	football	73.1
+student260	10120259	Network_1405	football	60.9
+student261	10120260	Network_1405	gymnastics	77.8
+student262	10120261	Network_1405	swimming	74.3
+student263	10120262	Network_1405	swimming	81
+student264	10120263	Network_1405	table tennis	87.9
+student265	10120264	Network_1405	taekwondo	98.9
+student266	10120265	Network_1405	taekwondo	73
+student267	10120266	Network_1405	gymnastics	88.6
+student268	10120267	Network_1405	gymnastics	86.5
+student269	10120268	Network_1405	badminton	77.1
+student270	10120269	Network_1405	taekwondo	52.9
+student271	10120270	Network_1405	gymnastics	88.4
+student272	10120271	Network_1405	table tennis	99.7
+student273	10120272	Network_1405	taekwondo	75.3
+student274	10120273	Network_1405	taekwondo	87.1
+student275	10120274	Network_1405	football	82.8
+student276	10120275	Network_1405	football	81
+student277	10120276	Network_1405	gymnastics	78.1
+student278	10120277	Network_1405	swimming	79.5
+student279	10120278	Network_1405	swimming	86.3
+student280	10120279	Network_1405	table tennis	72.1
+student281	10120280	Network_1405	taekwondo	79.8
+student282	10120281	Network_1405	taekwondo	78.5
+student283	10120282	Network_1405	gymnastics	98.1
+student284	10120283	Network_1405	gymnastics	73.1
+student285	10120284	Network_1405	basketball	77.9
+student286	10120285	Network_1405	basketball	79.3
+student287	10120286	Network_1405	basketball	81.2
+student288	10120287	Network_1405	gymnastics	65.2
+student289	10120288	Network_1405	gymnastics	79.3
+student290	10120289	Network_1405	basketball	78.3
+student291	10120290	Network_1405	tennis	63.7
+student292	10120291	Network_1405	gymnastics	70.2
+student293	10120292	Network_1405	basketball	81.9
+student294	10120293	Network_1405	gymnastics	99.9
+student295	10120294	Software_1401	tennis	79.4
+student296	10120295	Software_1401	basketball	82.2
+student297	10120296	Software_1401	tennis	74.1
+student298	10120297	Software_1401	badminton	84.7
+student299	10120298	Software_1401	basketball	81.8
+student300	10120299	Software_1401	football	72.5
+student301	10120300	Software_1401	basketball	93.4
+student302	10120301	Software_1401	football	83.2
+student303	10120302	Software_1401	table tennis	81
+student304	10120303	Software_1401	swimming	71.3
+student305	10120304	Software_1401	swimming	89.8
+student306	10120305	Software_1401	swimming	76
+student307	10120306	Software_1401	football	78.9
+student308	10120307	Software_1401	table tennis	82.9
+student309	10120308	Software_1401	badminton	78.1
+student310	10120309	Software_1401	volleyball	80.1
+student311	10120310	Software_1401	badminton	75.9
+student312	10120311	Software_1401	volleyball	65.7
+student313	10120312	Software_1401	tennis	85.2
+student314	10120313	Software_1401	volleyball	73.4
+student315	10120314	Software_1401	swimming	75.2
+student316	10120315	Software_1401	football	56.9
+student317	10120316	Software_1401	football	61.1
+student318	10120317	Software_1401	table tennis	61.3
+student319	10120318	Software_1401	badminton	80.9
+student320	10120319	Software_1401	volleyball	91.2
+student321	10120320	Software_1401	tennis	83.7
+student322	10120321	Software_1401	volleyball	74.9
+student323	10120322	Software_1401	volleyball	82.3
+student324	10120323	Software_1401	tennis	81.8
+student325	10120324	Software_1401	volleyball	73.4
+student326	10120325	Software_1401	basketball	74.4
+student327	10120326	Software_1401	taekwondo	95.9
+student328	10120327	Software_1401	taekwondo	89.7
+student329	10120328	Software_1401	table tennis	99.1
+student330	10120329	Software_1401	badminton	86.6
+student331	10120330	Software_1401	tennis	76.9
+student332	10120331	Software_1401	swimming	84.9
+student333	10120332	Software_1401	volleyball	73.1
+student334	10120333	Software_1401	football	78.2
+student335	10120334	Software_1401	table tennis	66.2
+student336	10120335	Software_1401	badminton	76.5
+student337	10120336	Software_1401	swimming	67
+student338	10120337	Software_1401	tennis	81.8
+student339	10120338	Software_1401	volleyball	92.1
+student340	10120339	Software_1401	badminton	76.9
+student341	10120340	Software_1401	basketball	82.1
+student342	10120341	Software_1401	tennis	98.3
+student343	10120342	Software_1401	tennis	69
+student344	10120343	Software_1402	badminton	81.8
+student345	10120344	Software_1402	swimming	77
+student346	10120345	Software_1402	table tennis	71.8
+student347	10120346	Software_1402	badminton	78.3
+student348	10120347	Software_1402	volleyball	71.3
+student349	10120348	Software_1402	tennis	78.1
+student350	10120349	Software_1402	badminton	87.4
+student351	10120350	Software_1402	basketball	98.3
+student352	10120351	Software_1402	table tennis	83.8
+student353	10120352	Software_1402	table tennis	84.4
+student354	10120353	Software_1402	table tennis	94
+student355	10120354	Software_1402	table tennis	85
+student356	10120355	Software_1402	taekwondo	78.3
+student357	10120356	Software_1402	taekwondo	80.4
+student358	10120357	Software_1402	football	78.7
+student359	10120358	Software_1402	football	62.2
+student360	10120359	Software_1402	gymnastics	85.7
+student361	10120360	Software_1402	swimming	97.5
+student362	10120361	Software_1402	swimming	70.8
+student363	10120362	Software_1402	table tennis	87.7
+student364	10120363	Software_1402	taekwondo	86.1
+student365	10120364	Software_1402	taekwondo	92.3
+student366	10120365	Software_1402	gymnastics	72.2
+student367	10120366	Software_1402	gymnastics	62.5
+student368	10120367	Software_1402	badminton	87.9
+student369	10120368	Software_1402	taekwondo	94.8
+student370	10120369	Software_1402	gymnastics	89.2
+student371	10120370	Software_1402	table tennis	99.5
+student372	10120371	Software_1402	taekwondo	75
+student373	10120372	Software_1402	taekwondo	76.9
+student374	10120373	Software_1402	football	82.5
+student375	10120374	Software_1402	football	74
+student376	10120375	Software_1402	gymnastics	76.5
+student377	10120376	Software_1402	swimming	85.3
+student378	10120377	Software_1402	swimming	81.2
+student379	10120378	Software_1402	table tennis	70.8
+student380	10120379	Software_1402	taekwondo	77.8
+student381	10120380	Software_1402	taekwondo	70.6
+student382	10120381	Software_1402	gymnastics	62.6
+student383	10120382	Software_1402	gymnastics	71.5
+student384	10120383	Software_1402	basketball	80.4
+student385	10120384	Software_1402	basketball	92.4
+student386	10120385	Software_1402	basketball	79.8
+student387	10120386	Software_1402	gymnastics	75.5
+student388	10120387	Software_1402	gymnastics	75.6
+student389	10120388	Software_1402	basketball	82.9
+student390	10120389	Software_1402	tennis	88.4
+student391	10120390	Software_1402	gymnastics	79.6
+student392	10120391	Software_1402	basketball	73.5
+student393	10120392	Software_1402	gymnastics	86
+student394	10120393	Software_1402	tennis	88.6
+student395	10120394	Software_1402	basketball	83.1
+student396	10120395	Software_1402	tennis	87
+student397	10120396	Software_1402	badminton	98.6
+student398	10120397	Software_1402	basketball	63.3
+student399	10120398	Software_1403	football	82.4
+student400	10120399	Software_1403	basketball	76
+student401	10120400	Software_1403	football	79.3
+student402	10120401	Software_1403	table tennis	79.4
+student403	10120402	Software_1403	swimming	94
+student404	10120403	Software_1403	swimming	83.2
+student405	10120404	Software_1403	swimming	89.6
+student406	10120405	Software_1403	football	74.5
+student407	10120406	Software_1403	table tennis	77.2
+student408	10120407	Software_1403	badminton	71.2
+student409	10120408	Software_1403	volleyball	70.6
+student410	10120409	Software_1403	badminton	88.8
+student411	10120410	Software_1403	volleyball	88.5
+student412	10120411	Software_1403	tennis	86.2
+student413	10120412	Software_1403	volleyball	91.8
+student414	10120413	Software_1403	swimming	79.7
+student415	10120414	Software_1403	football	84.6
+student416	10120415	Software_1403	football	74.3
+student417	10120416	Software_1403	table tennis	86.9
+student418	10120417	Software_1403	badminton	68.3
+student419	10120418	Software_1403	volleyball	76.8
+student420	10120419	Software_1403	tennis	77
+student421	10120420	Software_1403	volleyball	89.7
+student422	10120421	Software_1403	volleyball	74.7
+student423	10120422	Software_1403	tennis	89.8
+student424	10120423	Software_1403	volleyball	71.4
+student425	10120424	Software_1403	basketball	81.6
+student426	10120425	Software_1403	taekwondo	67.6
+student427	10120426	Software_1403	taekwondo	98.6
+student428	10120427	Software_1403	table tennis	91.4
+student429	10120428	Software_1403	badminton	89.9
+student430	10120429	Software_1403	tennis	75
+student431	10120430	Software_1403	swimming	72.5
+student432	10120431	Software_1403	volleyball	70.3
+student433	10120432	Software_1403	football	75.9
+student434	10120433	Software_1403	table tennis	77.7
+student435	10120434	Software_1403	badminton	74.9
+student436	10120435	Software_1403	swimming	87
+student437	10120436	Software_1403	tennis	88.7
+student438	10120437	Software_1403	volleyball	68
+student439	10120438	Software_1403	badminton	86
+student440	10120439	Software_1403	basketball	79.9
+student441	10120440	Software_1403	tennis	87.8
+student442	10120441	Software_1403	tennis	79.9
+student443	10120442	Software_1403	badminton	76.5
+student444	10120443	Software_1403	swimming	85.5
+student445	10120444	Software_1403	table tennis	82.3
+student446	10120445	Software_1403	badminton	63.3
+student447	10120446	Software_1403	volleyball	85.1
+student448	10120447	Software_1403	tennis	82.8
+student449	10120448	Software_1403	badminton	97.9
+student450	10120449	Software_1403	basketball	87.1
+student451	10120450	Software_1403	table tennis	85.7
+student452	10120451	Software_1403	table tennis	88.8
+student453	10120452	Software_1403	table tennis	88.6
+student454	10120453	Software_1404	table tennis	98.5
+student455	10120454	Software_1404	taekwondo	92.8
+student456	10120455	Software_1404	taekwondo	79.9
+student457	10120456	Software_1404	football	71.6
+student458	10120457	Software_1404	football	84
+student459	10120458	Software_1404	gymnastics	76.7
+student460	10120459	Software_1404	swimming	77.3
+student461	10120460	Software_1404	swimming	62.7
+student462	10120461	Software_1404	table tennis	83.8
+student463	10120462	Software_1404	taekwondo	88.1
+student464	10120463	Software_1404	taekwondo	71
+student465	10120464	Software_1404	gymnastics	86.1
+student466	10120465	Software_1404	gymnastics	77.6
+student467	10120466	Software_1404	badminton	85.6
+student468	10120467	Software_1404	taekwondo	89.5
+student469	10120468	Software_1404	gymnastics	91
+student470	10120469	Software_1404	table tennis	76
+student471	10120470	Software_1404	taekwondo	79.5
+student472	10120471	Software_1404	taekwondo	72.2
+student473	10120472	Software_1404	football	95.2
+student474	10120473	Software_1404	football	75
+student475	10120474	Software_1404	gymnastics	84.2
+student476	10120475	Software_1404	swimming	86.6
+student477	10120476	Software_1404	swimming	82
+student478	10120477	Software_1404	table tennis	74.4
+student479	10120478	Software_1404	taekwondo	99.8
+student480	10120479	Software_1404	taekwondo	88.8
+student481	10120480	Software_1404	gymnastics	87.4
+student482	10120481	Software_1404	gymnastics	75.7
+student483	10120482	Software_1404	basketball	92
+student484	10120483	Software_1404	basketball	79
+student485	10120484	Software_1404	basketball	80.1
+student486	10120485	Software_1404	gymnastics	79.9
+student487	10120486	Software_1404	gymnastics	87.9
+student488	10120487	Software_1404	basketball	85.4
+student489	10120488	Software_1404	tennis	80.6
+student490	10120489	Software_1404	gymnastics	68.6
+student491	10120490	Software_1404	basketball	80.5
+student492	10120491	Software_1404	gymnastics	82.1
+student493	10120492	Software_1404	tennis	86.5
+student494	10120493	Software_1404	basketball	84.9
+student495	10120494	Software_1404	tennis	70.4
+student496	10120495	Software_1404	badminton	81.8
+student497	10120496	Software_1404	basketball	71.3
+student498	10120497	Software_1404	football	84.4
+student499	10120498	Software_1404	basketball	63.1
+student500	10120499	Software_1404	football	70.8
+student501	10120500	Software_1404	table tennis	71.7
+student502	10120501	Software_1404	swimming	72.6
+student503	10120502	Software_1404	swimming	83.9
+student504	10120503	Software_1404	swimming	75.4
+student505	10120504	Software_1404	football	80.2
+student506	10120505	Software_1404	table tennis	80.4
+student507	10120506	Software_1404	badminton	75.8
+student508	10120507	Software_1404	volleyball	89.7
+student509	10120508	Software_1404	badminton	74.6
+student510	10120509	Software_1404	volleyball	68.6
+student511	10120510	Software_1404	tennis	73.6
+student512	10120511	Software_1404	volleyball	89.2
+student513	10120512	Software_1404	swimming	75.3
+student514	10120513	Software_1404	football	86
+student515	10120514	Software_1404	football	71.4
+student516	10120515	Software_1404	table tennis	82.5
+student517	10120516	Software_1404	badminton	80.7
+student518	10120517	Software_1404	volleyball	82.3
+student519	10120518	Software_1404	tennis	74.1
+student520	10120519	Software_1404	volleyball	65.7
+student521	10120520	Software_1404	volleyball	79.8
+student522	10120521	Software_1404	tennis	86.2
+student523	10120522	Software_1404	volleyball	97.6
+student524	10120523	Software_1404	basketball	63
+student525	10120524	Software_1404	taekwondo	71.6
+student526	10120525	Software_1404	taekwondo	89.3
+student527	10120526	Software_1404	table tennis	55.9
+student528	10120527	Software_1404	badminton	77.2
+student529	10120528	Software_1404	tennis	79.8
+student530	10120529	Software_1404	swimming	95.5
+student531	10120530	Software_1405	volleyball	77.9
+student532	10120531	Software_1405	football	71.1
+student533	10120532	Software_1405	table tennis	72.2
+student534	10120533	Software_1405	badminton	74.9
+student535	10120534	Software_1405	swimming	85.9
+student536	10120535	Software_1405	tennis	74.2
+student537	10120536	Software_1405	volleyball	89.5
+student538	10120537	Software_1405	badminton	81.2
+student539	10120538	Software_1405	basketball	84.3
+student540	10120539	Software_1405	tennis	80.4
+student541	10120540	Software_1405	tennis	99.8
+student542	10120541	Software_1405	badminton	80.7
+student543	10120542	Software_1405	swimming	76.5
+student544	10120543	Software_1405	table tennis	82.3
+student545	10120544	Software_1405	badminton	71.8
+student546	10120545	Software_1405	volleyball	80.8
+student547	10120546	Software_1405	tennis	89.2
+student548	10120547	Software_1405	badminton	84.5
+student549	10120548	Software_1405	basketball	67
+student550	10120549	Software_1405	table tennis	75.9
+student551	10120550	Software_1405	table tennis	70.1
+student552	10120551	Software_1405	table tennis	80.1
+student553	10120552	Software_1405	table tennis	89.1
+student554	10120553	Software_1405	taekwondo	91.6
+student555	10120554	Software_1405	taekwondo	72.1
+student556	10120555	Software_1405	football	79.6
+student557	10120556	Software_1405	football	72
+student558	10120557	Software_1405	gymnastics	80
+student559	10120558	Software_1405	swimming	85
+student560	10120559	Software_1405	swimming	95.6
+student561	10120560	Software_1405	table tennis	84
+student562	10120561	Software_1405	taekwondo	70.7
+student563	10120562	Software_1405	taekwondo	72.6
+student564	10120563	Software_1405	gymnastics	70.4
+student565	10120564	Software_1405	gymnastics	79.4
+student566	10120565	Software_1405	badminton	62.9
+student567	10120566	Software_1405	taekwondo	90.3
+student568	10120567	Software_1405	gymnastics	89.7
+student569	10120568	Software_1405	table tennis	83.2
+student570	10120569	Software_1405	taekwondo	71.5
+student571	10120570	Software_1405	taekwondo	93.4
+student572	10120571	Software_1405	football	74.8
+student573	10120572	Software_1405	football	79.4
+student574	10120573	Software_1405	gymnastics	91.4
+student575	10120574	Software_1405	swimming	83
+student576	10120575	Software_1405	swimming	76.4
+student577	10120576	Software_1406	table tennis	87.1
+student578	10120577	Software_1406	taekwondo	77.1
+student579	10120578	Software_1406	taekwondo	72.8
+student580	10120579	Software_1406	gymnastics	93.3
+student581	10120580	Software_1406	gymnastics	89.9
+student582	10120581	Software_1406	basketball	78.1
+student583	10120582	Software_1406	basketball	74.5
+student584	10120583	Software_1406	basketball	74.6
+student585	10120584	Software_1406	gymnastics	85
+student586	10120585	Software_1406	gymnastics	70.1
+student587	10120586	Software_1406	basketball	79.2
+student588	10120587	Software_1406	tennis	89.9
+student589	10120588	Software_1406	gymnastics	84
+student590	10120589	Software_1406	basketball	74.4
+student591	10120590	Software_1406	gymnastics	90.4
+student592	10120591	Software_1406	tennis	79.5
+student593	10120592	Software_1406	basketball	76.9
+student594	10120593	Software_1406	tennis	84.1
+student595	10120594	Software_1406	table tennis	79.1
+student596	10120595	Software_1406	badminton	75.7
+student597	10120596	Software_1406	table tennis	86.1
+student598	10120597	Software_1406	badminton	70.4
+student599	10120598	Software_1406	swimming	81.5
+student600	10120599	Software_1406	table tennis	73.9
+student601	10120600	Software_1406	swimming	84.2
+student602	10120601	Software_1406	table tennis	76.9
+student603	10120602	Software_1406	badminton	79.5
+student604	10120603	Software_1406	swimming	74.6
+student605	10120604	Software_1406	badminton	76.8
+student606	10120605	Software_1406	basketball	63.1
+student607	10120606	Software_1406	football	89.6
+student608	10120607	Software_1406	basketball	81.2
+student609	10120608	Software_1406	football	74.2
+student610	10120609	Software_1406	table tennis	82.6
+student611	10120610	Software_1406	swimming	82
+student612	10120611	Software_1406	swimming	86.1
+student613	10120612	Software_1406	swimming	74.4
+student614	10120613	Software_1406	football	61
+student615	10120614	Software_1406	table tennis	97.1
+student616	10120615	Software_1406	badminton	97.7
+student617	10120616	Software_1406	volleyball	80.6
+student618	10120617	Software_1406	badminton	89.9
+student619	10120618	Software_1406	volleyball	72.7
+student620	10120619	Software_1406	tennis	59.4
+student621	10120620	Software_1406	volleyball	96
+student622	10120621	Software_1406	swimming	87.5
+student623	10120622	Software_1406	football	81.1
+student624	10120623	Software_1406	football	63.1
+student625	10120624	Software_1406	table tennis	71.4
+student626	10120625	Software_1406	badminton	72.9
+student627	10120626	Software_1406	volleyball	83.3
+student628	10120627	Software_1406	tennis	67.8
+student629	10120628	Software_1407	volleyball	73.1
+student630	10120629	Software_1407	volleyball	92.1
+student631	10120630	Software_1407	tennis	82.5
+student632	10120631	Software_1407	volleyball	76.1
+student633	10120632	Software_1407	basketball	96
+student634	10120633	Software_1407	taekwondo	81.1
+student635	10120634	Software_1407	taekwondo	78.2
+student636	10120635	Software_1407	table tennis	85.3
+student637	10120636	Software_1407	badminton	78.2
+student638	10120637	Software_1407	tennis	83.7
+student639	10120638	Software_1407	swimming	76.4
+student640	10120639	Software_1407	volleyball	89.6
+student641	10120640	Software_1407	football	76.7
+student642	10120641	Software_1407	table tennis	85.4
+student643	10120642	Software_1407	badminton	78.6
+student644	10120643	Software_1407	swimming	57.9
+student645	10120644	Software_1407	tennis	75.7
+student646	10120645	Software_1407	volleyball	71.4
+student647	10120646	Software_1407	badminton	89.5
+student648	10120647	Software_1407	basketball	87.7
+student649	10120648	Software_1407	tennis	79.6
+student650	10120649	Software_1407	tennis	96.8
+student651	10120650	Software_1407	badminton	85.5
+student652	10120651	Software_1407	swimming	71.5
+student653	10120652	Software_1407	table tennis	73
+student654	10120653	Software_1407	badminton	93.1
+student655	10120654	Software_1407	volleyball	71.3
+student656	10120655	Software_1407	tennis	87.2
+student657	10120656	Software_1407	badminton	88.1
+student658	10120657	Software_1407	basketball	87.8
+student659	10120658	Software_1407	table tennis	89
+student660	10120659	Software_1407	table tennis	84.3
+student661	10120660	Software_1407	table tennis	73.8
+student662	10120661	Software_1407	table tennis	75.4
+student663	10120662	Software_1407	taekwondo	75.6
+student664	10120663	Software_1407	taekwondo	99.6
+student665	10120664	Software_1407	football	73.1
+student666	10120665	Software_1407	football	84.9
+student667	10120666	Software_1407	gymnastics	86.3
+student668	10120667	Software_1407	swimming	81
+student669	10120668	Software_1407	swimming	70.5
+student670	10120669	Software_1407	table tennis	92.2
+student671	10120670	Software_1407	taekwondo	71.9
+student672	10120671	Software_1407	taekwondo	77
+student673	10120672	Software_1407	gymnastics	85.3
+student674	10120673	Software_1407	gymnastics	79.7
+student675	10120674	Software_1407	badminton	99
+student676	10120675	Software_1407	taekwondo	79.6
+student677	10120676	Software_1407	gymnastics	94.1
+student678	10120677	Software_1407	table tennis	96.8
+student679	10120678	Software_1407	taekwondo	72.8
+student680	10120679	Software_1407	taekwondo	71.9
+student681	10120680	Software_1407	football	77.4
+student682	10120681	Software_1407	football	54
+student683	10120682	Software_1407	gymnastics	79
+student684	10120683	Software_1407	swimming	78.1
+student685	10120684	Software_1407	swimming	86
+student686	10120685	Software_1407	table tennis	83.9
+student687	10120686	Software_1407	taekwondo	73.5
+student688	10120687	Software_1407	taekwondo	78.8
+student689	10120688	Software_1407	gymnastics	85.6
+student690	10120689	Software_1407	gymnastics	72.9
+student691	10120690	Software_1407	basketball	85.8
+student692	10120691	Software_1407	basketball	70.4
+student693	10120692	Computer_1401	basketball	70.5
+student694	10120693	Computer_1401	gymnastics	72
+student695	10120694	Computer_1401	gymnastics	87.6
+student696	10120695	Computer_1401	basketball	60.3
+student697	10120696	Computer_1401	tennis	70.8
+student698	10120697	Computer_1401	gymnastics	85.7
+student699	10120698	Computer_1401	basketball	74.3
+student700	10120699	Computer_1401	gymnastics	65.1
+student701	10120700	Computer_1401	tennis	77.8
+student702	10120701	Computer_1401	basketball	81.5
+student703	10120702	Computer_1401	tennis	74.9
+student704	10120703	Computer_1401	badminton	81.1
+student705	10120704	Computer_1401	basketball	78.2
+student706	10120705	Computer_1401	football	71.4
+student707	10120706	Computer_1401	basketball	85.9
+student708	10120707	Computer_1401	football	96.3
+student709	10120708	Computer_1401	table tennis	75.3
+student710	10120709	Computer_1401	swimming	85.1
+student711	10120710	Computer_1401	swimming	81.1
+student712	10120711	Computer_1401	swimming	88.5
+student713	10120712	Computer_1401	football	85.1
+student714	10120713	Computer_1401	table tennis	88.5
+student715	10120714	Computer_1401	badminton	79.2
+student716	10120715	Computer_1401	volleyball	70.6
+student717	10120716	Computer_1401	badminton	87
+student718	10120717	Computer_1401	volleyball	76.7
+student719	10120718	Computer_1401	tennis	70.7
+student720	10120719	Computer_1401	volleyball	90.5
+student721	10120720	Computer_1401	swimming	73.4
+student722	10120721	Computer_1401	football	93
+student723	10120722	Computer_1401	football	76.9
+student724	10120723	Computer_1401	table tennis	73.8
+student725	10120724	Computer_1401	badminton	75.3
+student726	10120725	Computer_1401	volleyball	73.9
+student727	10120726	Computer_1401	tennis	89.8
+student728	10120727	Computer_1401	volleyball	73.5
+student729	10120728	Computer_1401	volleyball	86.4
+student730	10120729	Computer_1401	tennis	88.5
+student731	10120730	Computer_1401	volleyball	73.2
+student732	10120731	Computer_1401	basketball	88.2
+student733	10120732	Computer_1401	taekwondo	85.7
+student734	10120733	Computer_1401	taekwondo	72.9
+student735	10120734	Computer_1401	table tennis	85.2
+student736	10120735	Computer_1401	badminton	78.2
+student737	10120736	Computer_1401	tennis	100
+student738	10120737	Computer_1401	swimming	61.1
+student739	10120738	Computer_1401	volleyball	73
+student740	10120739	Computer_1401	football	74
+student741	10120740	Computer_1401	table tennis	70.6
+student742	10120741	Computer_1401	badminton	82.9
+student743	10120742	Computer_1401	swimming	80.5
+student744	10120743	Computer_1402	tennis	73.1
+student745	10120744	Computer_1402	volleyball	90.9
+student746	10120745	Computer_1402	badminton	88.6
+student747	10120746	Computer_1402	basketball	81.4
+student748	10120747	Computer_1402	tennis	79.7
+student749	10120748	Computer_1402	tennis	97
+student750	10120749	Computer_1402	badminton	88
+student751	10120750	Computer_1402	swimming	82.4
+student752	10120751	Computer_1402	table tennis	94.1
+student753	10120752	Computer_1402	badminton	84.3
+student754	10120753	Computer_1402	volleyball	89.5
+student755	10120754	Computer_1402	tennis	85
+student756	10120755	Computer_1402	badminton	82.4
+student757	10120756	Computer_1402	basketball	70.8
+student758	10120757	Computer_1402	table tennis	84.7
+student759	10120758	Computer_1402	table tennis	68.8
+student760	10120759	Computer_1402	table tennis	88.5
+student761	10120760	Computer_1402	table tennis	71.6
+student762	10120761	Computer_1402	taekwondo	78
+student763	10120762	Computer_1402	taekwondo	81
+student764	10120763	Computer_1402	football	88.1
+student765	10120764	Computer_1402	football	81.7
+student766	10120765	Computer_1402	gymnastics	99.2
+student767	10120766	Computer_1402	swimming	89.1
+student768	10120767	Computer_1402	swimming	74.8
+student769	10120768	Computer_1402	table tennis	91.1
+student770	10120769	Computer_1402	taekwondo	72.7
+student771	10120770	Computer_1402	taekwondo	77.2
+student772	10120771	Computer_1402	gymnastics	83.3
+student773	10120772	Computer_1402	gymnastics	77.8
+student774	10120773	Computer_1402	badminton	71
+student775	10120774	Computer_1402	taekwondo	82
+student776	10120775	Computer_1402	gymnastics	85.2
+student777	10120776	Computer_1402	table tennis	94.4
+student778	10120777	Computer_1402	taekwondo	77.5
+student779	10120778	Computer_1402	taekwondo	83.4
+student780	10120779	Computer_1402	football	85
+student781	10120780	Computer_1402	football	81.1
+student782	10120781	Computer_1402	gymnastics	77.2
+student783	10120782	Computer_1402	swimming	63.2
+student784	10120783	Computer_1402	swimming	84.1
+student785	10120784	Computer_1402	table tennis	88.3
+student786	10120785	Computer_1402	taekwondo	81.6
+student787	10120786	Computer_1402	taekwondo	86.5
+student788	10120787	Computer_1402	gymnastics	70.2
+student789	10120788	Computer_1402	gymnastics	75.8
+student790	10120789	Computer_1402	basketball	72.8
+student791	10120790	Computer_1402	basketball	81.4
+student792	10120791	Computer_1402	basketball	71.4
+student793	10120792	Computer_1402	gymnastics	85
+student794	10120793	Computer_1402	gymnastics	93.2
+student795	10120794	Computer_1403	basketball	83.3
+student796	10120795	Computer_1403	tennis	84.9
+student797	10120796	Computer_1403	gymnastics	79.4
+student798	10120797	Computer_1403	basketball	97.2
+student799	10120798	Computer_1403	gymnastics	70.7
+student800	10120799	Computer_1403	tennis	87.7
+student801	10120800	Computer_1403	basketball	81.6
+student802	10120801	Computer_1403	tennis	89.1
+student803	10120802	Computer_1403	badminton	78.7
+student804	10120803	Computer_1403	basketball	77.9
+student805	10120804	Computer_1403	football	86.4
+student806	10120805	Computer_1403	basketball	80.4
+student807	10120806	Computer_1403	football	76.6
+student808	10120807	Computer_1403	table tennis	89.4
+student809	10120808	Computer_1403	swimming	63.4
+student810	10120809	Computer_1403	swimming	72.6
+student811	10120810	Computer_1403	swimming	79.1
+student812	10120811	Computer_1403	football	74.6
+student813	10120812	Computer_1403	table tennis	88.3
+student814	10120813	Computer_1403	badminton	80.1
+student815	10120814	Computer_1403	volleyball	80.5
+student816	10120815	Computer_1403	badminton	74.4
+student817	10120816	Computer_1403	volleyball	77.4
+student818	10120817	Computer_1403	tennis	86.6
+student819	10120818	Computer_1403	volleyball	74.1
+student820	10120819	Computer_1403	swimming	81.7
+student821	10120820	Computer_1403	football	64.9
+student822	10120821	Computer_1403	football	84.1
+student823	10120822	Computer_1403	table tennis	77.6
+student824	10120823	Computer_1403	badminton	60.1
+student825	10120824	Computer_1403	volleyball	77.4
+student826	10120825	Computer_1403	tennis	78.1
+student827	10120826	Computer_1403	volleyball	77.3
+student828	10120827	Computer_1403	volleyball	79.2
+student829	10120828	Computer_1403	tennis	82.1
+student830	10120829	Computer_1403	volleyball	91.7
+student831	10120830	Computer_1403	basketball	73.3
+student832	10120831	Computer_1403	taekwondo	81.8
+student833	10120832	Computer_1403	taekwondo	73.8
+student834	10120833	Computer_1403	table tennis	86.6
+student835	10120834	Computer_1403	badminton	50.9
+student836	10120835	Computer_1403	tennis	78.1
+student837	10120836	Computer_1403	swimming	85.6
+student838	10120837	Computer_1403	volleyball	80.8
+student839	10120838	Computer_1403	football	98.3
+student840	10120839	Computer_1403	table tennis	85.2
+student841	10120840	Computer_1404	badminton	75.6
+student842	10120841	Computer_1404	swimming	92.4
+student843	10120842	Computer_1404	tennis	85.5
+student844	10120843	Computer_1404	volleyball	87.1
+student845	10120844	Computer_1404	badminton	93.9
+student846	10120845	Computer_1404	basketball	80.6
+student847	10120846	Computer_1404	tennis	77.2
+student848	10120847	Computer_1404	tennis	77.1
+student849	10120848	Computer_1404	badminton	72.4
+student850	10120849	Computer_1404	swimming	89.4
+student851	10120850	Computer_1404	table tennis	98.6
+student852	10120851	Computer_1404	badminton	74
+student853	10120852	Computer_1404	volleyball	60.4
+student854	10120853	Computer_1404	tennis	92.6
+student855	10120854	Computer_1404	badminton	82.7
+student856	10120855	Computer_1404	basketball	87.9
+student857	10120856	Computer_1404	table tennis	83.1
+student858	10120857	Computer_1404	table tennis	87
+student859	10120858	Computer_1404	table tennis	70.6
+student860	10120859	Computer_1404	table tennis	86.6
+student861	10120860	Computer_1404	taekwondo	83.1
+student862	10120861	Computer_1404	taekwondo	70.5
+student863	10120862	Computer_1404	football	71.5
+student864	10120863	Computer_1404	football	71
+student865	10120864	Computer_1404	gymnastics	71.3
+student866	10120865	Computer_1404	swimming	76
+student867	10120866	Computer_1404	swimming	72.7
+student868	10120867	Computer_1404	table tennis	87.8
+student869	10120868	Computer_1404	taekwondo	81.6
+student870	10120869	Computer_1404	taekwondo	89.5
+student871	10120870	Computer_1404	gymnastics	78.5
+student872	10120871	Computer_1404	gymnastics	91.8
+student873	10120872	Computer_1404	badminton	79.5
+student874	10120873	Computer_1404	taekwondo	75.7
+student875	10120874	Computer_1404	gymnastics	79.4
+student876	10120875	Computer_1404	table tennis	88.1
+student877	10120876	Computer_1404	taekwondo	71.9
+student878	10120877	Computer_1404	taekwondo	73.1
+student879	10120878	Computer_1404	football	95.5
+student880	10120879	Computer_1404	football	74.1
+student881	10120880	Computer_1404	gymnastics	86.3
+student882	10120881	Computer_1404	swimming	79.7
+student883	10120882	Computer_1404	swimming	78.3
+student884	10120883	Computer_1404	table tennis	88
+student885	10120884	Computer_1404	taekwondo	85.5
+student886	10120885	Computer_1404	taekwondo	70.1
+student887	10120886	Computer_1404	gymnastics	74.4
+student888	10120887	Computer_1405	gymnastics	87.8
+student889	10120888	Computer_1405	basketball	76.3
+student890	10120889	Computer_1405	basketball	80.6
+student891	10120890	Computer_1405	basketball	82.3
+student892	10120891	Computer_1405	gymnastics	83.2
+student893	10120892	Computer_1405	gymnastics	76.7
+student894	10120893	Computer_1405	basketball	87.5
+student895	10120894	Computer_1405	tennis	72.5
+student896	10120895	Computer_1405	gymnastics	92.4
+student897	10120896	Computer_1405	basketball	79.7
+student898	10120897	Computer_1405	gymnastics	66.4
+student899	10120898	Computer_1405	tennis	82.9
+student900	10120899	Computer_1405	basketball	78.6
+student901	10120900	Computer_1405	tennis	72.1
+student902	10120901	Computer_1405	badminton	75
+student903	10120902	Computer_1405	basketball	74.8
+student904	10120903	Computer_1405	football	85.4
+student905	10120904	Computer_1405	basketball	77.8
+student906	10120905	Computer_1405	football	80.1
+student907	10120906	Computer_1405	table tennis	98.1
+student908	10120907	Computer_1405	swimming	83.3
+student909	10120908	Computer_1405	swimming	72.4
+student910	10120909	Computer_1405	swimming	83.5
+student911	10120910	Computer_1405	football	79
+student912	10120911	Computer_1405	table tennis	89.3
+student913	10120912	Computer_1405	badminton	78.9
+student914	10120913	Computer_1405	volleyball	73.1
+student915	10120914	Computer_1405	badminton	89
+student916	10120915	Computer_1405	volleyball	61.8
+student917	10120916	Computer_1405	tennis	74.7
+student918	10120917	Computer_1405	volleyball	74.4
+student919	10120918	Computer_1405	swimming	90.9
+student920	10120919	Computer_1405	football	87.2
+student921	10120920	Computer_1405	football	61.6
+student922	10120921	Computer_1405	table tennis	71.6
+student923	10120922	Computer_1405	badminton	78.1
+student924	10120923	Computer_1405	volleyball	92.9
+student925	10120924	Computer_1405	tennis	64
+student926	10120925	Computer_1405	volleyball	87.8
+student927	10120926	Computer_1405	volleyball	81.5
+student928	10120927	Computer_1405	tennis	73.2
+student929	10120928	Computer_1405	volleyball	76.8
+student930	10120929	Computer_1405	basketball	74.5
+student931	10120930	Computer_1405	taekwondo	82.8
+student932	10120931	Computer_1405	taekwondo	87.3
+student933	10120932	Computer_1405	table tennis	92.3
+student934	10120933	Computer_1405	badminton	84
+student935	10120934	Computer_1405	tennis	71.7
+student936	10120935	Mobile_1401	swimming	82
+student937	10120936	Mobile_1401	volleyball	90.5
+student938	10120937	Mobile_1401	football	83.3
+student939	10120938	Mobile_1401	table tennis	83.3
+student940	10120939	Mobile_1401	badminton	92.2
+student941	10120940	Mobile_1401	swimming	70.7
+student942	10120941	Mobile_1401	tennis	86.3
+student943	10120942	Mobile_1401	volleyball	73.9
+student944	10120943	Mobile_1401	badminton	88.5
+student945	10120944	Mobile_1401	basketball	75
+student946	10120945	Mobile_1401	tennis	76.4
+student947	10120946	Mobile_1401	tennis	85
+student948	10120947	Mobile_1401	badminton	96.2
+student949	10120948	Mobile_1401	swimming	77.5
+student950	10120949	Mobile_1401	table tennis	72.7
+student951	10120950	Mobile_1401	badminton	72.1
+student952	10120951	Mobile_1401	volleyball	63.5
+student953	10120952	Mobile_1401	tennis	85.9
+student954	10120953	Mobile_1401	badminton	71
+student955	10120954	Mobile_1401	basketball	81.9
+student956	10120955	Mobile_1401	table tennis	73.9
+student957	10120956	Mobile_1401	table tennis	87.8
+student958	10120957	Mobile_1401	table tennis	79.3
+student959	10120958	Mobile_1401	table tennis	99
+student960	10120959	Mobile_1401	taekwondo	81.8
+student961	10120960	Mobile_1401	taekwondo	83.7
+student962	10120961	Mobile_1401	football	71.9
+student963	10120962	Mobile_1401	football	88.1
+student964	10120963	Mobile_1401	gymnastics	84.1
+student965	10120964	Mobile_1401	swimming	74.9
+student966	10120965	Mobile_1401	swimming	97.8
+student967	10120966	Mobile_1401	table tennis	85.7
+student968	10120967	Mobile_1401	taekwondo	99.5
+student969	10120968	Mobile_1401	taekwondo	82.1
+student970	10120969	Mobile_1401	gymnastics	84.5
+student971	10120970	Mobile_1401	gymnastics	68.5
+student972	10120971	Mobile_1401	badminton	91.4
+student973	10120972	Mobile_1401	taekwondo	74.7
+student974	10120973	Mobile_1401	gymnastics	87.4
+student975	10120974	Mobile_1401	table tennis	75.9
+student976	10120975	Mobile_1401	taekwondo	89.9
+student977	10120976	Mobile_1401	taekwondo	88.6
+student978	10120977	Mobile_1401	football	85.5
+student979	10120978	Mobile_1401	football	77.4
+student980	10120979	Mobile_1401	gymnastics	88.5
+student981	10120980	Mobile_1402	swimming	72.4
+student982	10120981	Mobile_1402	swimming	86.1
+student983	10120982	Mobile_1402	table tennis	67.3
+student984	10120983	Mobile_1402	taekwondo	86.7
+student985	10120984	Mobile_1402	taekwondo	81.3
+student986	10120985	Mobile_1402	gymnastics	70.8
+student987	10120986	Mobile_1402	gymnastics	66
+student988	10120987	Mobile_1402	basketball	76.1
+student989	10120988	Mobile_1402	basketball	85.9
+student990	10120989	Mobile_1402	basketball	68.2
+student991	10120990	Mobile_1402	gymnastics	84.4
+student992	10120991	Mobile_1402	gymnastics	78.7
+student993	10120992	Mobile_1402	basketball	92.2
+student994	10120993	Mobile_1402	tennis	99.3
+student995	10120994	Mobile_1402	gymnastics	93
+student996	10120995	Mobile_1402	basketball	70.4
+student997	10120996	Mobile_1402	gymnastics	94.4
+student998	10120997	Mobile_1402	tennis	70.6
+student999	10120998	Mobile_1402	basketball	82.6
+student1000	10120999	Mobile_1402	tennis	80.4
+student1001	10121000	Mobile_1402	badminton	77.7
+student1002	10121001	Mobile_1402	basketball	75.5
+student1003	10121002	Mobile_1402	football	86
+student1004	10121003	Mobile_1402	basketball	85.2
+student1005	10121004	Mobile_1402	football	87
+student1006	10121005	Mobile_1402	table tennis	87.7
+student1007	10121006	Mobile_1402	swimming	86.1
+student1008	10121007	Mobile_1402	swimming	62.3
+student1009	10121008	Mobile_1402	swimming	79.6
+student1010	10121009	Mobile_1402	football	76.7
+student1011	10121010	Mobile_1402	table tennis	86.4
+student1012	10121011	Mobile_1402	badminton	93
+student1013	10121012	Mobile_1402	volleyball	70.8
+student1014	10121013	Mobile_1402	badminton	80.8
+student1015	10121014	Mobile_1402	volleyball	74.6
+student1016	10121015	Mobile_1402	tennis	76.1
+student1017	10121016	Mobile_1402	volleyball	79.9
+student1018	10121017	Mobile_1402	swimming	88.3
+student1019	10121018	Mobile_1402	football	90
+student1020	10121019	Mobile_1402	football	73.1
+student1021	10121020	Mobile_1402	table tennis	83
+student1022	10121021	Mobile_1402	badminton	79
+student1023	10121022	Mobile_1402	volleyball	72.8
+student1024	10121023	Mobile_1402	tennis	62.4
+student1025	10121024	Mobile_1402	volleyball	79.7
+student1026	10121025	Mobile_1402	volleyball	69.8
+student1027	10121026	Mobile_1402	tennis	61.2
+student1028	10121027	Mobile_1402	volleyball	72.4
+student1029	10121028	Mobile_1402	basketball	87.7
+student1030	10121029	Mobile_1402	taekwondo	76.3
+student1031	10121030	Mobile_1403	taekwondo	82.7
+student1032	10121031	Mobile_1403	table tennis	80.5
+student1033	10121032	Mobile_1403	badminton	71.3
+student1034	10121033	Mobile_1403	tennis	69.8
+student1035	10121034	Mobile_1403	swimming	82.5
+student1036	10121035	Mobile_1403	volleyball	73.2
+student1037	10121036	Mobile_1403	football	72.9
+student1038	10121037	Mobile_1403	table tennis	80.1
+student1039	10121038	Mobile_1403	badminton	73.1
+student1040	10121039	Mobile_1403	swimming	77.7
+student1041	10121040	Mobile_1403	tennis	94.5
+student1042	10121041	Mobile_1403	volleyball	78.8
+student1043	10121042	Mobile_1403	badminton	81
+student1044	10121043	Mobile_1403	basketball	77.7
+student1045	10121044	Mobile_1403	tennis	87.7
+student1046	10121045	Mobile_1403	tennis	85.8
+student1047	10121046	Mobile_1403	badminton	67.9
+student1048	10121047	Mobile_1403	swimming	70.3
+student1049	10121048	Mobile_1403	table tennis	73.5
+student1050	10121049	Mobile_1403	badminton	88.9
+student1051	10121050	Mobile_1403	volleyball	77
+student1052	10121051	Mobile_1403	tennis	87.5
+student1053	10121052	Mobile_1403	badminton	83.4
+student1054	10121053	Mobile_1403	basketball	88.9
+student1055	10121054	Mobile_1403	table tennis	88
+student1056	10121055	Mobile_1403	table tennis	85
+student1057	10121056	Mobile_1403	table tennis	85.9
+student1058	10121057	Mobile_1403	table tennis	73
+student1059	10121058	Mobile_1403	taekwondo	80.7
+student1060	10121059	Mobile_1403	taekwondo	70.4
+student1061	10121060	Mobile_1403	football	79.3
+student1062	10121061	Mobile_1403	football	71.3
+student1063	10121062	Mobile_1403	gymnastics	76.9
+student1064	10121063	Mobile_1403	swimming	73.6
+student1065	10121064	Mobile_1403	swimming	84.7
+student1066	10121065	Mobile_1403	table tennis	76
+student1067	10121066	Mobile_1403	taekwondo	50.7
+student1068	10121067	Mobile_1403	taekwondo	73.1
+student1069	10121068	Mobile_1403	gymnastics	86.7
+student1070	10121069	Mobile_1403	gymnastics	79.3
+student1071	10121070	Mobile_1403	badminton	71.2
+student1072	10121071	Mobile_1403	taekwondo	87.4
+student1073	10121072	Mobile_1403	gymnastics	72.7
+student1074	10121073	Mobile_1403	table tennis	81
+student1075	10121074	Mobile_1403	taekwondo	85.4
+student1076	10121075	Mobile_1403	taekwondo	77.6
+student1077	10121076	Mobile_1403	football	86
+student1078	10121077	Mobile_1403	football	71.7
+student1079	10121078	Mobile_1403	gymnastics	83.6
+student1080	10121079	Mobile_1403	swimming	82.7
+student1081	10121080	Mobile_1403	swimming	64.5
+student1082	10121081	Mobile_1403	table tennis	76
+student1083	10121082	Mobile_1403	taekwondo	97.9
+student1084	10121083	Mobile_1403	taekwondo	75.7
+student1085	10121084	Mobile_1403	gymnastics	65.3
+student1086	10121085	Mobile_1403	gymnastics	93.7
+student1087	10121086	Mobile_1403	basketball	88.6
+student1088	10121087	Mobile_1403	basketball	77.9
+student1089	10121088	Mobile_1403	basketball	59.8
+student1090	10121089	Mobile_1403	gymnastics	72.2
+student1091	10121090	Mobile_1403	gymnastics	89.8
+student1092	10121091	Mobile_1403	basketball	73.9
+student1093	10121092	Mobile_1403	tennis	79.9
+student1094	10121093	Mobile_1403	gymnastics	70.7
+student1095	10121094	Mobile_1403	basketball	72.3
+student1096	10121095	Mobile_1403	gymnastics	92.5
+student1097	10121096	Mobile_1403	tennis	87.3
+student1098	10121097	Mobile_1403	basketball	92.3
+student1099	10121098	Mobile_1403	tennis	75.7
+student1100	10121099	Mobile_1403	badminton	75.9
+student1101	10121100	Mobile_1403	basketball	72.3
+student1102	10121101	Mobile_1404	football	68.8
+student1103	10121102	Mobile_1404	basketball	89.1
+student1104	10121103	Mobile_1404	football	70.2
+student1105	10121104	Mobile_1404	table tennis	77.9
+student1106	10121105	Mobile_1404	swimming	81
+student1107	10121106	Mobile_1404	swimming	83.8
+student1108	10121107	Mobile_1404	swimming	83.3
+student1109	10121108	Mobile_1404	football	86.5
+student1110	10121109	Mobile_1404	table tennis	75.3
+student1111	10121110	Mobile_1404	badminton	92.8
+student1112	10121111	Mobile_1404	volleyball	73.1
+student1113	10121112	Mobile_1404	badminton	57.9
+student1114	10121113	Mobile_1404	volleyball	80.3
+student1115	10121114	Mobile_1404	tennis	93
+student1116	10121115	Mobile_1404	volleyball	99.2
+student1117	10121116	Mobile_1404	swimming	95.6
+student1118	10121117	Mobile_1404	football	78.2
+student1119	10121118	Mobile_1404	football	71.8
+student1120	10121119	Mobile_1404	table tennis	82.7
+student1121	10121120	Mobile_1404	badminton	85.2
+student1122	10121121	Mobile_1404	volleyball	81.3
+student1123	10121122	Mobile_1404	tennis	92.3
+student1124	10121123	Mobile_1404	volleyball	83.6
+student1125	10121124	Mobile_1404	volleyball	80.2
+student1126	10121125	Mobile_1404	tennis	73.4
+student1127	10121126	Mobile_1404	volleyball	84.8
+student1128	10121127	Mobile_1404	basketball	94.5
+student1129	10121128	Mobile_1404	taekwondo	83.4
+student1130	10121129	Mobile_1404	taekwondo	84.8
+student1131	10121130	Mobile_1404	table tennis	77.7
+student1132	10121131	Mobile_1404	badminton	74
+student1133	10121132	Mobile_1404	tennis	78.1
+student1134	10121133	Mobile_1404	swimming	77.2
+student1135	10121134	Mobile_1404	volleyball	75.3
+student1136	10121135	Mobile_1404	football	76.9
+student1137	10121136	Mobile_1404	table tennis	67.7
+student1138	10121137	Mobile_1404	badminton	79.8
+student1139	10121138	Mobile_1404	swimming	87.8
+student1140	10121139	Mobile_1404	tennis	75.9
+student1141	10121140	Mobile_1404	volleyball	70.3
+student1142	10121141	Mobile_1404	badminton	74
+student1143	10121142	Mobile_1404	basketball	98.8
+student1144	10121143	Mobile_1404	tennis	73.8
+student1145	10121144	Mobile_1404	tennis	70.4
+student1146	10121145	Mobile_1404	badminton	71.1
+student1147	10121146	Mobile_1404	swimming	77.6
+student1148	10121147	Mobile_1404	table tennis	88.3
+student1149	10121148	Mobile_1404	badminton	89.7
+student1150	10121149	Mobile_1404	volleyball	63
+student1151	10121150	Mobile_1404	tennis	79.2
+student1152	10121151	Mobile_1405	badminton	75.9
+student1153	10121152	Mobile_1405	basketball	82.1
+student1154	10121153	Mobile_1405	table tennis	70.2
+student1155	10121154	Mobile_1405	table tennis	80.2
+student1156	10121155	Mobile_1405	table tennis	89.4
+student1157	10121156	Mobile_1405	table tennis	89.1
+student1158	10121157	Mobile_1405	taekwondo	71.9
+student1159	10121158	Mobile_1405	taekwondo	79.2
+student1160	10121159	Mobile_1405	football	78.2
+student1161	10121160	Mobile_1405	football	76.5
+student1162	10121161	Mobile_1405	gymnastics	85.8
+student1163	10121162	Mobile_1405	swimming	84.8
+student1164	10121163	Mobile_1405	swimming	87.7
+student1165	10121164	Mobile_1405	table tennis	78.9
+student1166	10121165	Mobile_1405	taekwondo	65.8
+student1167	10121166	Mobile_1405	taekwondo	81.5
+student1168	10121167	Mobile_1405	gymnastics	73.4
+student1169	10121168	Mobile_1405	gymnastics	82.2
+student1170	10121169	Mobile_1405	badminton	84.4
+student1171	10121170	Mobile_1405	taekwondo	88
+student1172	10121171	Mobile_1405	gymnastics	70.6
+student1173	10121172	Mobile_1405	table tennis	72
+student1174	10121173	Mobile_1405	taekwondo	70.1
+student1175	10121174	Mobile_1405	taekwondo	97.4
+student1176	10121175	Mobile_1405	football	87.8
+student1177	10121176	Mobile_1405	football	78.7
+student1178	10121177	Mobile_1405	gymnastics	77.1
+student1179	10121178	Mobile_1405	swimming	76.7
+student1180	10121179	Mobile_1405	swimming	74.7
+student1181	10121180	Mobile_1405	table tennis	99.2
+student1182	10121181	Mobile_1405	taekwondo	71.9
+student1183	10121182	Mobile_1405	taekwondo	96
+student1184	10121183	Mobile_1405	gymnastics	84.8
+student1185	10121184	Mobile_1405	gymnastics	71
+student1186	10121185	Mobile_1405	basketball	73.7
+student1187	10121186	Mobile_1405	basketball	72.6
+student1188	10121187	Mobile_1405	basketball	60.5
+student1189	10121188	Mobile_1405	gymnastics	88.3
+student1190	10121189	Mobile_1405	gymnastics	75.5
+student1191	10121190	Mobile_1405	basketball	83.7
+student1192	10121191	Mobile_1405	tennis	96.2
+student1193	10121192	Mobile_1405	gymnastics	85.7
+student1194	10121193	Mobile_1405	basketball	79.6
+student1195	10121194	Mobile_1405	gymnastics	83.6
+student1196	10121195	Mobile_1406	tennis	89.8
+student1197	10121196	Mobile_1406	basketball	94
+student1198	10121197	Mobile_1406	tennis	80.5
+student1199	10121198	Mobile_1406	table tennis	73
+student1200	10121199	Mobile_1406	badminton	84.8
+student1201	10121200	Mobile_1406	table tennis	79.5
+student1202	10121201	Mobile_1406	badminton	86.7
+student1203	10121202	Mobile_1406	swimming	83.7
+student1204	10121203	Mobile_1406	table tennis	85.7
+student1205	10121204	Mobile_1406	swimming	79.5
+student1206	10121205	Mobile_1406	table tennis	70.9
+student1207	10121206	Mobile_1406	badminton	74.5
+student1208	10121207	Mobile_1406	swimming	84.8
+student1209	10121208	Mobile_1406	badminton	74.3
+student1210	10121209	Mobile_1406	basketball	80.9
+student1211	10121210	Mobile_1406	football	71.4
+student1212	10121211	Mobile_1406	basketball	84.2
+student1213	10121212	Mobile_1406	football	97.5
+student1214	10121213	Mobile_1406	table tennis	84.2
+student1215	10121214	Mobile_1406	swimming	88.9
+student1216	10121215	Mobile_1406	swimming	89.5
+student1217	10121216	Mobile_1406	swimming	70.5
+student1218	10121217	Mobile_1406	football	73.4
+student1219	10121218	Mobile_1406	table tennis	76.7
+student1220	10121219	Mobile_1406	badminton	74.4
+student1221	10121220	Mobile_1406	volleyball	99.8
+student1222	10121221	Mobile_1406	badminton	77
+student1223	10121222	Mobile_1406	volleyball	72
+student1224	10121223	Mobile_1406	tennis	86
+student1225	10121224	Mobile_1406	volleyball	78.6
+student1226	10121225	Mobile_1406	swimming	71.7
+student1227	10121226	Mobile_1406	football	73.4
+student1228	10121227	Mobile_1406	football	89
+student1229	10121228	Mobile_1406	table tennis	72.5
+student1230	10121229	Mobile_1406	badminton	75.6
+student1231	10121230	Mobile_1406	volleyball	70.9
+student1232	10121231	Mobile_1406	tennis	88.1
+student1233	10121232	Mobile_1406	volleyball	69.1
+student1234	10121233	Mobile_1406	volleyball	77.4
+student1235	10121234	Mobile_1406	tennis	95.1
+student1236	10121235	Mobile_1406	volleyball	93.1
+student1237	10121236	Mobile_1406	basketball	66.5
+student1238	10121237	Mobile_1406	taekwondo	84.8
+student1239	10121238	IntOfTh_1401	taekwondo	86.2
+student1240	10121239	IntOfTh_1401	table tennis	89
+student1241	10121240	IntOfTh_1401	badminton	81.7
+student1242	10121241	IntOfTh_1401	tennis	82.8
+student1243	10121242	IntOfTh_1401	swimming	76.8
+student1244	10121243	IntOfTh_1401	volleyball	88.7
+student1245	10121244	IntOfTh_1401	football	75.1
+student1246	10121245	IntOfTh_1401	table tennis	71.9
+student1247	10121246	IntOfTh_1401	badminton	89.6
+student1248	10121247	IntOfTh_1401	swimming	95.4
+student1249	10121248	IntOfTh_1401	tennis	76.6
+student1250	10121249	IntOfTh_1401	volleyball	88.3
+student1251	10121250	IntOfTh_1401	badminton	68.6
+student1252	10121251	IntOfTh_1401	basketball	73.6
+student1253	10121252	IntOfTh_1401	tennis	82.6
+student1254	10121253	IntOfTh_1401	tennis	98.7
+student1255	10121254	IntOfTh_1401	badminton	87.5
+student1256	10121255	IntOfTh_1401	swimming	63.8
+student1257	10121256	IntOfTh_1401	table tennis	78.8
+student1258	10121257	IntOfTh_1401	badminton	87.4
+student1259	10121258	IntOfTh_1401	volleyball	76.4
+student1260	10121259	IntOfTh_1401	tennis	86.5
+student1261	10121260	IntOfTh_1401	badminton	96.2
+student1262	10121261	IntOfTh_1401	basketball	94.7
+student1263	10121262	IntOfTh_1401	table tennis	84.9
+student1264	10121263	IntOfTh_1401	table tennis	81.6
+student1265	10121264	IntOfTh_1401	table tennis	81.1
+student1266	10121265	IntOfTh_1401	table tennis	78.4
+student1267	10121266	IntOfTh_1401	taekwondo	73.5
+student1268	10121267	IntOfTh_1401	taekwondo	95.2
+student1269	10121268	IntOfTh_1401	football	88.6
+student1270	10121269	IntOfTh_1401	football	88.6
+student1271	10121270	IntOfTh_1401	gymnastics	87.6
+student1272	10121271	IntOfTh_1401	swimming	88.6
+student1273	10121272	IntOfTh_1401	swimming	86
+student1274	10121273	IntOfTh_1401	table tennis	89.3
+student1275	10121274	IntOfTh_1401	taekwondo	88
+student1276	10121275	IntOfTh_1401	taekwondo	86.3
+student1277	10121276	IntOfTh_1401	gymnastics	74.7
+student1278	10121277	IntOfTh_1401	gymnastics	78.8
+student1279	10121278	IntOfTh_1401	badminton	81.4
+student1280	10121279	IntOfTh_1401	taekwondo	83.2
+student1281	10121280	IntOfTh_1401	gymnastics	82.7
+student1282	10121281	IntOfTh_1401	table tennis	71.4
+student1283	10121282	IntOfTh_1401	taekwondo	74.8
+student1284	10121283	IntOfTh_1401	taekwondo	84.3
+student1285	10121284	IntOfTh_1401	football	84.8
+student1286	10121285	IntOfTh_1402	football	85.6
+student1287	10121286	IntOfTh_1402	gymnastics	85.4
+student1288	10121287	IntOfTh_1402	swimming	76.3
+student1289	10121288	IntOfTh_1402	swimming	68.1
+student1290	10121289	IntOfTh_1402	table tennis	77.5
+student1291	10121290	IntOfTh_1402	taekwondo	76.9
+student1292	10121291	IntOfTh_1402	taekwondo	76.8
+student1293	10121292	IntOfTh_1402	gymnastics	73.1
+student1294	10121293	IntOfTh_1402	gymnastics	86.2
+student1295	10121294	IntOfTh_1402	basketball	76.4
+student1296	10121295	IntOfTh_1402	basketball	78.1
+student1297	10121296	IntOfTh_1402	basketball	81.3
+student1298	10121297	IntOfTh_1402	gymnastics	81
+student1299	10121298	IntOfTh_1402	gymnastics	77.1
+student1300	10121299	IntOfTh_1402	basketball	91.9
+student1301	10121300	IntOfTh_1402	tennis	66.9
+student1302	10121301	IntOfTh_1402	gymnastics	60.6
+student1303	10121302	IntOfTh_1402	basketball	76.1
+student1304	10121303	IntOfTh_1402	gymnastics	85.9
+student1305	10121304	IntOfTh_1402	tennis	79.5
+student1306	10121305	IntOfTh_1402	basketball	78.5
+student1307	10121306	IntOfTh_1402	tennis	71
+student1308	10121307	IntOfTh_1402	badminton	62.4
+student1309	10121308	IntOfTh_1402	basketball	90.3
+student1310	10121309	IntOfTh_1402	football	81
+student1311	10121310	IntOfTh_1402	basketball	63
+student1312	10121311	IntOfTh_1402	football	64.4
+student1313	10121312	IntOfTh_1402	table tennis	79.2
+student1314	10121313	IntOfTh_1402	swimming	83.8
+student1315	10121314	IntOfTh_1402	swimming	90.8
+student1316	10121315	IntOfTh_1402	swimming	83.8
+student1317	10121316	IntOfTh_1402	football	82.5
+student1318	10121317	IntOfTh_1402	table tennis	82.1
+student1319	10121318	IntOfTh_1402	badminton	80.1
+student1320	10121319	IntOfTh_1402	volleyball	72.5
+student1321	10121320	IntOfTh_1402	badminton	83.9
+student1322	10121321	IntOfTh_1402	volleyball	75.6
+student1323	10121322	IntOfTh_1402	tennis	90.8
+student1324	10121323	IntOfTh_1402	volleyball	84.1
+student1325	10121324	IntOfTh_1402	swimming	97.2
+student1326	10121325	IntOfTh_1402	football	79.7
+student1327	10121326	IntOfTh_1402	football	98.6
+student1328	10121327	IntOfTh_1402	table tennis	64.4
+student1329	10121328	IntOfTh_1402	badminton	88.7
+student1330	10121329	IntOfTh_1402	volleyball	81.6
+student1331	10121330	IntOfTh_1402	tennis	72.6
+student1332	10121331	IntOfTh_1402	volleyball	78.2
+student1333	10121332	IntOfTh_1402	volleyball	80.9
+student1334	10121333	IntOfTh_1402	tennis	80
+student1335	10121334	IntOfTh_1402	volleyball	80.1
+student1336	10121335	IntOfTh_1402	basketball	69.4
+student1337	10121336	IntOfTh_1402	taekwondo	70.8
+student1338	10121337	IntOfTh_1402	taekwondo	75.4
+student1339	10121338	IntOfTh_1402	table tennis	86
+student1340	10121339	IntOfTh_1402	badminton	79.5
+student1341	10121340	IntOfTh_1402	tennis	83.9
+student1342	10121341	IntOfTh_1402	swimming	80
+student1343	10121342	IntOfTh_1402	volleyball	95.2
+student1344	10121343	IntOfTh_1402	football	78.3
+student1345	10121344	IntOfTh_1402	table tennis	72
+student1346	10121345	IntOfTh_1403	badminton	83
+student1347	10121346	IntOfTh_1403	swimming	84.2
+student1348	10121347	IntOfTh_1403	tennis	78.2
+student1349	10121348	IntOfTh_1403	volleyball	82.6
+student1350	10121349	IntOfTh_1403	badminton	81.1
+student1351	10121350	IntOfTh_1403	basketball	82.3
+student1352	10121351	IntOfTh_1403	tennis	72.3
+student1353	10121352	IntOfTh_1403	tennis	70.9
+student1354	10121353	IntOfTh_1403	badminton	91.5
+student1355	10121354	IntOfTh_1403	swimming	82.7
+student1356	10121355	IntOfTh_1403	table tennis	85.3
+student1357	10121356	IntOfTh_1403	badminton	78.8
+student1358	10121357	IntOfTh_1403	volleyball	88.6
+student1359	10121358	IntOfTh_1403	tennis	85.7
+student1360	10121359	IntOfTh_1403	badminton	78.1
+student1361	10121360	IntOfTh_1403	basketball	80.8
+student1362	10121361	IntOfTh_1403	table tennis	71.2
+student1363	10121362	IntOfTh_1403	table tennis	80.9
+student1364	10121363	IntOfTh_1403	table tennis	56.5
+student1365	10121364	IntOfTh_1403	table tennis	79.9
+student1366	10121365	IntOfTh_1403	taekwondo	78
+student1367	10121366	IntOfTh_1403	taekwondo	73.6
+student1368	10121367	IntOfTh_1403	football	69.5
+student1369	10121368	IntOfTh_1403	football	74.9
+student1370	10121369	IntOfTh_1403	gymnastics	74.6
+student1371	10121370	IntOfTh_1403	swimming	80.9
+student1372	10121371	IntOfTh_1403	swimming	84.7
+student1373	10121372	IntOfTh_1403	table tennis	86.8
+student1374	10121373	IntOfTh_1403	taekwondo	88.8
+student1375	10121374	IntOfTh_1403	taekwondo	81.1
+student1376	10121375	IntOfTh_1403	gymnastics	76.8
+student1377	10121376	IntOfTh_1403	gymnastics	86.6
+student1378	10121377	IntOfTh_1403	badminton	83.2
+student1379	10121378	IntOfTh_1403	taekwondo	82.3
+student1380	10121379	IntOfTh_1403	gymnastics	88.1
+student1381	10121380	IntOfTh_1403	table tennis	88.7
+student1382	10121381	IntOfTh_1403	taekwondo	74.1
+student1383	10121382	IntOfTh_1403	taekwondo	89.1
+student1384	10121383	IntOfTh_1403	football	79
+student1385	10121384	IntOfTh_1403	football	94.7
+student1386	10121385	IntOfTh_1403	gymnastics	70.8
+student1387	10121386	IntOfTh_1403	swimming	78.9
+student1388	10121387	IntOfTh_1403	swimming	79.9
+student1389	10121388	IntOfTh_1403	table tennis	83.4
+student1390	10121389	IntOfTh_1403	taekwondo	75.9
+student1391	10121390	IntOfTh_1403	taekwondo	78.3
+student1392	10121391	IntOfTh_1403	gymnastics	73.1
+student1393	10121392	IntOfTh_1403	gymnastics	73.4
+student1394	10121393	IntOfTh_1403	basketball	84.2
+student1395	10121394	IntOfTh_1403	basketball	79.9
+student1396	10121395	IntOfTh_1403	basketball	78.4
+student1397	10121396	IntOfTh_1403	gymnastics	70.5
+student1398	10121397	IntOfTh_1403	gymnastics	62.5
+student1399	10121398	IntOfTh_1403	basketball	83.5
+student1400	10121399	IntOfTh_1403	tennis	74.5
+student1401	10121400	IntOfTh_1404	gymnastics	92.9
+student1402	10121401	IntOfTh_1404	basketball	77.3
+student1403	10121402	IntOfTh_1404	gymnastics	78.4
+student1404	10121403	IntOfTh_1404	tennis	61.5
+student1405	10121404	IntOfTh_1404	basketball	99.3
+student1406	10121405	IntOfTh_1404	tennis	77.2
+student1407	10121406	IntOfTh_1404	badminton	71.1
+student1408	10121407	IntOfTh_1404	basketball	69.4
+student1409	10121408	IntOfTh_1404	football	88.5
+student1410	10121409	IntOfTh_1404	basketball	72
+student1411	10121410	IntOfTh_1404	football	73.1
+student1412	10121411	IntOfTh_1404	table tennis	54.6
+student1413	10121412	IntOfTh_1404	swimming	71.8
+student1414	10121413	IntOfTh_1404	swimming	80.5
+student1415	10121414	IntOfTh_1404	swimming	80.2
+student1416	10121415	IntOfTh_1404	football	81.3
+student1417	10121416	IntOfTh_1404	table tennis	71.3
+student1418	10121417	IntOfTh_1404	badminton	86.8
+student1419	10121418	IntOfTh_1404	volleyball	80.1
+student1420	10121419	IntOfTh_1404	badminton	71.6
+student1421	10121420	IntOfTh_1404	volleyball	92.5
+student1422	10121421	IntOfTh_1404	tennis	74.8
+student1423	10121422	IntOfTh_1404	volleyball	97.7
+student1424	10121423	IntOfTh_1404	swimming	75.3
+student1425	10121424	IntOfTh_1404	football	86.5
+student1426	10121425	IntOfTh_1404	football	78.8
+student1427	10121426	IntOfTh_1404	table tennis	92.8
+student1428	10121427	IntOfTh_1404	badminton	85.4
+student1429	10121428	IntOfTh_1404	volleyball	85.2
+student1430	10121429	IntOfTh_1404	tennis	88.4
+student1431	10121430	IntOfTh_1404	volleyball	60.1
+student1432	10121431	IntOfTh_1404	volleyball	80.5
+student1433	10121432	IntOfTh_1404	tennis	82.3
+student1434	10121433	IntOfTh_1404	volleyball	88.9
+student1435	10121434	IntOfTh_1404	basketball	79.9
+student1436	10121435	IntOfTh_1404	taekwondo	91.1
+student1437	10121436	IntOfTh_1404	taekwondo	79.9
+student1438	10121437	IntOfTh_1404	table tennis	78.2
+student1439	10121438	IntOfTh_1404	badminton	84.7
+student1440	10121439	IntOfTh_1404	tennis	74.5
+student1441	10121440	IntOfTh_1404	swimming	66.3
+student1442	10121441	IntOfTh_1404	volleyball	71.3
+student1443	10121442	IntOfTh_1404	football	82.6
+student1444	10121443	IntOfTh_1404	table tennis	81.1
+student1445	10121444	IntOfTh_1404	badminton	74.3
+student1446	10121445	IntOfTh_1404	swimming	74.6
+student1447	10121446	IntOfTh_1404	tennis	77.4
+student1448	10121447	IntOfTh_1404	volleyball	80.2
+student1449	10121448	IntOfTh_1404	badminton	81.4
+student1450	10121449	IntOfTh_1404	basketball	81.6
+student1451	10121450	IntOfTh_1404	tennis	84.3
+student1452	10121451	IntOfTh_1404	tennis	77.5
+student1453	10121452	IntOfTh_1404	badminton	74.5
+student1454	10121453	IntOfTh_1404	swimming	84.4
+student1455	10121454	IntOfTh_1404	table tennis	85.1
+student1456	10121455	IntOfTh_1404	badminton	71.6
+student1457	10121456	IntOfTh_1404	volleyball	88.7
+student1458	10121457	IntOfTh_1404	tennis	79.8
+student1459	10121458	IntOfTh_1404	badminton	82.8
+student1460	10121459	IntOfTh_1404	basketball	79.4
+student1461	10121460	IntOfTh_1404	table tennis	86.1
+student1462	10121461	IntOfTh_1404	table tennis	72.9
+student1463	10121462	IntOfTh_1405	table tennis	71
+student1464	10121463	IntOfTh_1405	table tennis	83
+student1465	10121464	IntOfTh_1405	taekwondo	88.3
+student1466	10121465	IntOfTh_1405	taekwondo	77.6
+student1467	10121466	IntOfTh_1405	football	79
+student1468	10121467	IntOfTh_1405	football	82.6
+student1469	10121468	IntOfTh_1405	gymnastics	77.4
+student1470	10121469	IntOfTh_1405	swimming	85.4
+student1471	10121470	IntOfTh_1405	swimming	72.4
+student1472	10121471	IntOfTh_1405	table tennis	90
+student1473	10121472	IntOfTh_1405	taekwondo	68.7
+student1474	10121473	IntOfTh_1405	taekwondo	83
+student1475	10121474	IntOfTh_1405	gymnastics	97.1
+student1476	10121475	IntOfTh_1405	gymnastics	76.3
+student1477	10121476	IntOfTh_1405	badminton	71.3
+student1478	10121477	IntOfTh_1405	taekwondo	80.2
+student1479	10121478	IntOfTh_1405	gymnastics	73.4
+student1480	10121479	IntOfTh_1405	table tennis	80.6
+student1481	10121480	IntOfTh_1405	taekwondo	76
+student1482	10121481	IntOfTh_1405	taekwondo	86.4
+student1483	10121482	IntOfTh_1405	football	73.1
+student1484	10121483	IntOfTh_1405	football	81.9
+student1485	10121484	IntOfTh_1405	gymnastics	85
+student1486	10121485	IntOfTh_1405	swimming	77.5
+student1487	10121486	IntOfTh_1405	swimming	69.1
+student1488	10121487	IntOfTh_1405	table tennis	95.6
+student1489	10121488	IntOfTh_1405	taekwondo	67.1
+student1490	10121489	IntOfTh_1405	taekwondo	85.8
+student1491	10121490	IntOfTh_1405	gymnastics	82.6
+student1492	10121491	IntOfTh_1405	gymnastics	91.5
+student1493	10121492	IntOfTh_1405	basketball	89.8
+student1494	10121493	IntOfTh_1405	basketball	75.4
+student1495	10121494	IntOfTh_1405	basketball	70.2
+student1496	10121495	IntOfTh_1405	gymnastics	87.9
+student1497	10121496	IntOfTh_1405	gymnastics	82
+student1498	10121497	IntOfTh_1405	basketball	66.5
+student1499	10121498	IntOfTh_1405	tennis	88.2
+student1500	10121499	IntOfTh_1405	gymnastics	87.6
+student1501	10121500	IntOfTh_1405	basketball	77.6
+student1502	10121501	IntOfTh_1405	gymnastics	89.3
+student1503	10121502	IntOfTh_1405	tennis	93
+student1504	10121503	IntOfTh_1405	basketball	71.8
+student1505	10121504	IntOfTh_1405	tennis	84.7
+student1506	10121505	IntOfTh_1405	badminton	70.7
+student1507	10121506	IntOfTh_1406	basketball	84.8
+student1508	10121507	IntOfTh_1406	football	71.6
+student1509	10121508	IntOfTh_1406	basketball	92
+student1510	10121509	IntOfTh_1406	football	82.1
+student1511	10121510	IntOfTh_1406	table tennis	79.6
+student1512	10121511	IntOfTh_1406	swimming	79.3
+student1513	10121512	IntOfTh_1406	swimming	88.9
+student1514	10121513	IntOfTh_1406	swimming	85.4
+student1515	10121514	IntOfTh_1406	football	80.3
+student1516	10121515	IntOfTh_1406	table tennis	71.9
+student1517	10121516	IntOfTh_1406	badminton	86.4
+student1518	10121517	IntOfTh_1406	volleyball	75.2
+student1519	10121518	IntOfTh_1406	badminton	73.3
+student1520	10121519	IntOfTh_1406	volleyball	79.7
+student1521	10121520	IntOfTh_1406	tennis	78.8
+student1522	10121521	IntOfTh_1406	volleyball	83.1
+student1523	10121522	IntOfTh_1406	swimming	89.9
+student1524	10121523	IntOfTh_1406	football	71.3
+student1525	10121524	IntOfTh_1406	football	76.4
+student1526	10121525	IntOfTh_1406	table tennis	85
+student1527	10121526	IntOfTh_1406	badminton	73.5
+student1528	10121527	IntOfTh_1406	volleyball	86.6
+student1529	10121528	IntOfTh_1406	tennis	81.8
+student1530	10121529	IntOfTh_1406	volleyball	75.1
+student1531	10121530	IntOfTh_1406	volleyball	84.4
+student1532	10121531	IntOfTh_1406	tennis	85.2
+student1533	10121532	IntOfTh_1406	volleyball	70.7
+student1534	10121533	IntOfTh_1406	basketball	73.6
+student1535	10121534	IntOfTh_1406	taekwondo	93.5
+student1536	10121535	IntOfTh_1406	taekwondo	70.8
+student1537	10121536	IntOfTh_1406	table tennis	75.2
+student1538	10121537	IntOfTh_1406	badminton	65.4
+student1539	10121538	IntOfTh_1406	tennis	83.8
+student1540	10121539	IntOfTh_1406	swimming	77.3
+student1541	10121540	IntOfTh_1406	volleyball	77.7
+student1542	10121541	IntOfTh_1406	football	72.5
+student1543	10121542	IntOfTh_1406	table tennis	98.3
+student1544	10121543	IntOfTh_1406	badminton	69.3
+student1545	10121544	IntOfTh_1406	swimming	86.2
+student1546	10121545	IntOfTh_1406	tennis	70.7
+student1547	10121546	IntOfTh_1406	volleyball	92.2
+student1548	10121547	IntOfTh_1406	badminton	75.6
+student1549	10121548	IntOfTh_1406	basketball	90.5
+student1550	10121549	IntOfTh_1406	tennis	80.8
+student1551	10121550	IntOfTh_1406	tennis	94.6
+student1552	10121551	IntOfTh_1406	badminton	86.9
+student1553	10121552	IntOfTh_1406	swimming	74.5
+student1554	10121553	IntOfTh_1406	table tennis	80.3
+student1555	10121554	IntOfTh_1406	badminton	70.5
+student1556	10121555	IntOfTh_1407	volleyball	78.8
+student1557	10121556	IntOfTh_1407	tennis	95.8
+student1558	10121557	IntOfTh_1407	badminton	76.1
+student1559	10121558	IntOfTh_1407	basketball	93.8
+student1560	10121559	IntOfTh_1407	table tennis	70.9
+student1561	10121560	IntOfTh_1407	table tennis	82.5
+student1562	10121561	IntOfTh_1407	table tennis	88.7
+student1563	10121562	IntOfTh_1407	table tennis	80.6
+student1564	10121563	IntOfTh_1407	taekwondo	84.8
+student1565	10121564	IntOfTh_1407	taekwondo	84.9
+student1566	10121565	IntOfTh_1407	football	73.8
+student1567	10121566	IntOfTh_1407	football	80
+student1568	10121567	IntOfTh_1407	gymnastics	84.9
+student1569	10121568	IntOfTh_1407	swimming	77.5
+student1570	10121569	IntOfTh_1407	swimming	81.6
+student1571	10121570	IntOfTh_1407	table tennis	81.2
+student1572	10121571	IntOfTh_1407	taekwondo	90.7
+student1573	10121572	IntOfTh_1407	taekwondo	82.5
+student1574	10121573	IntOfTh_1407	gymnastics	77.3
+student1575	10121574	IntOfTh_1407	gymnastics	93.3
+student1576	10121575	IntOfTh_1407	badminton	76.8
+student1577	10121576	IntOfTh_1407	taekwondo	79.1
+student1578	10121577	IntOfTh_1407	gymnastics	86.6
+student1579	10121578	IntOfTh_1407	table tennis	77.7
+student1580	10121579	IntOfTh_1407	taekwondo	70.4
+student1581	10121580	IntOfTh_1407	taekwondo	82.5
+student1582	10121581	IntOfTh_1407	football	72.6
+student1583	10121582	IntOfTh_1407	football	87.7
+student1584	10121583	IntOfTh_1407	gymnastics	79.5
+student1585	10121584	IntOfTh_1407	swimming	71.3
+student1586	10121585	IntOfTh_1407	swimming	72.6
+student1587	10121586	IntOfTh_1407	table tennis	76.4
+student1588	10121587	IntOfTh_1407	taekwondo	74.1
+student1589	10121588	IntOfTh_1407	taekwondo	99.3
+student1590	10121589	IntOfTh_1407	gymnastics	72
+student1591	10121590	IntOfTh_1407	gymnastics	87.2
+student1592	10121591	IntOfTh_1407	basketball	76.1
+student1593	10121592	IntOfTh_1407	basketball	78.5
+student1594	10121593	IntOfTh_1407	basketball	80.5
+student1595	10121594	IntOfTh_1407	gymnastics	83.4
+student1596	10121595	IntOfTh_1407	gymnastics	92.9
+student1597	10121596	IntOfTh_1407	basketball	84.7
+student1598	10121597	IntOfTh_1407	tennis	82.3
+student1599	10121598	IntOfTh_1407	gymnastics	80.7
+student1600	10121599	IntOfTh_1407	basketball	83.9
+student1601	10121600	IntOfTh_1407	gymnastics	71.5
+student1602	10121601	IntOfTh_1407	tennis	84
+student1603	10121602	IntOfTh_1408	basketball	81.3
+student1604	10121603	IntOfTh_1408	tennis	97.2
+student1605	10121604	IntOfTh_1408	badminton	86.6
+student1606	10121605	IntOfTh_1408	basketball	82.4
+student1607	10121606	IntOfTh_1408	football	74.6
+student1608	10121607	IntOfTh_1408	basketball	77.7
+student1609	10121608	IntOfTh_1408	football	81.1
+student1610	10121609	IntOfTh_1408	table tennis	80.7
+student1611	10121610	IntOfTh_1408	swimming	77.4
+student1612	10121611	IntOfTh_1408	swimming	85.1
+student1613	10121612	IntOfTh_1408	swimming	86.3
+student1614	10121613	IntOfTh_1408	football	53.3
+student1615	10121614	IntOfTh_1408	table tennis	85.5
+student1616	10121615	IntOfTh_1408	badminton	72.4
+student1617	10121616	IntOfTh_1408	volleyball	82
+student1618	10121617	IntOfTh_1408	badminton	75.6
+student1619	10121618	IntOfTh_1408	volleyball	81.3
+student1620	10121619	IntOfTh_1408	tennis	70.6
+student1621	10121620	IntOfTh_1408	volleyball	82.7
+student1622	10121621	IntOfTh_1408	swimming	98.6
+student1623	10121622	IntOfTh_1408	football	70.6
+student1624	10121623	IntOfTh_1408	football	71.4
+student1625	10121624	IntOfTh_1408	table tennis	79
+student1626	10121625	IntOfTh_1408	badminton	78.5
+student1627	10121626	IntOfTh_1408	volleyball	88.1
+student1628	10121627	IntOfTh_1408	tennis	87.4
+student1629	10121628	IntOfTh_1408	volleyball	95.4
+student1630	10121629	IntOfTh_1408	volleyball	75.5
+student1631	10121630	IntOfTh_1408	tennis	87.3
+student1632	10121631	IntOfTh_1408	volleyball	63.3
+student1633	10121632	IntOfTh_1408	basketball	89.3
+student1634	10121633	IntOfTh_1408	taekwondo	74
+student1635	10121634	IntOfTh_1408	taekwondo	75.8
+student1636	10121635	IntOfTh_1408	table tennis	91.7
+student1637	10121636	IntOfTh_1408	badminton	72.2
+student1638	10121637	IntOfTh_1408	tennis	75.4
+student1639	10121638	IntOfTh_1408	swimming	61.3
+student1640	10121639	IntOfTh_1408	volleyball	62.1
+student1641	10121640	IntOfTh_1408	football	97
+student1642	10121641	IntOfTh_1408	table tennis	85.6
+student1643	10121642	IntOfTh_1408	badminton	82.4
+student1644	10121643	IntOfTh_1408	swimming	71.6
+student1645	10121644	IntOfTh_1408	tennis	89.5
+student1646	10121645	IntOfTh_1408	volleyball	94.9
+student1647	10121646	IntOfTh_1408	badminton	84.4
+student1648	10121647	IntOfTh_1408	basketball	73.6
+student1649	10121648	IntOfTh_1408	tennis	86.8
+student1650	10121649	IntOfTh_1408	tennis	74.5
+student1651	10121650	IntOfTh_1408	badminton	61.7
+student1652	10121651	IntOfTh_1408	swimming	74.3
+student1653	10121652	IntOfTh_1408	table tennis	84.3
+student1654	10121653	IntOfTh_1408	badminton	74.3
+student1655	10121654	IntOfTh_1408	volleyball	86.4
+student1656	10121655	IntOfTh_1408	tennis	79.7
+student1657	10121656	IntOfTh_1408	badminton	72.1
+student1658	10121657	IntOfTh_1408	basketball	75.2
+student1659	10121658	IntOfTh_1409	table tennis	87.2
+student1660	10121659	IntOfTh_1409	table tennis	87
+student1661	10121660	IntOfTh_1409	table tennis	73.6
+student1662	10121661	IntOfTh_1409	table tennis	83.3
+student1663	10121662	IntOfTh_1409	taekwondo	78.2
+student1664	10121663	IntOfTh_1409	taekwondo	60.3
+student1665	10121664	IntOfTh_1409	football	61.6
+student1666	10121665	IntOfTh_1409	football	63.4
+student1667	10121666	IntOfTh_1409	gymnastics	79
+student1668	10121667	IntOfTh_1409	swimming	72.7
+student1669	10121668	IntOfTh_1409	swimming	73.6
+student1670	10121669	IntOfTh_1409	table tennis	87.9
+student1671	10121670	IntOfTh_1409	taekwondo	89
+student1672	10121671	IntOfTh_1409	taekwondo	82.7
+student1673	10121672	IntOfTh_1409	gymnastics	61.2
+student1674	10121673	IntOfTh_1409	gymnastics	76.7
+student1675	10121674	IntOfTh_1409	badminton	86.2
+student1676	10121675	IntOfTh_1409	taekwondo	84.5
+student1677	10121676	IntOfTh_1409	gymnastics	92.4
+student1678	10121677	IntOfTh_1409	table tennis	75.8
+student1679	10121678	IntOfTh_1409	taekwondo	71.1
+student1680	10121679	IntOfTh_1409	taekwondo	64.2
+student1681	10121680	IntOfTh_1409	football	88.4
+student1682	10121681	IntOfTh_1409	football	69.7
+student1683	10121682	IntOfTh_1409	gymnastics	94.3
+student1684	10121683	IntOfTh_1409	swimming	60.4
+student1685	10121684	IntOfTh_1409	swimming	80.3
+student1686	10121685	IntOfTh_1409	table tennis	78.7
+student1687	10121686	IntOfTh_1409	taekwondo	77.1
+student1688	10121687	IntOfTh_1409	taekwondo	75.5
+student1689	10121688	IntOfTh_1409	gymnastics	85.4
+student1690	10121689	IntOfTh_1409	gymnastics	82.4
+student1691	10121690	IntOfTh_1409	basketball	74.3
+student1692	10121691	IntOfTh_1409	basketball	72.1
+student1693	10121692	IntOfTh_1409	basketball	79.1
+student1694	10121693	IntOfTh_1409	gymnastics	86.5
+student1695	10121694	IntOfTh_1409	gymnastics	73.8
+student1696	10121695	IntOfTh_1409	basketball	81.6
+student1697	10121696	IntOfTh_1409	tennis	96.4
+student1698	10121697	IntOfTh_1409	gymnastics	89.2
+student1699	10121698	IntOfTh_1409	basketball	91.2
+student1700	10121699	IntOfTh_1409	gymnastics	72.3
+student1701	10121700	IntOfTh_1409	tennis	72.7
+student1702	10121701	IntOfTh_1409	basketball	75.3
+student1703	10121702	IntOfTh_1409	tennis	82.8
+student1704	10121703	IntOfTh_1409	badminton	66.6
+student1705	10121704	ClOfih_1401	basketball	82.6
+student1706	10121705	ClOfih_1401	football	82.5
+student1707	10121706	ClOfih_1401	basketball	96
+student1708	10121707	ClOfih_1401	football	75.5
+student1709	10121708	ClOfih_1401	table tennis	76.3
+student1710	10121709	ClOfih_1401	swimming	78.3
+student1711	10121710	ClOfih_1401	swimming	76.4
+student1712	10121711	ClOfih_1401	swimming	90.6
+student1713	10121712	ClOfih_1401	football	78
+student1714	10121713	ClOfih_1401	table tennis	82.9
+student1715	10121714	ClOfih_1401	badminton	79.2
+student1716	10121715	ClOfih_1401	volleyball	72.4
+student1717	10121716	ClOfih_1401	badminton	61
+student1718	10121717	ClOfih_1401	volleyball	85.2
+student1719	10121718	ClOfih_1401	tennis	79.7
+student1720	10121719	ClOfih_1401	volleyball	80.8
+student1721	10121720	ClOfih_1401	swimming	78.3
+student1722	10121721	ClOfih_1401	football	99.2
+student1723	10121722	ClOfih_1401	football	70
+student1724	10121723	ClOfih_1401	table tennis	89.9
+student1725	10121724	ClOfih_1401	badminton	85.6
+student1726	10121725	ClOfih_1401	volleyball	92.8
+student1727	10121726	ClOfih_1401	tennis	86.7
+student1728	10121727	ClOfih_1401	volleyball	85.8
+student1729	10121728	ClOfih_1401	volleyball	81.1
+student1730	10121729	ClOfih_1401	tennis	71.4
+student1731	10121730	ClOfih_1401	volleyball	86.4
+student1732	10121731	ClOfih_1401	basketball	70.2
+student1733	10121732	ClOfih_1401	taekwondo	84.6
+student1734	10121733	ClOfih_1401	taekwondo	76.7
+student1735	10121734	ClOfih_1401	table tennis	91.3
+student1736	10121735	ClOfih_1401	badminton	85.6
+student1737	10121736	ClOfih_1401	tennis	96.8
+student1738	10121737	ClOfih_1401	swimming	73.8
+student1739	10121738	ClOfih_1401	volleyball	74.1
+student1740	10121739	ClOfih_1401	football	62.3
+student1741	10121740	ClOfih_1401	table tennis	68.9
+student1742	10121741	ClOfih_1401	badminton	97.1
+student1743	10121742	ClOfih_1401	swimming	73.2
+student1744	10121743	ClOfih_1401	tennis	78.9
+student1745	10121744	ClOfih_1401	volleyball	71.4
+student1746	10121745	ClOfih_1401	badminton	70.8
+student1747	10121746	ClOfih_1401	basketball	89.5
+student1748	10121747	ClOfih_1401	tennis	86.5
+student1749	10121748	ClOfih_1402	tennis	87.4
+student1750	10121749	ClOfih_1402	badminton	75.5
+student1751	10121750	ClOfih_1402	swimming	84.2
+student1752	10121751	ClOfih_1402	table tennis	81.7
+student1753	10121752	ClOfih_1402	badminton	63.5
+student1754	10121753	ClOfih_1402	volleyball	65.7
+student1755	10121754	ClOfih_1402	tennis	81.9
+student1756	10121755	ClOfih_1402	badminton	83
+student1757	10121756	ClOfih_1402	basketball	61.1
+student1758	10121757	ClOfih_1402	table tennis	85
+student1759	10121758	ClOfih_1402	table tennis	96.2
+student1760	10121759	ClOfih_1402	table tennis	90.6
+student1761	10121760	ClOfih_1402	table tennis	80.4
+student1762	10121761	ClOfih_1402	taekwondo	77.6
+student1763	10121762	ClOfih_1402	taekwondo	86.1
+student1764	10121763	ClOfih_1402	football	71.8
+student1765	10121764	ClOfih_1402	football	71.9
+student1766	10121765	ClOfih_1402	gymnastics	80.1
+student1767	10121766	ClOfih_1402	swimming	88.7
+student1768	10121767	ClOfih_1402	swimming	82.6
+student1769	10121768	ClOfih_1402	table tennis	65.3
+student1770	10121769	ClOfih_1402	taekwondo	73.1
+student1771	10121770	ClOfih_1402	taekwondo	97
+student1772	10121771	ClOfih_1402	gymnastics	66
+student1773	10121772	ClOfih_1402	gymnastics	74.2
+student1774	10121773	ClOfih_1402	badminton	72.6
+student1775	10121774	ClOfih_1402	taekwondo	86.7
+student1776	10121775	ClOfih_1402	gymnastics	77.5
+student1777	10121776	ClOfih_1402	table tennis	74.9
+student1778	10121777	ClOfih_1402	taekwondo	79.3
+student1779	10121778	ClOfih_1402	taekwondo	84
+student1780	10121779	ClOfih_1402	football	74.4
+student1781	10121780	ClOfih_1402	football	78.4
+student1782	10121781	ClOfih_1402	gymnastics	91.7
+student1783	10121782	ClOfih_1402	swimming	71.5
+student1784	10121783	ClOfih_1402	swimming	96.7
+student1785	10121784	ClOfih_1402	table tennis	86.5
+student1786	10121785	ClOfih_1403	taekwondo	76.4
+student1787	10121786	ClOfih_1403	taekwondo	71.2
+student1788	10121787	ClOfih_1403	gymnastics	83.3
+student1789	10121788	ClOfih_1403	gymnastics	70.8
+student1790	10121789	ClOfih_1403	basketball	85.8
+student1791	10121790	ClOfih_1403	basketball	71.6
+student1792	10121791	ClOfih_1403	basketball	71.1
+student1793	10121792	ClOfih_1403	gymnastics	85.3
+student1794	10121793	ClOfih_1403	gymnastics	81.1
+student1795	10121794	ClOfih_1403	basketball	90.3
+student1796	10121795	ClOfih_1403	tennis	77.1
+student1797	10121796	ClOfih_1403	gymnastics	75.4
+student1798	10121797	ClOfih_1403	basketball	74
+student1799	10121798	ClOfih_1403	gymnastics	82.6
+student1800	10121799	ClOfih_1403	tennis	80
+student1801	10121800	ClOfih_1403	basketball	90.8
+student1802	10121801	ClOfih_1403	tennis	89.9
+student1803	10121802	ClOfih_1403	table tennis	76.2
+student1804	10121803	ClOfih_1403	badminton	79.9
+student1805	10121804	ClOfih_1403	table tennis	84.5
+student1806	10121805	ClOfih_1403	badminton	76.2
+student1807	10121806	ClOfih_1403	swimming	86.1
+student1808	10121807	ClOfih_1403	table tennis	74.7
+student1809	10121808	ClOfih_1403	swimming	81.4
+student1810	10121809	ClOfih_1403	table tennis	85.1
+student1811	10121810	ClOfih_1403	badminton	83.5
+student1812	10121811	ClOfih_1403	swimming	75.6
+student1813	10121812	ClOfih_1403	swimming	74.9
+student1814	10121813	ClOfih_1403	basketball	79.7
+student1815	10121814	ClOfih_1403	football	84.1
+student1816	10121815	ClOfih_1403	volleyball	87.7
+student1817	10121816	ClOfih_1403	volleyball	80.2
+student1818	10121817	ClOfih_1403	table tennis	81.3
+student1819	10121818	ClOfih_1403	badminton	78.4
+student1820	10121819	ClOfih_1403	badminton	72.6
+student1821	10121820	ClOfih_1403	basketball	84.4
+student1822	10121821	ClOfih_1403	football	79
+student1823	10121822	ClOfih_1403	basketball	87.5
+student1824	10121823	ClOfih_1403	football	70.3
+student1825	10121824	ClOfih_1403	table tennis	69.9
+student1826	10121825	ClOfih_1404	swimming	64.9
+student1827	10121826	ClOfih_1404	swimming	73
+student1828	10121827	ClOfih_1404	swimming	88.4
+student1829	10121828	ClOfih_1404	football	69.6
+student1830	10121829	ClOfih_1404	table tennis	74.5
+student1831	10121830	ClOfih_1404	badminton	84.9
+student1832	10121831	ClOfih_1404	volleyball	79.7
+student1833	10121832	ClOfih_1404	badminton	81.3
+student1834	10121833	ClOfih_1404	volleyball	50.2
+student1835	10121834	ClOfih_1404	tennis	75.4
+student1836	10121835	ClOfih_1404	volleyball	83.8
+student1837	10121836	ClOfih_1404	swimming	93.4
+student1838	10121837	ClOfih_1404	football	60.2
+student1839	10121838	ClOfih_1404	football	84.6
+student1840	10121839	ClOfih_1404	table tennis	89.1
+student1841	10121840	ClOfih_1404	badminton	86.4
+student1842	10121841	ClOfih_1404	volleyball	89.1
+student1843	10121842	ClOfih_1404	tennis	92.9
+student1844	10121843	ClOfih_1404	volleyball	76.3
+student1845	10121844	ClOfih_1404	volleyball	79.7
+student1846	10121845	ClOfih_1404	tennis	71.9
+student1847	10121846	ClOfih_1404	volleyball	98.5
+student1848	10121847	ClOfih_1404	basketball	81.7
+student1849	10121848	ClOfih_1404	taekwondo	67.6
+student1850	10121849	ClOfih_1404	taekwondo	81.5
+student1851	10121850	ClOfih_1404	table tennis	93.9
+student1852	10121851	ClOfih_1404	badminton	88.4
+student1853	10121852	ClOfih_1404	tennis	82.7
+student1854	10121853	ClOfih_1404	swimming	85.8
+student1855	10121854	ClOfih_1404	volleyball	70.2
+student1856	10121855	ClOfih_1404	football	61.6
+student1857	10121856	ClOfih_1404	table tennis	59.2
+student1858	10121857	ClOfih_1404	badminton	73.3
+student1859	10121858	ClOfih_1404	swimming	84.5
+student1860	10121859	ClOfih_1404	tennis	72.5
+student1861	10121860	ClOfih_1404	volleyball	77.8
+student1862	10121861	ClOfih_1404	badminton	78.3
+student1863	10121862	ClOfih_1404	basketball	89.8
+student1864	10121863	ClOfih_1404	tennis	76.9
+student1865	10121864	ClOfih_1404	tennis	87.7
+student1866	10121865	ClOfih_1404	badminton	71.4
+student1867	10121866	ClOfih_1404	swimming	85.8
+student1868	10121867	ClOfih_1404	table tennis	70.5
+student1869	10121868	ClOfih_1404	badminton	76.4
+student1870	10121869	ClOfih_1404	volleyball	75.3
+student1871	10121870	ClOfih_1404	tennis	74.5
+student1872	10121871	ClOfih_1404	badminton	73.2
+student1873	10121872	ClOfih_1404	basketball	92.6
+student1874	10121873	ClOfih_1404	table tennis	78
+student1875	10121874	ClOfih_1404	table tennis	72.6
+student1876	10121875	ClOfih_1404	table tennis	84.4
+student1877	10121876	ClOfih_1404	table tennis	91.6
+student1878	10121877	ClOfih_1404	taekwondo	81.5
+student1879	10121878	ClOfih_1404	taekwondo	84.8
+student1880	10121879	ClOfih_1404	football	83.7
+student1881	10121880	ClOfih_1404	football	76.4
+student1882	10121881	ClOfih_1404	gymnastics	74.7
+student1883	10121882	ClOfih_1404	swimming	71.6
+student1884	10121883	ClOfih_1404	swimming	79.9
+student1885	10121884	ClOfih_1404	table tennis	80.8
+student1886	10121885	ClOfih_1404	taekwondo	71.1
+student1887	10121886	ClOfih_1404	taekwondo	98.7
+student1888	10121887	ClOfih_1404	gymnastics	70.1
+student1889	10121888	ClOfih_1404	gymnastics	85.7
+student1890	10121889	ClOfih_1404	badminton	81.3
+student1891	10121890	ClOfih_1404	taekwondo	89
+student1892	10121891	ClOfih_1405	gymnastics	68
+student1893	10121892	ClOfih_1405	table tennis	82.8
+student1894	10121893	ClOfih_1405	taekwondo	85.1
+student1895	10121894	ClOfih_1405	taekwondo	77.6
+student1896	10121895	ClOfih_1405	football	78.7
+student1897	10121896	ClOfih_1405	football	89
+student1898	10121897	ClOfih_1405	gymnastics	89.3
+student1899	10121898	ClOfih_1405	swimming	76.7
+student1900	10121899	ClOfih_1405	swimming	76.3
+student1901	10121900	ClOfih_1405	table tennis	80.2
+student1902	10121901	ClOfih_1405	taekwondo	75.7
+student1903	10121902	ClOfih_1405	taekwondo	73
+student1904	10121903	ClOfih_1405	gymnastics	85.2
+student1905	10121904	ClOfih_1405	gymnastics	79.4
+student1906	10121905	ClOfih_1405	basketball	83.1
+student1907	10121906	ClOfih_1405	basketball	86
+student1908	10121907	ClOfih_1405	basketball	83.2
+student1909	10121908	ClOfih_1405	gymnastics	93.4
+student1910	10121909	ClOfih_1405	gymnastics	71.4
+student1911	10121910	ClOfih_1405	basketball	71.4
+student1912	10121911	ClOfih_1405	tennis	84.3
+student1913	10121912	ClOfih_1405	gymnastics	70.7
+student1914	10121913	ClOfih_1405	basketball	83.2
+student1915	10121914	ClOfih_1405	gymnastics	66.1
+student1916	10121915	ClOfih_1405	tennis	87.8
+student1917	10121916	ClOfih_1405	basketball	98.6
+student1918	10121917	ClOfih_1405	tennis	80.2
+student1919	10121918	ClOfih_1405	badminton	88.9
+student1920	10121919	ClOfih_1405	basketball	73.6
+student1921	10121920	ClOfih_1405	football	67.8
+student1922	10121921	ClOfih_1405	basketball	72.9
+student1923	10121922	ClOfih_1405	football	86.7
+student1924	10121923	ClOfih_1405	table tennis	77.5
+student1925	10121924	ClOfih_1405	swimming	74.6
+student1926	10121925	ClOfih_1405	swimming	77.3
+student1927	10121926	ClOfih_1405	swimming	98.7
+student1928	10121927	ClOfih_1405	football	84.3
+student1929	10121928	ClOfih_1405	table tennis	83.2
+student1930	10121929	ClOfih_1405	badminton	80
+student1931	10121930	ClOfih_1405	volleyball	53.3
+student1932	10121931	ClOfih_1405	badminton	72.4
+student1933	10121932	ClOfih_1405	volleyball	87.7
+student1934	10121933	ClOfih_1405	tennis	86
+student1935	10121934	ClOfih_1405	volleyball	73.1
+student1936	10121935	ClOfih_1405	swimming	82.1
+student1937	10121936	ClOfih_1405	football	71.3
+student1938	10121937	ClOfih_1405	football	75
+student1939	10121938	ClOfih_1405	table tennis	70.6
+student1940	10121939	ClOfih_1405	badminton	72.1
+student1941	10121940	ClOfih_1405	volleyball	83.3
+student1942	10121941	ClOfih_1405	tennis	88.3
+student1943	10121942	ClOfih_1405	volleyball	75.9
+student1944	10121943	ClOfih_1405	volleyball	76.2
+student1945	10121944	ClOfih_1405	tennis	88.1
+student1946	10121945	ClOfih_1405	volleyball	70.6
+student1947	10121946	ClOfih_1405	basketball	70.6
+student1948	10121947	ClOfih_1405	taekwondo	88.9
+student1949	10121948	ClOfih_1406	taekwondo	89.4
+student1950	10121949	ClOfih_1406	table tennis	98.5
+student1951	10121950	ClOfih_1406	badminton	73.2
+student1952	10121951	ClOfih_1406	tennis	77.3
+student1953	10121952	ClOfih_1406	swimming	84.4
+student1954	10121953	ClOfih_1406	volleyball	78.5
+student1955	10121954	ClOfih_1406	football	89.9
+student1956	10121955	ClOfih_1406	table tennis	80.7
+student1957	10121956	ClOfih_1406	badminton	79.9
+student1958	10121957	ClOfih_1406	swimming	82.5
+student1959	10121958	ClOfih_1406	tennis	88.8
+student1960	10121959	ClOfih_1406	volleyball	97.5
+student1961	10121960	ClOfih_1406	badminton	62.6
+student1962	10121961	ClOfih_1406	basketball	87.6
+student1963	10121962	ClOfih_1406	tennis	74.4
+student1964	10121963	ClOfih_1406	tennis	82.3
+student1965	10121964	ClOfih_1406	badminton	87
+student1966	10121965	ClOfih_1406	swimming	99.4
+student1967	10121966	ClOfih_1406	table tennis	86.4
+student1968	10121967	ClOfih_1406	badminton	97.6
+student1969	10121968	ClOfih_1406	volleyball	76.5
+student1970	10121969	ClOfih_1406	tennis	76
+student1971	10121970	ClOfih_1406	badminton	84.4
+student1972	10121971	ClOfih_1406	basketball	81.2
+student1973	10121972	ClOfih_1406	table tennis	91.2
+student1974	10121973	ClOfih_1406	table tennis	98.9
+student1975	10121974	ClOfih_1406	table tennis	71.9
+student1976	10121975	ClOfih_1406	table tennis	77.7
+student1977	10121976	ClOfih_1406	taekwondo	89.8
+student1978	10121977	ClOfih_1406	taekwondo	84.3
+student1979	10121978	ClOfih_1406	football	87.1
+student1980	10121979	ClOfih_1406	football	74.3
+student1981	10121980	ClOfih_1406	gymnastics	55.5
+student1982	10121981	ClOfih_1406	swimming	84.5
+student1983	10121982	ClOfih_1406	swimming	95.9
+student1984	10121983	ClOfih_1406	table tennis	70.4
+student1985	10121984	ClOfih_1406	taekwondo	80.1
+student1986	10121985	ClOfih_1407	taekwondo	71.5
+student1987	10121986	ClOfih_1407	gymnastics	65.1
+student1988	10121987	ClOfih_1407	gymnastics	89.4
+student1989	10121988	ClOfih_1407	badminton	84.6
+student1990	10121989	ClOfih_1407	taekwondo	87.5
+student1991	10121990	ClOfih_1407	gymnastics	70.8
+student1992	10121991	ClOfih_1407	table tennis	97.7
+student1993	10121992	ClOfih_1407	taekwondo	78.6
+student1994	10121993	ClOfih_1407	taekwondo	63.9
+student1995	10121994	ClOfih_1407	football	84.5
+student1996	10121995	ClOfih_1407	football	86.3
+student1997	10121996	ClOfih_1407	gymnastics	96.1
+student1998	10121997	ClOfih_1407	swimming	85.9
+student1999	10121998	ClOfih_1407	swimming	80.7
+student2000	10121999	ClOfih_1407	table tennis	77.7
+student2001	10122000	ClOfih_1407	taekwondo	81.1
+student2002	10122001	ClOfih_1407	taekwondo	84.2
+student2003	10122002	ClOfih_1407	gymnastics	94
+student2004	10122003	ClOfih_1407	gymnastics	75.2
+student2005	10122004	ClOfih_1407	basketball	77.7
+student2006	10122005	ClOfih_1407	basketball	80.4
+student2007	10122006	ClOfih_1407	basketball	65
+student2008	10122007	ClOfih_1407	gymnastics	86.2
+student2009	10122008	ClOfih_1407	gymnastics	82.1
+student2010	10122009	ClOfih_1407	basketball	84.1
+student2011	10122010	ClOfih_1407	tennis	81.4
+student2012	10122011	ClOfih_1407	gymnastics	79.7
+student2013	10122012	ClOfih_1407	basketball	72.9
+student2014	10122013	ClOfih_1407	gymnastics	70.8
+student2015	10122014	ClOfih_1407	tennis	78.8
+student2016	10122015	ClOfih_1407	basketball	93
+student2017	10122016	ClOfih_1407	tennis	88.4
+student2018	10122017	ClOfih_1407	badminton	84.9
+student2019	10122018	ClOfih_1407	basketball	70.1
+student2020	10122019	ClOfih_1407	football	86.7
+student2021	10122020	ClOfih_1407	basketball	73.4
+student2022	10122021	ClOfih_1407	football	75.4
+student2023	10122022	ClOfih_1407	table tennis	77.3
+student2024	10122023	ClOfih_1407	swimming	81.9
+student2025	10122024	ClOfih_1407	swimming	84.6
+student2026	10122025	ClOfih_1407	swimming	76.3
+student2027	10122026	ClOfih_1407	football	80.3
+student2028	10122027	ClOfih_1407	table tennis	99.5
+student2029	10122028	ClOfih_1407	badminton	77.5
+student2030	10122029	ClOfih_1407	volleyball	94
+student2031	10122030	ClOfih_1407	badminton	99.8
+student2032	10122031	ClOfih_1407	volleyball	92.9
+student2033	10122032	ClOfih_1407	tennis	88.4
+student2034	10122033	ClOfih_1407	volleyball	88.9
+student2035	10122034	ClOfih_1407	swimming	82.9
+student2036	10122035	ClOfih_1407	football	97.6
+student2037	10122036	ClOfih_1407	football	81.4
+student2038	10122037	ClOfih_1407	table tennis	93
+student2039	10122038	ClOfih_1407	badminton	88.8
+student2040	10122039	ClOfih_1407	volleyball	84.3
+student2041	10122040	ClOfih_1407	tennis	94.6
+student2042	10122041	ClOfih_1407	volleyball	58.6
+student2043	10122042	ClOfih_1407	volleyball	76.6
+student2044	10122043	ClOfih_1407	tennis	75.8
+student2045	10122044	ClOfih_1407	volleyball	83.3
+student2046	10122045	ClOfih_1407	basketball	85
+student2047	10122046	ClOfih_1407	taekwondo	71.1
+student2048	10122047	ClOfih_1407	taekwondo	81.8
+student2049	10122048	ClOfih_1407	table tennis	

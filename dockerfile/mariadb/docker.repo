@@ -1,0 +1,10 @@
+[centos]
+name=centos
+baseurl=ftp://192.168.100.10/centos
+gpgcheck=0
+enabled=1
+[docker]
+name=docker
+baseurl=ftp://192.168.100.10/docker/docker
+gpgcheck=0
+enabled=1

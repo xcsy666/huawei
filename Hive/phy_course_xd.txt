@@ -1,0 +1,2050 @@
+stname	stID	class	opt_cour
+student1	10120000	Network_1401	badminton
+student2	10120001	Network_1401	basketball
+student3	10120002	Network_1401	football
+student4	10120003	Network_1401	basketball
+student5	10120004	Network_1401	football
+student6	10120005	Network_1401	table tennis
+student7	10120006	Network_1401	swimming
+student8	10120007	Network_1401	swimming
+student9	10120008	Network_1401	swimming
+student10	10120009	Network_1401	football
+student11	10120010	Network_1401	table tennis
+student12	10120011	Network_1401	badminton
+student13	10120012	Network_1401	volleyball
+student14	10120013	Network_1401	badminton
+student15	10120014	Network_1401	volleyball
+student16	10120015	Network_1401	tennis
+student17	10120016	Network_1401	volleyball
+student18	10120017	Network_1401	swimming
+student19	10120018	Network_1401	football
+student20	10120019	Network_1401	football
+student21	10120020	Network_1401	table tennis
+student22	10120021	Network_1401	badminton
+student23	10120022	Network_1401	volleyball
+student24	10120023	Network_1401	tennis
+student25	10120024	Network_1401	volleyball
+student26	10120025	Network_1401	volleyball
+student27	10120026	Network_1401	tennis
+student28	10120027	Network_1401	volleyball
+student29	10120028	Network_1401	basketball
+student30	10120029	Network_1401	taekwondo
+student31	10120030	Network_1401	taekwondo
+student32	10120031	Network_1401	table tennis
+student33	10120032	Network_1401	badminton
+student34	10120033	Network_1401	tennis
+student35	10120034	Network_1401	swimming
+student36	10120035	Network_1401	volleyball
+student37	10120036	Network_1401	football
+student38	10120037	Network_1401	table tennis
+student39	10120038	Network_1401	badminton
+student40	10120039	Network_1401	swimming
+student41	10120040	Network_1401	tennis
+student42	10120041	Network_1401	volleyball
+student43	10120042	Network_1401	badminton
+student44	10120043	Network_1401	basketball
+student45	10120044	Network_1401	tennis
+student46	10120045	Network_1401	tennis
+student47	10120046	Network_1401	badminton
+student48	10120047	Network_1401	swimming
+student49	10120048	Network_1402	table tennis
+student50	10120049	Network_1402	badminton
+student51	10120050	Network_1402	volleyball
+student52	10120051	Network_1402	tennis
+student53	10120052	Network_1402	badminton
+student54	10120053	Network_1402	basketball
+student55	10120054	Network_1402	table tennis
+student56	10120055	Network_1402	table tennis
+student57	10120056	Network_1402	table tennis
+student58	10120057	Network_1402	table tennis
+student59	10120058	Network_1402	taekwondo
+student60	10120059	Network_1402	taekwondo
+student61	10120060	Network_1402	football
+student62	10120061	Network_1402	football
+student63	10120062	Network_1402	gymnastics
+student64	10120063	Network_1402	swimming
+student65	10120064	Network_1402	swimming
+student66	10120065	Network_1402	table tennis
+student67	10120066	Network_1402	taekwondo
+student68	10120067	Network_1402	taekwondo
+student69	10120068	Network_1402	gymnastics
+student70	10120069	Network_1402	gymnastics
+student71	10120070	Network_1402	badminton
+student72	10120071	Network_1402	taekwondo
+student73	10120072	Network_1402	gymnastics
+student74	10120073	Network_1402	table tennis
+student75	10120074	Network_1402	taekwondo
+student76	10120075	Network_1402	taekwondo
+student77	10120076	Network_1402	football
+student78	10120077	Network_1402	football
+student79	10120078	Network_1402	gymnastics
+student80	10120079	Network_1402	swimming
+student81	10120080	Network_1402	swimming
+student82	10120081	Network_1402	table tennis
+student83	10120082	Network_1402	taekwondo
+student84	10120083	Network_1402	taekwondo
+student85	10120084	Network_1402	gymnastics
+student86	10120085	Network_1402	gymnastics
+student87	10120086	Network_1402	basketball
+student88	10120087	Network_1402	basketball
+student89	10120088	Network_1402	basketball
+student90	10120089	Network_1402	gymnastics
+student91	10120090	Network_1402	gymnastics
+student92	10120091	Network_1402	basketball
+student93	10120092	Network_1402	tennis
+student94	10120093	Network_1402	gymnastics
+student95	10120094	Network_1402	basketball
+student96	10120095	Network_1402	gymnastics
+student97	10120096	Network_1402	tennis
+student98	10120097	Network_1402	basketball
+student99	10120098	Network_1402	tennis
+student100	10120099	Network_1402	badminton
+student101	10120100	Network_1403	basketball
+student102	10120101	Network_1403	football
+student103	10120102	Network_1403	basketball
+student104	10120103	Network_1403	football
+student105	10120104	Network_1403	table tennis
+student106	10120105	Network_1403	swimming
+student107	10120106	Network_1403	swimming
+student108	10120107	Network_1403	swimming
+student109	10120108	Network_1403	football
+student110	10120109	Network_1403	table tennis
+student111	10120110	Network_1403	badminton
+student112	10120111	Network_1403	volleyball
+student113	10120112	Network_1403	badminton
+student114	10120113	Network_1403	volleyball
+student115	10120114	Network_1403	tennis
+student116	10120115	Network_1403	volleyball
+student117	10120116	Network_1403	swimming
+student118	10120117	Network_1403	football
+student119	10120118	Network_1403	football
+student120	10120119	Network_1403	table tennis
+student121	10120120	Network_1403	badminton
+student122	10120121	Network_1403	volleyball
+student123	10120122	Network_1403	tennis
+student124	10120123	Network_1403	volleyball
+student125	10120124	Network_1403	volleyball
+student126	10120125	Network_1403	tennis
+student127	10120126	Network_1403	volleyball
+student128	10120127	Network_1403	basketball
+student129	10120128	Network_1403	taekwondo
+student130	10120129	Network_1403	taekwondo
+student131	10120130	Network_1403	table tennis
+student132	10120131	Network_1403	badminton
+student133	10120132	Network_1403	tennis
+student134	10120133	Network_1403	swimming
+student135	10120134	Network_1403	volleyball
+student136	10120135	Network_1403	football
+student137	10120136	Network_1403	table tennis
+student138	10120137	Network_1403	badminton
+student139	10120138	Network_1403	swimming
+student140	10120139	Network_1403	tennis
+student141	10120140	Network_1403	volleyball
+student142	10120141	Network_1403	badminton
+student143	10120142	Network_1403	basketball
+student144	10120143	Network_1403	tennis
+student145	10120144	Network_1403	tennis
+student146	10120145	Network_1403	badminton
+student147	10120146	Network_1403	swimming
+student148	10120147	Network_1403	table tennis
+student149	10120148	Network_1403	badminton
+student150	10120149	Network_1403	volleyball
+student151	10120150	Network_1403	tennis
+student152	10120151	Network_1403	badminton
+student153	10120152	Network_1403	basketball
+student154	10120153	Network_1403	table tennis
+student155	10120154	Network_1403	table tennis
+student156	10120155	Network_1403	table tennis
+student157	10120156	Network_1403	table tennis
+student158	10120157	Network_1403	taekwondo
+student159	10120158	Network_1403	taekwondo
+student160	10120159	Network_1404	football
+student161	10120160	Network_1404	football
+student162	10120161	Network_1404	gymnastics
+student163	10120162	Network_1404	swimming
+student164	10120163	Network_1404	swimming
+student165	10120164	Network_1404	table tennis
+student166	10120165	Network_1404	taekwondo
+student167	10120166	Network_1404	taekwondo
+student168	10120167	Network_1404	gymnastics
+student169	10120168	Network_1404	gymnastics
+student170	10120169	Network_1404	badminton
+student171	10120170	Network_1404	taekwondo
+student172	10120171	Network_1404	gymnastics
+student173	10120172	Network_1404	table tennis
+student174	10120173	Network_1404	taekwondo
+student175	10120174	Network_1404	taekwondo
+student176	10120175	Network_1404	football
+student177	10120176	Network_1404	football
+student178	10120177	Network_1404	gymnastics
+student179	10120178	Network_1404	swimming
+student180	10120179	Network_1404	swimming
+student181	10120180	Network_1404	table tennis
+student182	10120181	Network_1404	taekwondo
+student183	10120182	Network_1404	taekwondo
+student184	10120183	Network_1404	gymnastics
+student185	10120184	Network_1404	gymnastics
+student186	10120185	Network_1404	basketball
+student187	10120186	Network_1404	basketball
+student188	10120187	Network_1404	basketball
+student189	10120188	Network_1404	gymnastics
+student190	10120189	Network_1404	gymnastics
+student191	10120190	Network_1404	basketball
+student192	10120191	Network_1404	tennis
+student193	10120192	Network_1404	gymnastics
+student194	10120193	Network_1404	basketball
+student195	10120194	Network_1404	gymnastics
+student196	10120195	Network_1404	tennis
+student197	10120196	Network_1404	basketball
+student198	10120197	Network_1404	tennis
+student199	10120198	Network_1404	badminton
+student200	10120199	Network_1404	basketball
+student201	10120200	Network_1404	football
+student202	10120201	Network_1404	basketball
+student203	10120202	Network_1404	football
+student204	10120203	Network_1404	table tennis
+student205	10120204	Network_1404	swimming
+student206	10120205	Network_1404	swimming
+student207	10120206	Network_1404	swimming
+student208	10120207	Network_1404	football
+student209	10120208	Network_1404	table tennis
+student210	10120209	Network_1404	badminton
+student211	10120210	Network_1404	volleyball
+student212	10120211	Network_1404	badminton
+student213	10120212	Network_1404	volleyball
+student214	10120213	Network_1404	tennis
+student215	10120214	Network_1405	volleyball
+student216	10120215	Network_1405	swimming
+student217	10120216	Network_1405	football
+student218	10120217	Network_1405	football
+student219	10120218	Network_1405	table tennis
+student220	10120219	Network_1405	badminton
+student221	10120220	Network_1405	volleyball
+student222	10120221	Network_1405	tennis
+student223	10120222	Network_1405	volleyball
+student224	10120223	Network_1405	volleyball
+student225	10120224	Network_1405	tennis
+student226	10120225	Network_1405	volleyball
+student227	10120226	Network_1405	basketball
+student228	10120227	Network_1405	taekwondo
+student229	10120228	Network_1405	taekwondo
+student230	10120229	Network_1405	table tennis
+student231	10120230	Network_1405	badminton
+student232	10120231	Network_1405	tennis
+student233	10120232	Network_1405	swimming
+student234	10120233	Network_1405	volleyball
+student235	10120234	Network_1405	football
+student236	10120235	Network_1405	table tennis
+student237	10120236	Network_1405	badminton
+student238	10120237	Network_1405	swimming
+student239	10120238	Network_1405	tennis
+student240	10120239	Network_1405	volleyball
+student241	10120240	Network_1405	badminton
+student242	10120241	Network_1405	basketball
+student243	10120242	Network_1405	tennis
+student244	10120243	Network_1405	tennis
+student245	10120244	Network_1405	badminton
+student246	10120245	Network_1405	swimming
+student247	10120246	Network_1405	table tennis
+student248	10120247	Network_1405	badminton
+student249	10120248	Network_1405	volleyball
+student250	10120249	Network_1405	tennis
+student251	10120250	Network_1405	badminton
+student252	10120251	Network_1405	basketball
+student253	10120252	Network_1405	table tennis
+student254	10120253	Network_1405	table tennis
+student255	10120254	Network_1405	table tennis
+student256	10120255	Network_1405	table tennis
+student257	10120256	Network_1405	taekwondo
+student258	10120257	Network_1405	taekwondo
+student259	10120258	Network_1405	football
+student260	10120259	Network_1405	football
+student261	10120260	Network_1405	gymnastics
+student262	10120261	Network_1405	swimming
+student263	10120262	Network_1405	swimming
+student264	10120263	Network_1405	table tennis
+student265	10120264	Network_1405	taekwondo
+student266	10120265	Network_1405	taekwondo
+student267	10120266	Network_1405	gymnastics
+student268	10120267	Network_1405	gymnastics
+student269	10120268	Network_1405	badminton
+student270	10120269	Network_1405	taekwondo
+student271	10120270	Network_1405	gymnastics
+student272	10120271	Network_1405	table tennis
+student273	10120272	Network_1405	taekwondo
+student274	10120273	Network_1405	taekwondo
+student275	10120274	Network_1405	football
+student276	10120275	Network_1405	football
+student277	10120276	Network_1405	gymnastics
+student278	10120277	Network_1405	swimming
+student279	10120278	Network_1405	swimming
+student280	10120279	Network_1405	table tennis
+student281	10120280	Network_1405	taekwondo
+student282	10120281	Network_1405	taekwondo
+student283	10120282	Network_1405	gymnastics
+student284	10120283	Network_1405	gymnastics
+student285	10120284	Network_1405	basketball
+student286	10120285	Network_1405	basketball
+student287	10120286	Network_1405	basketball
+student288	10120287	Network_1405	gymnastics
+student289	10120288	Network_1405	gymnastics
+student290	10120289	Network_1405	basketball
+student291	10120290	Network_1405	tennis
+student292	10120291	Network_1405	gymnastics
+student293	10120292	Network_1405	basketball
+student294	10120293	Network_1405	gymnastics
+student295	10120294	Software_1401	tennis
+student296	10120295	Software_1401	basketball
+student297	10120296	Software_1401	tennis
+student298	10120297	Software_1401	badminton
+student299	10120298	Software_1401	basketball
+student300	10120299	Software_1401	football
+student301	10120300	Software_1401	basketball
+student302	10120301	Software_1401	football
+student303	10120302	Software_1401	table tennis
+student304	10120303	Software_1401	swimming
+student305	10120304	Software_1401	swimming
+student306	10120305	Software_1401	swimming
+student307	10120306	Software_1401	football
+student308	10120307	Software_1401	table tennis
+student309	10120308	Software_1401	badminton
+student310	10120309	Software_1401	volleyball
+student311	10120310	Software_1401	badminton
+student312	10120311	Software_1401	volleyball
+student313	10120312	Software_1401	tennis
+student314	10120313	Software_1401	volleyball
+student315	10120314	Software_1401	swimming
+student316	10120315	Software_1401	football
+student317	10120316	Software_1401	football
+student318	10120317	Software_1401	table tennis
+student319	10120318	Software_1401	badminton
+student320	10120319	Software_1401	volleyball
+student321	10120320	Software_1401	tennis
+student322	10120321	Software_1401	volleyball
+student323	10120322	Software_1401	volleyball
+student324	10120323	Software_1401	tennis
+student325	10120324	Software_1401	volleyball
+student326	10120325	Software_1401	basketball
+student327	10120326	Software_1401	taekwondo
+student328	10120327	Software_1401	taekwondo
+student329	10120328	Software_1401	table tennis
+student330	10120329	Software_1401	badminton
+student331	10120330	Software_1401	tennis
+student332	10120331	Software_1401	swimming
+student333	10120332	Software_1401	volleyball
+student334	10120333	Software_1401	football
+student335	10120334	Software_1401	table tennis
+student336	10120335	Software_1401	badminton
+student337	10120336	Software_1401	swimming
+student338	10120337	Software_1401	tennis
+student339	10120338	Software_1401	volleyball
+student340	10120339	Software_1401	badminton
+student341	10120340	Software_1401	basketball
+student342	10120341	Software_1401	tennis
+student343	10120342	Software_1401	tennis
+student344	10120343	Software_1402	badminton
+student345	10120344	Software_1402	swimming
+student346	10120345	Software_1402	table tennis
+student347	10120346	Software_1402	badminton
+student348	10120347	Software_1402	volleyball
+student349	10120348	Software_1402	tennis
+student350	10120349	Software_1402	badminton
+student351	10120350	Software_1402	basketball
+student352	10120351	Software_1402	table tennis
+student353	10120352	Software_1402	table tennis
+student354	10120353	Software_1402	table tennis
+student355	10120354	Software_1402	table tennis
+student356	10120355	Software_1402	taekwondo
+student357	10120356	Software_1402	taekwondo
+student358	10120357	Software_1402	football
+student359	10120358	Software_1402	football
+student360	10120359	Software_1402	gymnastics
+student361	10120360	Software_1402	swimming
+student362	10120361	Software_1402	swimming
+student363	10120362	Software_1402	table tennis
+student364	10120363	Software_1402	taekwondo
+student365	10120364	Software_1402	taekwondo
+student366	10120365	Software_1402	gymnastics
+student367	10120366	Software_1402	gymnastics
+student368	10120367	Software_1402	badminton
+student369	10120368	Software_1402	taekwondo
+student370	10120369	Software_1402	gymnastics
+student371	10120370	Software_1402	table tennis
+student372	10120371	Software_1402	taekwondo
+student373	10120372	Software_1402	taekwondo
+student374	10120373	Software_1402	football
+student375	10120374	Software_1402	football
+student376	10120375	Software_1402	gymnastics
+student377	10120376	Software_1402	swimming
+student378	10120377	Software_1402	swimming
+student379	10120378	Software_1402	table tennis
+student380	10120379	Software_1402	taekwondo
+student381	10120380	Software_1402	taekwondo
+student382	10120381	Software_1402	gymnastics
+student383	10120382	Software_1402	gymnastics
+student384	10120383	Software_1402	basketball
+student385	10120384	Software_1402	basketball
+student386	10120385	Software_1402	basketball
+student387	10120386	Software_1402	gymnastics
+student388	10120387	Software_1402	gymnastics
+student389	10120388	Software_1402	basketball
+student390	10120389	Software_1402	tennis
+student391	10120390	Software_1402	gymnastics
+student392	10120391	Software_1402	basketball
+student393	10120392	Software_1402	gymnastics
+student394	10120393	Software_1402	tennis
+student395	10120394	Software_1402	basketball
+student396	10120395	Software_1402	tennis
+student397	10120396	Software_1402	badminton
+student398	10120397	Software_1402	basketball
+student399	10120398	Software_1403	football
+student400	10120399	Software_1403	basketball
+student401	10120400	Software_1403	football
+student402	10120401	Software_1403	table tennis
+student403	10120402	Software_1403	swimming
+student404	10120403	Software_1403	swimming
+student405	10120404	Software_1403	swimming
+student406	10120405	Software_1403	football
+student407	10120406	Software_1403	table tennis
+student408	10120407	Software_1403	badminton
+student409	10120408	Software_1403	volleyball
+student410	10120409	Software_1403	badminton
+student411	10120410	Software_1403	volleyball
+student412	10120411	Software_1403	tennis
+student413	10120412	Software_1403	volleyball
+student414	10120413	Software_1403	swimming
+student415	10120414	Software_1403	football
+student416	10120415	Software_1403	football
+student417	10120416	Software_1403	table tennis
+student418	10120417	Software_1403	badminton
+student419	10120418	Software_1403	volleyball
+student420	10120419	Software_1403	tennis
+student421	10120420	Software_1403	volleyball
+student422	10120421	Software_1403	volleyball
+student423	10120422	Software_1403	tennis
+student424	10120423	Software_1403	volleyball
+student425	10120424	Software_1403	basketball
+student426	10120425	Software_1403	taekwondo
+student427	10120426	Software_1403	taekwondo
+student428	10120427	Software_1403	table tennis
+student429	10120428	Software_1403	badminton
+student430	10120429	Software_1403	tennis
+student431	10120430	Software_1403	swimming
+student432	10120431	Software_1403	volleyball
+student433	10120432	Software_1403	football
+student434	10120433	Software_1403	table tennis
+student435	10120434	Software_1403	badminton
+student436	10120435	Software_1403	swimming
+student437	10120436	Software_1403	tennis
+student438	10120437	Software_1403	volleyball
+student439	10120438	Software_1403	badminton
+student440	10120439	Software_1403	basketball
+student441	10120440	Software_1403	tennis
+student442	10120441	Software_1403	tennis
+student443	10120442	Software_1403	badminton
+student444	10120443	Software_1403	swimming
+student445	10120444	Software_1403	table tennis
+student446	10120445	Software_1403	badminton
+student447	10120446	Software_1403	volleyball
+student448	10120447	Software_1403	tennis
+student449	10120448	Software_1403	badminton
+student450	10120449	Software_1403	basketball
+student451	10120450	Software_1403	table tennis
+student452	10120451	Software_1403	table tennis
+student453	10120452	Software_1403	table tennis
+student454	10120453	Software_1404	table tennis
+student455	10120454	Software_1404	taekwondo
+student456	10120455	Software_1404	taekwondo
+student457	10120456	Software_1404	football
+student458	10120457	Software_1404	football
+student459	10120458	Software_1404	gymnastics
+student460	10120459	Software_1404	swimming
+student461	10120460	Software_1404	swimming
+student462	10120461	Software_1404	table tennis
+student463	10120462	Software_1404	taekwondo
+student464	10120463	Software_1404	taekwondo
+student465	10120464	Software_1404	gymnastics
+student466	10120465	Software_1404	gymnastics
+student467	10120466	Software_1404	badminton
+student468	10120467	Software_1404	taekwondo
+student469	10120468	Software_1404	gymnastics
+student470	10120469	Software_1404	table tennis
+student471	10120470	Software_1404	taekwondo
+student472	10120471	Software_1404	taekwondo
+student473	10120472	Software_1404	football
+student474	10120473	Software_1404	football
+student475	10120474	Software_1404	gymnastics
+student476	10120475	Software_1404	swimming
+student477	10120476	Software_1404	swimming
+student478	10120477	Software_1404	table tennis
+student479	10120478	Software_1404	taekwondo
+student480	10120479	Software_1404	taekwondo
+student481	10120480	Software_1404	gymnastics
+student482	10120481	Software_1404	gymnastics
+student483	10120482	Software_1404	basketball
+student484	10120483	Software_1404	basketball
+student485	10120484	Software_1404	basketball
+student486	10120485	Software_1404	gymnastics
+student487	10120486	Software_1404	gymnastics
+student488	10120487	Software_1404	basketball
+student489	10120488	Software_1404	tennis
+student490	10120489	Software_1404	gymnastics
+student491	10120490	Software_1404	basketball
+student492	10120491	Software_1404	gymnastics
+student493	10120492	Software_1404	tennis
+student494	10120493	Software_1404	basketball
+student495	10120494	Software_1404	tennis
+student496	10120495	Software_1404	badminton
+student497	10120496	Software_1404	basketball
+student498	10120497	Software_1404	football
+student499	10120498	Software_1404	basketball
+student500	10120499	Software_1404	football
+student501	10120500	Software_1404	table tennis
+student502	10120501	Software_1404	swimming
+student503	10120502	Software_1404	swimming
+student504	10120503	Software_1404	swimming
+student505	10120504	Software_1404	football
+student506	10120505	Software_1404	table tennis
+student507	10120506	Software_1404	badminton
+student508	10120507	Software_1404	volleyball
+student509	10120508	Software_1404	badminton
+student510	10120509	Software_1404	volleyball
+student511	10120510	Software_1404	tennis
+student512	10120511	Software_1404	volleyball
+student513	10120512	Software_1404	swimming
+student514	10120513	Software_1404	football
+student515	10120514	Software_1404	football
+student516	10120515	Software_1404	table tennis
+student517	10120516	Software_1404	badminton
+student518	10120517	Software_1404	volleyball
+student519	10120518	Software_1404	tennis
+student520	10120519	Software_1404	volleyball
+student521	10120520	Software_1404	volleyball
+student522	10120521	Software_1404	tennis
+student523	10120522	Software_1404	volleyball
+student524	10120523	Software_1404	basketball
+student525	10120524	Software_1404	taekwondo
+student526	10120525	Software_1404	taekwondo
+student527	10120526	Software_1404	table tennis
+student528	10120527	Software_1404	badminton
+student529	10120528	Software_1404	tennis
+student530	10120529	Software_1404	swimming
+student531	10120530	Software_1405	volleyball
+student532	10120531	Software_1405	football
+student533	10120532	Software_1405	table tennis
+student534	10120533	Software_1405	badminton
+student535	10120534	Software_1405	swimming
+student536	10120535	Software_1405	tennis
+student537	10120536	Software_1405	volleyball
+student538	10120537	Software_1405	badminton
+student539	10120538	Software_1405	basketball
+student540	10120539	Software_1405	tennis
+student541	10120540	Software_1405	tennis
+student542	10120541	Software_1405	badminton
+student543	10120542	Software_1405	swimming
+student544	10120543	Software_1405	table tennis
+student545	10120544	Software_1405	badminton
+student546	10120545	Software_1405	volleyball
+student547	10120546	Software_1405	tennis
+student548	10120547	Software_1405	badminton
+student549	10120548	Software_1405	basketball
+student550	10120549	Software_1405	table tennis
+student551	10120550	Software_1405	table tennis
+student552	10120551	Software_1405	table tennis
+student553	10120552	Software_1405	table tennis
+student554	10120553	Software_1405	taekwondo
+student555	10120554	Software_1405	taekwondo
+student556	10120555	Software_1405	football
+student557	10120556	Software_1405	football
+student558	10120557	Software_1405	gymnastics
+student559	10120558	Software_1405	swimming
+student560	10120559	Software_1405	swimming
+student561	10120560	Software_1405	table tennis
+student562	10120561	Software_1405	taekwondo
+student563	10120562	Software_1405	taekwondo
+student564	10120563	Software_1405	gymnastics
+student565	10120564	Software_1405	gymnastics
+student566	10120565	Software_1405	badminton
+student567	10120566	Software_1405	taekwondo
+student568	10120567	Software_1405	gymnastics
+student569	10120568	Software_1405	table tennis
+student570	10120569	Software_1405	taekwondo
+student571	10120570	Software_1405	taekwondo
+student572	10120571	Software_1405	football
+student573	10120572	Software_1405	football
+student574	10120573	Software_1405	gymnastics
+student575	10120574	Software_1405	swimming
+student576	10120575	Software_1405	swimming
+student577	10120576	Software_1406	table tennis
+student578	10120577	Software_1406	taekwondo
+student579	10120578	Software_1406	taekwondo
+student580	10120579	Software_1406	gymnastics
+student581	10120580	Software_1406	gymnastics
+student582	10120581	Software_1406	basketball
+student583	10120582	Software_1406	basketball
+student584	10120583	Software_1406	basketball
+student585	10120584	Software_1406	gymnastics
+student586	10120585	Software_1406	gymnastics
+student587	10120586	Software_1406	basketball
+student588	10120587	Software_1406	tennis
+student589	10120588	Software_1406	gymnastics
+student590	10120589	Software_1406	basketball
+student591	10120590	Software_1406	gymnastics
+student592	10120591	Software_1406	tennis
+student593	10120592	Software_1406	basketball
+student594	10120593	Software_1406	tennis
+student595	10120594	Software_1406	table tennis
+student596	10120595	Software_1406	badminton
+student597	10120596	Software_1406	table tennis
+student598	10120597	Software_1406	badminton
+student599	10120598	Software_1406	swimming
+student600	10120599	Software_1406	table tennis
+student601	10120600	Software_1406	swimming
+student602	10120601	Software_1406	table tennis
+student603	10120602	Software_1406	badminton
+student604	10120603	Software_1406	swimming
+student605	10120604	Software_1406	badminton
+student606	10120605	Software_1406	basketball
+student607	10120606	Software_1406	football
+student608	10120607	Software_1406	basketball
+student609	10120608	Software_1406	football
+student610	10120609	Software_1406	table tennis
+student611	10120610	Software_1406	swimming
+student612	10120611	Software_1406	swimming
+student613	10120612	Software_1406	swimming
+student614	10120613	Software_1406	football
+student615	10120614	Software_1406	table tennis
+student616	10120615	Software_1406	badminton
+student617	10120616	Software_1406	volleyball
+student618	10120617	Software_1406	badminton
+student619	10120618	Software_1406	volleyball
+student620	10120619	Software_1406	tennis
+student621	10120620	Software_1406	volleyball
+student622	10120621	Software_1406	swimming
+student623	10120622	Software_1406	football
+student624	10120623	Software_1406	football
+student625	10120624	Software_1406	table tennis
+student626	10120625	Software_1406	badminton
+student627	10120626	Software_1406	volleyball
+student628	10120627	Software_1406	tennis
+student629	10120628	Software_1407	volleyball
+student630	10120629	Software_1407	volleyball
+student631	10120630	Software_1407	tennis
+student632	10120631	Software_1407	volleyball
+student633	10120632	Software_1407	basketball
+student634	10120633	Software_1407	taekwondo
+student635	10120634	Software_1407	taekwondo
+student636	10120635	Software_1407	table tennis
+student637	10120636	Software_1407	badminton
+student638	10120637	Software_1407	tennis
+student639	10120638	Software_1407	swimming
+student640	10120639	Software_1407	volleyball
+student641	10120640	Software_1407	football
+student642	10120641	Software_1407	table tennis
+student643	10120642	Software_1407	badminton
+student644	10120643	Software_1407	swimming
+student645	10120644	Software_1407	tennis
+student646	10120645	Software_1407	volleyball
+student647	10120646	Software_1407	badminton
+student648	10120647	Software_1407	basketball
+student649	10120648	Software_1407	tennis
+student650	10120649	Software_1407	tennis
+student651	10120650	Software_1407	badminton
+student652	10120651	Software_1407	swimming
+student653	10120652	Software_1407	table tennis
+student654	10120653	Software_1407	badminton
+student655	10120654	Software_1407	volleyball
+student656	10120655	Software_1407	tennis
+student657	10120656	Software_1407	badminton
+student658	10120657	Software_1407	basketball
+student659	10120658	Software_1407	table tennis
+student660	10120659	Software_1407	table tennis
+student661	10120660	Software_1407	table tennis
+student662	10120661	Software_1407	table tennis
+student663	10120662	Software_1407	taekwondo
+student664	10120663	Software_1407	taekwondo
+student665	10120664	Software_1407	football
+student666	10120665	Software_1407	football
+student667	10120666	Software_1407	gymnastics
+student668	10120667	Software_1407	swimming
+student669	10120668	Software_1407	swimming
+student670	10120669	Software_1407	table tennis
+student671	10120670	Software_1407	taekwondo
+student672	10120671	Software_1407	taekwondo
+student673	10120672	Software_1407	gymnastics
+student674	10120673	Software_1407	gymnastics
+student675	10120674	Software_1407	badminton
+student676	10120675	Software_1407	taekwondo
+student677	10120676	Software_1407	gymnastics
+student678	10120677	Software_1407	table tennis
+student679	10120678	Software_1407	taekwondo
+student680	10120679	Software_1407	taekwondo
+student681	10120680	Software_1407	football
+student682	10120681	Software_1407	football
+student683	10120682	Software_1407	gymnastics
+student684	10120683	Software_1407	swimming
+student685	10120684	Software_1407	swimming
+student686	10120685	Software_1407	table tennis
+student687	10120686	Software_1407	taekwondo
+student688	10120687	Software_1407	taekwondo
+student689	10120688	Software_1407	gymnastics
+student690	10120689	Software_1407	gymnastics
+student691	10120690	Software_1407	basketball
+student692	10120691	Software_1407	basketball
+student693	10120692	Computer_1401	basketball
+student694	10120693	Computer_1401	gymnastics
+student695	10120694	Computer_1401	gymnastics
+student696	10120695	Computer_1401	basketball
+student697	10120696	Computer_1401	tennis
+student698	10120697	Computer_1401	gymnastics
+student699	10120698	Computer_1401	basketball
+student700	10120699	Computer_1401	gymnastics
+student701	10120700	Computer_1401	tennis
+student702	10120701	Computer_1401	basketball
+student703	10120702	Computer_1401	tennis
+student704	10120703	Computer_1401	badminton
+student705	10120704	Computer_1401	basketball
+student706	10120705	Computer_1401	football
+student707	10120706	Computer_1401	basketball
+student708	10120707	Computer_1401	football
+student709	10120708	Computer_1401	table tennis
+student710	10120709	Computer_1401	swimming
+student711	10120710	Computer_1401	swimming
+student712	10120711	Computer_1401	swimming
+student713	10120712	Computer_1401	football
+student714	10120713	Computer_1401	table tennis
+student715	10120714	Computer_1401	badminton
+student716	10120715	Computer_1401	volleyball
+student717	10120716	Computer_1401	badminton
+student718	10120717	Computer_1401	volleyball
+student719	10120718	Computer_1401	tennis
+student720	10120719	Computer_1401	volleyball
+student721	10120720	Computer_1401	swimming
+student722	10120721	Computer_1401	football
+student723	10120722	Computer_1401	football
+student724	10120723	Computer_1401	table tennis
+student725	10120724	Computer_1401	badminton
+student726	10120725	Computer_1401	volleyball
+student727	10120726	Computer_1401	tennis
+student728	10120727	Computer_1401	volleyball
+student729	10120728	Computer_1401	volleyball
+student730	10120729	Computer_1401	tennis
+student731	10120730	Computer_1401	volleyball
+student732	10120731	Computer_1401	basketball
+student733	10120732	Computer_1401	taekwondo
+student734	10120733	Computer_1401	taekwondo
+student735	10120734	Computer_1401	table tennis
+student736	10120735	Computer_1401	badminton
+student737	10120736	Computer_1401	tennis
+student738	10120737	Computer_1401	swimming
+student739	10120738	Computer_1401	volleyball
+student740	10120739	Computer_1401	football
+student741	10120740	Computer_1401	table tennis
+student742	10120741	Computer_1401	badminton
+student743	10120742	Computer_1401	swimming
+student744	10120743	Computer_1402	tennis
+student745	10120744	Computer_1402	volleyball
+student746	10120745	Computer_1402	badminton
+student747	10120746	Computer_1402	basketball
+student748	10120747	Computer_1402	tennis
+student749	10120748	Computer_1402	tennis
+student750	10120749	Computer_1402	badminton
+student751	10120750	Computer_1402	swimming
+student752	10120751	Computer_1402	table tennis
+student753	10120752	Computer_1402	badminton
+student754	10120753	Computer_1402	volleyball
+student755	10120754	Computer_1402	tennis
+student756	10120755	Computer_1402	badminton
+student757	10120756	Computer_1402	basketball
+student758	10120757	Computer_1402	table tennis
+student759	10120758	Computer_1402	table tennis
+student760	10120759	Computer_1402	table tennis
+student761	10120760	Computer_1402	table tennis
+student762	10120761	Computer_1402	taekwondo
+student763	10120762	Computer_1402	taekwondo
+student764	10120763	Computer_1402	football
+student765	10120764	Computer_1402	football
+student766	10120765	Computer_1402	gymnastics
+student767	10120766	Computer_1402	swimming
+student768	10120767	Computer_1402	swimming
+student769	10120768	Computer_1402	table tennis
+student770	10120769	Computer_1402	taekwondo
+student771	10120770	Computer_1402	taekwondo
+student772	10120771	Computer_1402	gymnastics
+student773	10120772	Computer_1402	gymnastics
+student774	10120773	Computer_1402	badminton
+student775	10120774	Computer_1402	taekwondo
+student776	10120775	Computer_1402	gymnastics
+student777	10120776	Computer_1402	table tennis
+student778	10120777	Computer_1402	taekwondo
+student779	10120778	Computer_1402	taekwondo
+student780	10120779	Computer_1402	football
+student781	10120780	Computer_1402	football
+student782	10120781	Computer_1402	gymnastics
+student783	10120782	Computer_1402	swimming
+student784	10120783	Computer_1402	swimming
+student785	10120784	Computer_1402	table tennis
+student786	10120785	Computer_1402	taekwondo
+student787	10120786	Computer_1402	taekwondo
+student788	10120787	Computer_1402	gymnastics
+student789	10120788	Computer_1402	gymnastics
+student790	10120789	Computer_1402	basketball
+student791	10120790	Computer_1402	basketball
+student792	10120791	Computer_1402	basketball
+student793	10120792	Computer_1402	gymnastics
+student794	10120793	Computer_1402	gymnastics
+student795	10120794	Computer_1403	basketball
+student796	10120795	Computer_1403	tennis
+student797	10120796	Computer_1403	gymnastics
+student798	10120797	Computer_1403	basketball
+student799	10120798	Computer_1403	gymnastics
+student800	10120799	Computer_1403	tennis
+student801	10120800	Computer_1403	basketball
+student802	10120801	Computer_1403	tennis
+student803	10120802	Computer_1403	badminton
+student804	10120803	Computer_1403	basketball
+student805	10120804	Computer_1403	football
+student806	10120805	Computer_1403	basketball
+student807	10120806	Computer_1403	football
+student808	10120807	Computer_1403	table tennis
+student809	10120808	Computer_1403	swimming
+student810	10120809	Computer_1403	swimming
+student811	10120810	Computer_1403	swimming
+student812	10120811	Computer_1403	football
+student813	10120812	Computer_1403	table tennis
+student814	10120813	Computer_1403	badminton
+student815	10120814	Computer_1403	volleyball
+student816	10120815	Computer_1403	badminton
+student817	10120816	Computer_1403	volleyball
+student818	10120817	Computer_1403	tennis
+student819	10120818	Computer_1403	volleyball
+student820	10120819	Computer_1403	swimming
+student821	10120820	Computer_1403	football
+student822	10120821	Computer_1403	football
+student823	10120822	Computer_1403	table tennis
+student824	10120823	Computer_1403	badminton
+student825	10120824	Computer_1403	volleyball
+student826	10120825	Computer_1403	tennis
+student827	10120826	Computer_1403	volleyball
+student828	10120827	Computer_1403	volleyball
+student829	10120828	Computer_1403	tennis
+student830	10120829	Computer_1403	volleyball
+student831	10120830	Computer_1403	basketball
+student832	10120831	Computer_1403	taekwondo
+student833	10120832	Computer_1403	taekwondo
+student834	10120833	Computer_1403	table tennis
+student835	10120834	Computer_1403	badminton
+student836	10120835	Computer_1403	tennis
+student837	10120836	Computer_1403	swimming
+student838	10120837	Computer_1403	volleyball
+student839	10120838	Computer_1403	football
+student840	10120839	Computer_1403	table tennis
+student841	10120840	Computer_1404	badminton
+student842	10120841	Computer_1404	swimming
+student843	10120842	Computer_1404	tennis
+student844	10120843	Computer_1404	volleyball
+student845	10120844	Computer_1404	badminton
+student846	10120845	Computer_1404	basketball
+student847	10120846	Computer_1404	tennis
+student848	10120847	Computer_1404	tennis
+student849	10120848	Computer_1404	badminton
+student850	10120849	Computer_1404	swimming
+student851	10120850	Computer_1404	table tennis
+student852	10120851	Computer_1404	badminton
+student853	10120852	Computer_1404	volleyball
+student854	10120853	Computer_1404	tennis
+student855	10120854	Computer_1404	badminton
+student856	10120855	Computer_1404	basketball
+student857	10120856	Computer_1404	table tennis
+student858	10120857	Computer_1404	table tennis
+student859	10120858	Computer_1404	table tennis
+student860	10120859	Computer_1404	table tennis
+student861	10120860	Computer_1404	taekwondo
+student862	10120861	Computer_1404	taekwondo
+student863	10120862	Computer_1404	football
+student864	10120863	Computer_1404	football
+student865	10120864	Computer_1404	gymnastics
+student866	10120865	Computer_1404	swimming
+student867	10120866	Computer_1404	swimming
+student868	10120867	Computer_1404	table tennis
+student869	10120868	Computer_1404	taekwondo
+student870	10120869	Computer_1404	taekwondo
+student871	10120870	Computer_1404	gymnastics
+student872	10120871	Computer_1404	gymnastics
+student873	10120872	Computer_1404	badminton
+student874	10120873	Computer_1404	taekwondo
+student875	10120874	Computer_1404	gymnastics
+student876	10120875	Computer_1404	table tennis
+student877	10120876	Computer_1404	taekwondo
+student878	10120877	Computer_1404	taekwondo
+student879	10120878	Computer_1404	football
+student880	10120879	Computer_1404	football
+student881	10120880	Computer_1404	gymnastics
+student882	10120881	Computer_1404	swimming
+student883	10120882	Computer_1404	swimming
+student884	10120883	Computer_1404	table tennis
+student885	10120884	Computer_1404	taekwondo
+student886	10120885	Computer_1404	taekwondo
+student887	10120886	Computer_1404	gymnastics
+student888	10120887	Computer_1405	gymnastics
+student889	10120888	Computer_1405	basketball
+student890	10120889	Computer_1405	basketball
+student891	10120890	Computer_1405	basketball
+student892	10120891	Computer_1405	gymnastics
+student893	10120892	Computer_1405	gymnastics
+student894	10120893	Computer_1405	basketball
+student895	10120894	Computer_1405	tennis
+student896	10120895	Computer_1405	gymnastics
+student897	10120896	Computer_1405	basketball
+student898	10120897	Computer_1405	gymnastics
+student899	10120898	Computer_1405	tennis
+student900	10120899	Computer_1405	basketball
+student901	10120900	Computer_1405	tennis
+student902	10120901	Computer_1405	badminton
+student903	10120902	Computer_1405	basketball
+student904	10120903	Computer_1405	football
+student905	10120904	Computer_1405	basketball
+student906	10120905	Computer_1405	football
+student907	10120906	Computer_1405	table tennis
+student908	10120907	Computer_1405	swimming
+student909	10120908	Computer_1405	swimming
+student910	10120909	Computer_1405	swimming
+student911	10120910	Computer_1405	football
+student912	10120911	Computer_1405	table tennis
+student913	10120912	Computer_1405	badminton
+student914	10120913	Computer_1405	volleyball
+student915	10120914	Computer_1405	badminton
+student916	10120915	Computer_1405	volleyball
+student917	10120916	Computer_1405	tennis
+student918	10120917	Computer_1405	volleyball
+student919	10120918	Computer_1405	swimming
+student920	10120919	Computer_1405	football
+student921	10120920	Computer_1405	football
+student922	10120921	Computer_1405	table tennis
+student923	10120922	Computer_1405	badminton
+student924	10120923	Computer_1405	volleyball
+student925	10120924	Computer_1405	tennis
+student926	10120925	Computer_1405	volleyball
+student927	10120926	Computer_1405	volleyball
+student928	10120927	Computer_1405	tennis
+student929	10120928	Computer_1405	volleyball
+student930	10120929	Computer_1405	basketball
+student931	10120930	Computer_1405	taekwondo
+student932	10120931	Computer_1405	taekwondo
+student933	10120932	Computer_1405	table tennis
+student934	10120933	Computer_1405	badminton
+student935	10120934	Computer_1405	tennis
+student936	10120935	Mobile_1401	swimming
+student937	10120936	Mobile_1401	volleyball
+student938	10120937	Mobile_1401	football
+student939	10120938	Mobile_1401	table tennis
+student940	10120939	Mobile_1401	badminton
+student941	10120940	Mobile_1401	swimming
+student942	10120941	Mobile_1401	tennis
+student943	10120942	Mobile_1401	volleyball
+student944	10120943	Mobile_1401	badminton
+student945	10120944	Mobile_1401	basketball
+student946	10120945	Mobile_1401	tennis
+student947	10120946	Mobile_1401	tennis
+student948	10120947	Mobile_1401	badminton
+student949	10120948	Mobile_1401	swimming
+student950	10120949	Mobile_1401	table tennis
+student951	10120950	Mobile_1401	badminton
+student952	10120951	Mobile_1401	volleyball
+student953	10120952	Mobile_1401	tennis
+student954	10120953	Mobile_1401	badminton
+student955	10120954	Mobile_1401	basketball
+student956	10120955	Mobile_1401	table tennis
+student957	10120956	Mobile_1401	table tennis
+student958	10120957	Mobile_1401	table tennis
+student959	10120958	Mobile_1401	table tennis
+student960	10120959	Mobile_1401	taekwondo
+student961	10120960	Mobile_1401	taekwondo
+student962	10120961	Mobile_1401	football
+student963	10120962	Mobile_1401	football
+student964	10120963	Mobile_1401	gymnastics
+student965	10120964	Mobile_1401	swimming
+student966	10120965	Mobile_1401	swimming
+student967	10120966	Mobile_1401	table tennis
+student968	10120967	Mobile_1401	taekwondo
+student969	10120968	Mobile_1401	taekwondo
+student970	10120969	Mobile_1401	gymnastics
+student971	10120970	Mobile_1401	gymnastics
+student972	10120971	Mobile_1401	badminton
+student973	10120972	Mobile_1401	taekwondo
+student974	10120973	Mobile_1401	gymnastics
+student975	10120974	Mobile_1401	table tennis
+student976	10120975	Mobile_1401	taekwondo
+student977	10120976	Mobile_1401	taekwondo
+student978	10120977	Mobile_1401	football
+student979	10120978	Mobile_1401	football
+student980	10120979	Mobile_1401	gymnastics
+student981	10120980	Mobile_1402	swimming
+student982	10120981	Mobile_1402	swimming
+student983	10120982	Mobile_1402	table tennis
+student984	10120983	Mobile_1402	taekwondo
+student985	10120984	Mobile_1402	taekwondo
+student986	10120985	Mobile_1402	gymnastics
+student987	10120986	Mobile_1402	gymnastics
+student988	10120987	Mobile_1402	basketball
+student989	10120988	Mobile_1402	basketball
+student990	10120989	Mobile_1402	basketball
+student991	10120990	Mobile_1402	gymnastics
+student992	10120991	Mobile_1402	gymnastics
+student993	10120992	Mobile_1402	basketball
+student994	10120993	Mobile_1402	tennis
+student995	10120994	Mobile_1402	gymnastics
+student996	10120995	Mobile_1402	basketball
+student997	10120996	Mobile_1402	gymnastics
+student998	10120997	Mobile_1402	tennis
+student999	10120998	Mobile_1402	basketball
+student1000	10120999	Mobile_1402	tennis
+student1001	10121000	Mobile_1402	badminton
+student1002	10121001	Mobile_1402	basketball
+student1003	10121002	Mobile_1402	football
+student1004	10121003	Mobile_1402	basketball
+student1005	10121004	Mobile_1402	football
+student1006	10121005	Mobile_1402	table tennis
+student1007	10121006	Mobile_1402	swimming
+student1008	10121007	Mobile_1402	swimming
+student1009	10121008	Mobile_1402	swimming
+student1010	10121009	Mobile_1402	football
+student1011	10121010	Mobile_1402	table tennis
+student1012	10121011	Mobile_1402	badminton
+student1013	10121012	Mobile_1402	volleyball
+student1014	10121013	Mobile_1402	badminton
+student1015	10121014	Mobile_1402	volleyball
+student1016	10121015	Mobile_1402	tennis
+student1017	10121016	Mobile_1402	volleyball
+student1018	10121017	Mobile_1402	swimming
+student1019	10121018	Mobile_1402	football
+student1020	10121019	Mobile_1402	football
+student1021	10121020	Mobile_1402	table tennis
+student1022	10121021	Mobile_1402	badminton
+student1023	10121022	Mobile_1402	volleyball
+student1024	10121023	Mobile_1402	tennis
+student1025	10121024	Mobile_1402	volleyball
+student1026	10121025	Mobile_1402	volleyball
+student1027	10121026	Mobile_1402	tennis
+student1028	10121027	Mobile_1402	volleyball
+student1029	10121028	Mobile_1402	basketball
+student1030	10121029	Mobile_1402	taekwondo
+student1031	10121030	Mobile_1403	taekwondo
+student1032	10121031	Mobile_1403	table tennis
+student1033	10121032	Mobile_1403	badminton
+student1034	10121033	Mobile_1403	tennis
+student1035	10121034	Mobile_1403	swimming
+student1036	10121035	Mobile_1403	volleyball
+student1037	10121036	Mobile_1403	football
+student1038	10121037	Mobile_1403	table tennis
+student1039	10121038	Mobile_1403	badminton
+student1040	10121039	Mobile_1403	swimming
+student1041	10121040	Mobile_1403	tennis
+student1042	10121041	Mobile_1403	volleyball
+student1043	10121042	Mobile_1403	badminton
+student1044	10121043	Mobile_1403	basketball
+student1045	10121044	Mobile_1403	tennis
+student1046	10121045	Mobile_1403	tennis
+student1047	10121046	Mobile_1403	badminton
+student1048	10121047	Mobile_1403	swimming
+student1049	10121048	Mobile_1403	table tennis
+student1050	10121049	Mobile_1403	badminton
+student1051	10121050	Mobile_1403	volleyball
+student1052	10121051	Mobile_1403	tennis
+student1053	10121052	Mobile_1403	badminton
+student1054	10121053	Mobile_1403	basketball
+student1055	10121054	Mobile_1403	table tennis
+student1056	10121055	Mobile_1403	table tennis
+student1057	10121056	Mobile_1403	table tennis
+student1058	10121057	Mobile_1403	table tennis
+student1059	10121058	Mobile_1403	taekwondo
+student1060	10121059	Mobile_1403	taekwondo
+student1061	10121060	Mobile_1403	football
+student1062	10121061	Mobile_1403	football
+student1063	10121062	Mobile_1403	gymnastics
+student1064	10121063	Mobile_1403	swimming
+student1065	10121064	Mobile_1403	swimming
+student1066	10121065	Mobile_1403	table tennis
+student1067	10121066	Mobile_1403	taekwondo
+student1068	10121067	Mobile_1403	taekwondo
+student1069	10121068	Mobile_1403	gymnastics
+student1070	10121069	Mobile_1403	gymnastics
+student1071	10121070	Mobile_1403	badminton
+student1072	10121071	Mobile_1403	taekwondo
+student1073	10121072	Mobile_1403	gymnastics
+student1074	10121073	Mobile_1403	table tennis
+student1075	10121074	Mobile_1403	taekwondo
+student1076	10121075	Mobile_1403	taekwondo
+student1077	10121076	Mobile_1403	football
+student1078	10121077	Mobile_1403	football
+student1079	10121078	Mobile_1403	gymnastics
+student1080	10121079	Mobile_1403	swimming
+student1081	10121080	Mobile_1403	swimming
+student1082	10121081	Mobile_1403	table tennis
+student1083	10121082	Mobile_1403	taekwondo
+student1084	10121083	Mobile_1403	taekwondo
+student1085	10121084	Mobile_1403	gymnastics
+student1086	10121085	Mobile_1403	gymnastics
+student1087	10121086	Mobile_1403	basketball
+student1088	10121087	Mobile_1403	basketball
+student1089	10121088	Mobile_1403	basketball
+student1090	10121089	Mobile_1403	gymnastics
+student1091	10121090	Mobile_1403	gymnastics
+student1092	10121091	Mobile_1403	basketball
+student1093	10121092	Mobile_1403	tennis
+student1094	10121093	Mobile_1403	gymnastics
+student1095	10121094	Mobile_1403	basketball
+student1096	10121095	Mobile_1403	gymnastics
+student1097	10121096	Mobile_1403	tennis
+student1098	10121097	Mobile_1403	basketball
+student1099	10121098	Mobile_1403	tennis
+student1100	10121099	Mobile_1403	badminton
+student1101	10121100	Mobile_1403	basketball
+student1102	10121101	Mobile_1404	football
+student1103	10121102	Mobile_1404	basketball
+student1104	10121103	Mobile_1404	football
+student1105	10121104	Mobile_1404	table tennis
+student1106	10121105	Mobile_1404	swimming
+student1107	10121106	Mobile_1404	swimming
+student1108	10121107	Mobile_1404	swimming
+student1109	10121108	Mobile_1404	football
+student1110	10121109	Mobile_1404	table tennis
+student1111	10121110	Mobile_1404	badminton
+student1112	10121111	Mobile_1404	volleyball
+student1113	10121112	Mobile_1404	badminton
+student1114	10121113	Mobile_1404	volleyball
+student1115	10121114	Mobile_1404	tennis
+student1116	10121115	Mobile_1404	volleyball
+student1117	10121116	Mobile_1404	swimming
+student1118	10121117	Mobile_1404	football
+student1119	10121118	Mobile_1404	football
+student1120	10121119	Mobile_1404	table tennis
+student1121	10121120	Mobile_1404	badminton
+student1122	10121121	Mobile_1404	volleyball
+student1123	10121122	Mobile_1404	tennis
+student1124	10121123	Mobile_1404	volleyball
+student1125	10121124	Mobile_1404	volleyball
+student1126	10121125	Mobile_1404	tennis
+student1127	10121126	Mobile_1404	volleyball
+student1128	10121127	Mobile_1404	basketball
+student1129	10121128	Mobile_1404	taekwondo
+student1130	10121129	Mobile_1404	taekwondo
+student1131	10121130	Mobile_1404	table tennis
+student1132	10121131	Mobile_1404	badminton
+student1133	10121132	Mobile_1404	tennis
+student1134	10121133	Mobile_1404	swimming
+student1135	10121134	Mobile_1404	volleyball
+student1136	10121135	Mobile_1404	football
+student1137	10121136	Mobile_1404	table tennis
+student1138	10121137	Mobile_1404	badminton
+student1139	10121138	Mobile_1404	swimming
+student1140	10121139	Mobile_1404	tennis
+student1141	10121140	Mobile_1404	volleyball
+student1142	10121141	Mobile_1404	badminton
+student1143	10121142	Mobile_1404	basketball
+student1144	10121143	Mobile_1404	tennis
+student1145	10121144	Mobile_1404	tennis
+student1146	10121145	Mobile_1404	badminton
+student1147	10121146	Mobile_1404	swimming
+student1148	10121147	Mobile_1404	table tennis
+student1149	10121148	Mobile_1404	badminton
+student1150	10121149	Mobile_1404	volleyball
+student1151	10121150	Mobile_1404	tennis
+student1152	10121151	Mobile_1405	badminton
+student1153	10121152	Mobile_1405	basketball
+student1154	10121153	Mobile_1405	table tennis
+student1155	10121154	Mobile_1405	table tennis
+student1156	10121155	Mobile_1405	table tennis
+student1157	10121156	Mobile_1405	table tennis
+student1158	10121157	Mobile_1405	taekwondo
+student1159	10121158	Mobile_1405	taekwondo
+student1160	10121159	Mobile_1405	football
+student1161	10121160	Mobile_1405	football
+student1162	10121161	Mobile_1405	gymnastics
+student1163	10121162	Mobile_1405	swimming
+student1164	10121163	Mobile_1405	swimming
+student1165	10121164	Mobile_1405	table tennis
+student1166	10121165	Mobile_1405	taekwondo
+student1167	10121166	Mobile_1405	taekwondo
+student1168	10121167	Mobile_1405	gymnastics
+student1169	10121168	Mobile_1405	gymnastics
+student1170	10121169	Mobile_1405	badminton
+student1171	10121170	Mobile_1405	taekwondo
+student1172	10121171	Mobile_1405	gymnastics
+student1173	10121172	Mobile_1405	table tennis
+student1174	10121173	Mobile_1405	taekwondo
+student1175	10121174	Mobile_1405	taekwondo
+student1176	10121175	Mobile_1405	football
+student1177	10121176	Mobile_1405	football
+student1178	10121177	Mobile_1405	gymnastics
+student1179	10121178	Mobile_1405	swimming
+student1180	10121179	Mobile_1405	swimming
+student1181	10121180	Mobile_1405	table tennis
+student1182	10121181	Mobile_1405	taekwondo
+student1183	10121182	Mobile_1405	taekwondo
+student1184	10121183	Mobile_1405	gymnastics
+student1185	10121184	Mobile_1405	gymnastics
+student1186	10121185	Mobile_1405	basketball
+student1187	10121186	Mobile_1405	basketball
+student1188	10121187	Mobile_1405	basketball
+student1189	10121188	Mobile_1405	gymnastics
+student1190	10121189	Mobile_1405	gymnastics
+student1191	10121190	Mobile_1405	basketball
+student1192	10121191	Mobile_1405	tennis
+student1193	10121192	Mobile_1405	gymnastics
+student1194	10121193	Mobile_1405	basketball
+student1195	10121194	Mobile_1405	gymnastics
+student1196	10121195	Mobile_1406	tennis
+student1197	10121196	Mobile_1406	basketball
+student1198	10121197	Mobile_1406	tennis
+student1199	10121198	Mobile_1406	table tennis
+student1200	10121199	Mobile_1406	badminton
+student1201	10121200	Mobile_1406	table tennis
+student1202	10121201	Mobile_1406	badminton
+student1203	10121202	Mobile_1406	swimming
+student1204	10121203	Mobile_1406	table tennis
+student1205	10121204	Mobile_1406	swimming
+student1206	10121205	Mobile_1406	table tennis
+student1207	10121206	Mobile_1406	badminton
+student1208	10121207	Mobile_1406	swimming
+student1209	10121208	Mobile_1406	badminton
+student1210	10121209	Mobile_1406	basketball
+student1211	10121210	Mobile_1406	football
+student1212	10121211	Mobile_1406	basketball
+student1213	10121212	Mobile_1406	football
+student1214	10121213	Mobile_1406	table tennis
+student1215	10121214	Mobile_1406	swimming
+student1216	10121215	Mobile_1406	swimming
+student1217	10121216	Mobile_1406	swimming
+student1218	10121217	Mobile_1406	football
+student1219	10121218	Mobile_1406	table tennis
+student1220	10121219	Mobile_1406	badminton
+student1221	10121220	Mobile_1406	volleyball
+student1222	10121221	Mobile_1406	badminton
+student1223	10121222	Mobile_1406	volleyball
+student1224	10121223	Mobile_1406	tennis
+student1225	10121224	Mobile_1406	volleyball
+student1226	10121225	Mobile_1406	swimming
+student1227	10121226	Mobile_1406	football
+student1228	10121227	Mobile_1406	football
+student1229	10121228	Mobile_1406	table tennis
+student1230	10121229	Mobile_1406	badminton
+student1231	10121230	Mobile_1406	volleyball
+student1232	10121231	Mobile_1406	tennis
+student1233	10121232	Mobile_1406	volleyball
+student1234	10121233	Mobile_1406	volleyball
+student1235	10121234	Mobile_1406	tennis
+student1236	10121235	Mobile_1406	volleyball
+student1237	10121236	Mobile_1406	basketball
+student1238	10121237	Mobile_1406	taekwondo
+student1239	10121238	IntOfTh_1401	taekwondo
+student1240	10121239	IntOfTh_1401	table tennis
+student1241	10121240	IntOfTh_1401	badminton
+student1242	10121241	IntOfTh_1401	tennis
+student1243	10121242	IntOfTh_1401	swimming
+student1244	10121243	IntOfTh_1401	volleyball
+student1245	10121244	IntOfTh_1401	football
+student1246	10121245	IntOfTh_1401	table tennis
+student1247	10121246	IntOfTh_1401	badminton
+student1248	10121247	IntOfTh_1401	swimming
+student1249	10121248	IntOfTh_1401	tennis
+student1250	10121249	IntOfTh_1401	volleyball
+student1251	10121250	IntOfTh_1401	badminton
+student1252	10121251	IntOfTh_1401	basketball
+student1253	10121252	IntOfTh_1401	tennis
+student1254	10121253	IntOfTh_1401	tennis
+student1255	10121254	IntOfTh_1401	badminton
+student1256	10121255	IntOfTh_1401	swimming
+student1257	10121256	IntOfTh_1401	table tennis
+student1258	10121257	IntOfTh_1401	badminton
+student1259	10121258	IntOfTh_1401	volleyball
+student1260	10121259	IntOfTh_1401	tennis
+student1261	10121260	IntOfTh_1401	badminton
+student1262	10121261	IntOfTh_1401	basketball
+student1263	10121262	IntOfTh_1401	table tennis
+student1264	10121263	IntOfTh_1401	table tennis
+student1265	10121264	IntOfTh_1401	table tennis
+student1266	10121265	IntOfTh_1401	table tennis
+student1267	10121266	IntOfTh_1401	taekwondo
+student1268	10121267	IntOfTh_1401	taekwondo
+student1269	10121268	IntOfTh_1401	football
+student1270	10121269	IntOfTh_1401	football
+student1271	10121270	IntOfTh_1401	gymnastics
+student1272	10121271	IntOfTh_1401	swimming
+student1273	10121272	IntOfTh_1401	swimming
+student1274	10121273	IntOfTh_1401	table tennis
+student1275	10121274	IntOfTh_1401	taekwondo
+student1276	10121275	IntOfTh_1401	taekwondo
+student1277	10121276	IntOfTh_1401	gymnastics
+student1278	10121277	IntOfTh_1401	gymnastics
+student1279	10121278	IntOfTh_1401	badminton
+student1280	10121279	IntOfTh_1401	taekwondo
+student1281	10121280	IntOfTh_1401	gymnastics
+student1282	10121281	IntOfTh_1401	table tennis
+student1283	10121282	IntOfTh_1401	taekwondo
+student1284	10121283	IntOfTh_1401	taekwondo
+student1285	10121284	IntOfTh_1401	football
+student1286	10121285	IntOfTh_1402	football
+student1287	10121286	IntOfTh_1402	gymnastics
+student1288	10121287	IntOfTh_1402	swimming
+student1289	10121288	IntOfTh_1402	swimming
+student1290	10121289	IntOfTh_1402	table tennis
+student1291	10121290	IntOfTh_1402	taekwondo
+student1292	10121291	IntOfTh_1402	taekwondo
+student1293	10121292	IntOfTh_1402	gymnastics
+student1294	10121293	IntOfTh_1402	gymnastics
+student1295	10121294	IntOfTh_1402	basketball
+student1296	10121295	IntOfTh_1402	basketball
+student1297	10121296	IntOfTh_1402	basketball
+student1298	10121297	IntOfTh_1402	gymnastics
+student1299	10121298	IntOfTh_1402	gymnastics
+student1300	10121299	IntOfTh_1402	basketball
+student1301	10121300	IntOfTh_1402	tennis
+student1302	10121301	IntOfTh_1402	gymnastics
+student1303	10121302	IntOfTh_1402	basketball
+student1304	10121303	IntOfTh_1402	gymnastics
+student1305	10121304	IntOfTh_1402	tennis
+student1306	10121305	IntOfTh_1402	basketball
+student1307	10121306	IntOfTh_1402	tennis
+student1308	10121307	IntOfTh_1402	badminton
+student1309	10121308	IntOfTh_1402	basketball
+student1310	10121309	IntOfTh_1402	football
+student1311	10121310	IntOfTh_1402	basketball
+student1312	10121311	IntOfTh_1402	football
+student1313	10121312	IntOfTh_1402	table tennis
+student1314	10121313	IntOfTh_1402	swimming
+student1315	10121314	IntOfTh_1402	swimming
+student1316	10121315	IntOfTh_1402	swimming
+student1317	10121316	IntOfTh_1402	football
+student1318	10121317	IntOfTh_1402	table tennis
+student1319	10121318	IntOfTh_1402	badminton
+student1320	10121319	IntOfTh_1402	volleyball
+student1321	10121320	IntOfTh_1402	badminton
+student1322	10121321	IntOfTh_1402	volleyball
+student1323	10121322	IntOfTh_1402	tennis
+student1324	10121323	IntOfTh_1402	volleyball
+student1325	10121324	IntOfTh_1402	swimming
+student1326	10121325	IntOfTh_1402	football
+student1327	10121326	IntOfTh_1402	football
+student1328	10121327	IntOfTh_1402	table tennis
+student1329	10121328	IntOfTh_1402	badminton
+student1330	10121329	IntOfTh_1402	volleyball
+student1331	10121330	IntOfTh_1402	tennis
+student1332	10121331	IntOfTh_1402	volleyball
+student1333	10121332	IntOfTh_1402	volleyball
+student1334	10121333	IntOfTh_1402	tennis
+student1335	10121334	IntOfTh_1402	volleyball
+student1336	10121335	IntOfTh_1402	basketball
+student1337	10121336	IntOfTh_1402	taekwondo
+student1338	10121337	IntOfTh_1402	taekwondo
+student1339	10121338	IntOfTh_1402	table tennis
+student1340	10121339	IntOfTh_1402	badminton
+student1341	10121340	IntOfTh_1402	tennis
+student1342	10121341	IntOfTh_1402	swimming
+student1343	10121342	IntOfTh_1402	volleyball
+student1344	10121343	IntOfTh_1402	football
+student1345	10121344	IntOfTh_1402	table tennis
+student1346	10121345	IntOfTh_1403	badminton
+student1347	10121346	IntOfTh_1403	swimming
+student1348	10121347	IntOfTh_1403	tennis
+student1349	10121348	IntOfTh_1403	volleyball
+student1350	10121349	IntOfTh_1403	badminton
+student1351	10121350	IntOfTh_1403	basketball
+student1352	10121351	IntOfTh_1403	tennis
+student1353	10121352	IntOfTh_1403	tennis
+student1354	10121353	IntOfTh_1403	badminton
+student1355	10121354	IntOfTh_1403	swimming
+student1356	10121355	IntOfTh_1403	table tennis
+student1357	10121356	IntOfTh_1403	badminton
+student1358	10121357	IntOfTh_1403	volleyball
+student1359	10121358	IntOfTh_1403	tennis
+student1360	10121359	IntOfTh_1403	badminton
+student1361	10121360	IntOfTh_1403	basketball
+student1362	10121361	IntOfTh_1403	table tennis
+student1363	10121362	IntOfTh_1403	table tennis
+student1364	10121363	IntOfTh_1403	table tennis
+student1365	10121364	IntOfTh_1403	table tennis
+student1366	10121365	IntOfTh_1403	taekwondo
+student1367	10121366	IntOfTh_1403	taekwondo
+student1368	10121367	IntOfTh_1403	football
+student1369	10121368	IntOfTh_1403	football
+student1370	10121369	IntOfTh_1403	gymnastics
+student1371	10121370	IntOfTh_1403	swimming
+student1372	10121371	IntOfTh_1403	swimming
+student1373	10121372	IntOfTh_1403	table tennis
+student1374	10121373	IntOfTh_1403	taekwondo
+student1375	10121374	IntOfTh_1403	taekwondo
+student1376	10121375	IntOfTh_1403	gymnastics
+student1377	10121376	IntOfTh_1403	gymnastics
+student1378	10121377	IntOfTh_1403	badminton
+student1379	10121378	IntOfTh_1403	taekwondo
+student1380	10121379	IntOfTh_1403	gymnastics
+student1381	10121380	IntOfTh_1403	table tennis
+student1382	10121381	IntOfTh_1403	taekwondo
+student1383	10121382	IntOfTh_1403	taekwondo
+student1384	10121383	IntOfTh_1403	football
+student1385	10121384	IntOfTh_1403	football
+student1386	10121385	IntOfTh_1403	gymnastics
+student1387	10121386	IntOfTh_1403	swimming
+student1388	10121387	IntOfTh_1403	swimming
+student1389	10121388	IntOfTh_1403	table tennis
+student1390	10121389	IntOfTh_1403	taekwondo
+student1391	10121390	IntOfTh_1403	taekwondo
+student1392	10121391	IntOfTh_1403	gymnastics
+student1393	10121392	IntOfTh_1403	gymnastics
+student1394	10121393	IntOfTh_1403	basketball
+student1395	10121394	IntOfTh_1403	basketball
+student1396	10121395	IntOfTh_1403	basketball
+student1397	10121396	IntOfTh_1403	gymnastics
+student1398	10121397	IntOfTh_1403	gymnastics
+student1399	10121398	IntOfTh_1403	basketball
+student1400	10121399	IntOfTh_1403	tennis
+student1401	10121400	IntOfTh_1404	gymnastics
+student1402	10121401	IntOfTh_1404	basketball
+student1403	10121402	IntOfTh_1404	gymnastics
+student1404	10121403	IntOfTh_1404	tennis
+student1405	10121404	IntOfTh_1404	basketball
+student1406	10121405	IntOfTh_1404	tennis
+student1407	10121406	IntOfTh_1404	badminton
+student1408	10121407	IntOfTh_1404	basketball
+student1409	10121408	IntOfTh_1404	football
+student1410	10121409	IntOfTh_1404	basketball
+student1411	10121410	IntOfTh_1404	football
+student1412	10121411	IntOfTh_1404	table tennis
+student1413	10121412	IntOfTh_1404	swimming
+student1414	10121413	IntOfTh_1404	swimming
+student1415	10121414	IntOfTh_1404	swimming
+student1416	10121415	IntOfTh_1404	football
+student1417	10121416	IntOfTh_1404	table tennis
+student1418	10121417	IntOfTh_1404	badminton
+student1419	10121418	IntOfTh_1404	volleyball
+student1420	10121419	IntOfTh_1404	badminton
+student1421	10121420	IntOfTh_1404	volleyball
+student1422	10121421	IntOfTh_1404	tennis
+student1423	10121422	IntOfTh_1404	volleyball
+student1424	10121423	IntOfTh_1404	swimming
+student1425	10121424	IntOfTh_1404	football
+student1426	10121425	IntOfTh_1404	football
+student1427	10121426	IntOfTh_1404	table tennis
+student1428	10121427	IntOfTh_1404	badminton
+student1429	10121428	IntOfTh_1404	volleyball
+student1430	10121429	IntOfTh_1404	tennis
+student1431	10121430	IntOfTh_1404	volleyball
+student1432	10121431	IntOfTh_1404	volleyball
+student1433	10121432	IntOfTh_1404	tennis
+student1434	10121433	IntOfTh_1404	volleyball
+student1435	10121434	IntOfTh_1404	basketball
+student1436	10121435	IntOfTh_1404	taekwondo
+student1437	10121436	IntOfTh_1404	taekwondo
+student1438	10121437	IntOfTh_1404	table tennis
+student1439	10121438	IntOfTh_1404	badminton
+student1440	10121439	IntOfTh_1404	tennis
+student1441	10121440	IntOfTh_1404	swimming
+student1442	10121441	IntOfTh_1404	volleyball
+student1443	10121442	IntOfTh_1404	football
+student1444	10121443	IntOfTh_1404	table tennis
+student1445	10121444	IntOfTh_1404	badminton
+student1446	10121445	IntOfTh_1404	swimming
+student1447	10121446	IntOfTh_1404	tennis
+student1448	10121447	IntOfTh_1404	volleyball
+student1449	10121448	IntOfTh_1404	badminton
+student1450	10121449	IntOfTh_1404	basketball
+student1451	10121450	IntOfTh_1404	tennis
+student1452	10121451	IntOfTh_1404	tennis
+student1453	10121452	IntOfTh_1404	badminton
+student1454	10121453	IntOfTh_1404	swimming
+student1455	10121454	IntOfTh_1404	table tennis
+student1456	10121455	IntOfTh_1404	badminton
+student1457	10121456	IntOfTh_1404	volleyball
+student1458	10121457	IntOfTh_1404	tennis
+student1459	10121458	IntOfTh_1404	badminton
+student1460	10121459	IntOfTh_1404	basketball
+student1461	10121460	IntOfTh_1404	table tennis
+student1462	10121461	IntOfTh_1404	table tennis
+student1463	10121462	IntOfTh_1405	table tennis
+student1464	10121463	IntOfTh_1405	table tennis
+student1465	10121464	IntOfTh_1405	taekwondo
+student1466	10121465	IntOfTh_1405	taekwondo
+student1467	10121466	IntOfTh_1405	football
+student1468	10121467	IntOfTh_1405	football
+student1469	10121468	IntOfTh_1405	gymnastics
+student1470	10121469	IntOfTh_1405	swimming
+student1471	10121470	IntOfTh_1405	swimming
+student1472	10121471	IntOfTh_1405	table tennis
+student1473	10121472	IntOfTh_1405	taekwondo
+student1474	10121473	IntOfTh_1405	taekwondo
+student1475	10121474	IntOfTh_1405	gymnastics
+student1476	10121475	IntOfTh_1405	gymnastics
+student1477	10121476	IntOfTh_1405	badminton
+student1478	10121477	IntOfTh_1405	taekwondo
+student1479	10121478	IntOfTh_1405	gymnastics
+student1480	10121479	IntOfTh_1405	table tennis
+student1481	10121480	IntOfTh_1405	taekwondo
+student1482	10121481	IntOfTh_1405	taekwondo
+student1483	10121482	IntOfTh_1405	football
+student1484	10121483	IntOfTh_1405	football
+student1485	10121484	IntOfTh_1405	gymnastics
+student1486	10121485	IntOfTh_1405	swimming
+student1487	10121486	IntOfTh_1405	swimming
+student1488	10121487	IntOfTh_1405	table tennis
+student1489	10121488	IntOfTh_1405	taekwondo
+student1490	10121489	IntOfTh_1405	taekwondo
+student1491	10121490	IntOfTh_1405	gymnastics
+student1492	10121491	IntOfTh_1405	gymnastics
+student1493	10121492	IntOfTh_1405	basketball
+student1494	10121493	IntOfTh_1405	basketball
+student1495	10121494	IntOfTh_1405	basketball
+student1496	10121495	IntOfTh_1405	gymnastics
+student1497	10121496	IntOfTh_1405	gymnastics
+student1498	10121497	IntOfTh_1405	basketball
+student1499	10121498	IntOfTh_1405	tennis
+student1500	10121499	IntOfTh_1405	gymnastics
+student1501	10121500	IntOfTh_1405	basketball
+student1502	10121501	IntOfTh_1405	gymnastics
+student1503	10121502	IntOfTh_1405	tennis
+student1504	10121503	IntOfTh_1405	basketball
+student1505	10121504	IntOfTh_1405	tennis
+student1506	10121505	IntOfTh_1405	badminton
+student1507	10121506	IntOfTh_1406	basketball
+student1508	10121507	IntOfTh_1406	football
+student1509	10121508	IntOfTh_1406	basketball
+student1510	10121509	IntOfTh_1406	football
+student1511	10121510	IntOfTh_1406	table tennis
+student1512	10121511	IntOfTh_1406	swimming
+student1513	10121512	IntOfTh_1406	swimming
+student1514	10121513	IntOfTh_1406	swimming
+student1515	10121514	IntOfTh_1406	football
+student1516	10121515	IntOfTh_1406	table tennis
+student1517	10121516	IntOfTh_1406	badminton
+student1518	10121517	IntOfTh_1406	volleyball
+student1519	10121518	IntOfTh_1406	badminton
+student1520	10121519	IntOfTh_1406	volleyball
+student1521	10121520	IntOfTh_1406	tennis
+student1522	10121521	IntOfTh_1406	volleyball
+student1523	10121522	IntOfTh_1406	swimming
+student1524	10121523	IntOfTh_1406	football
+student1525	10121524	IntOfTh_1406	football
+student1526	10121525	IntOfTh_1406	table tennis
+student1527	10121526	IntOfTh_1406	badminton
+student1528	10121527	IntOfTh_1406	volleyball
+student1529	10121528	IntOfTh_1406	tennis
+student1530	10121529	IntOfTh_1406	volleyball
+student1531	10121530	IntOfTh_1406	volleyball
+student1532	10121531	IntOfTh_1406	tennis
+student1533	10121532	IntOfTh_1406	volleyball
+student1534	10121533	IntOfTh_1406	basketball
+student1535	10121534	IntOfTh_1406	taekwondo
+student1536	10121535	IntOfTh_1406	taekwondo
+student1537	10121536	IntOfTh_1406	table tennis
+student1538	10121537	IntOfTh_1406	badminton
+student1539	10121538	IntOfTh_1406	tennis
+student1540	10121539	IntOfTh_1406	swimming
+student1541	10121540	IntOfTh_1406	volleyball
+student1542	10121541	IntOfTh_1406	football
+student1543	10121542	IntOfTh_1406	table tennis
+student1544	10121543	IntOfTh_1406	badminton
+student1545	10121544	IntOfTh_1406	swimming
+student1546	10121545	IntOfTh_1406	tennis
+student1547	10121546	IntOfTh_1406	volleyball
+student1548	10121547	IntOfTh_1406	badminton
+student1549	10121548	IntOfTh_1406	basketball
+student1550	10121549	IntOfTh_1406	tennis
+student1551	10121550	IntOfTh_1406	tennis
+student1552	10121551	IntOfTh_1406	badminton
+student1553	10121552	IntOfTh_1406	swimming
+student1554	10121553	IntOfTh_1406	table tennis
+student1555	10121554	IntOfTh_1406	badminton
+student1556	10121555	IntOfTh_1407	volleyball
+student1557	10121556	IntOfTh_1407	tennis
+student1558	10121557	IntOfTh_1407	badminton
+student1559	10121558	IntOfTh_1407	basketball
+student1560	10121559	IntOfTh_1407	table tennis
+student1561	10121560	IntOfTh_1407	table tennis
+student1562	10121561	IntOfTh_1407	table tennis
+student1563	10121562	IntOfTh_1407	table tennis
+student1564	10121563	IntOfTh_1407	taekwondo
+student1565	10121564	IntOfTh_1407	taekwondo
+student1566	10121565	IntOfTh_1407	football
+student1567	10121566	IntOfTh_1407	football
+student1568	10121567	IntOfTh_1407	gymnastics
+student1569	10121568	IntOfTh_1407	swimming
+student1570	10121569	IntOfTh_1407	swimming
+student1571	10121570	IntOfTh_1407	table tennis
+student1572	10121571	IntOfTh_1407	taekwondo
+student1573	10121572	IntOfTh_1407	taekwondo
+student1574	10121573	IntOfTh_1407	gymnastics
+student1575	10121574	IntOfTh_1407	gymnastics
+student1576	10121575	IntOfTh_1407	badminton
+student1577	10121576	IntOfTh_1407	taekwondo
+student1578	10121577	IntOfTh_1407	gymnastics
+student1579	10121578	IntOfTh_1407	table tennis
+student1580	10121579	IntOfTh_1407	taekwondo
+student1581	10121580	IntOfTh_1407	taekwondo
+student1582	10121581	IntOfTh_1407	football
+student1583	10121582	IntOfTh_1407	football
+student1584	10121583	IntOfTh_1407	gymnastics
+student1585	10121584	IntOfTh_1407	swimming
+student1586	10121585	IntOfTh_1407	swimming
+student1587	10121586	IntOfTh_1407	table tennis
+student1588	10121587	IntOfTh_1407	taekwondo
+student1589	10121588	IntOfTh_1407	taekwondo
+student1590	10121589	IntOfTh_1407	gymnastics
+student1591	10121590	IntOfTh_1407	gymnastics
+student1592	10121591	IntOfTh_1407	basketball
+student1593	10121592	IntOfTh_1407	basketball
+student1594	10121593	IntOfTh_1407	basketball
+student1595	10121594	IntOfTh_1407	gymnastics
+student1596	10121595	IntOfTh_1407	gymnastics
+student1597	10121596	IntOfTh_1407	basketball
+student1598	10121597	IntOfTh_1407	tennis
+student1599	10121598	IntOfTh_1407	gymnastics
+student1600	10121599	IntOfTh_1407	basketball
+student1601	10121600	IntOfTh_1407	gymnastics
+student1602	10121601	IntOfTh_1407	tennis
+student1603	10121602	IntOfTh_1408	basketball
+student1604	10121603	IntOfTh_1408	tennis
+student1605	10121604	IntOfTh_1408	badminton
+student1606	10121605	IntOfTh_1408	basketball
+student1607	10121606	IntOfTh_1408	football
+student1608	10121607	IntOfTh_1408	basketball
+student1609	10121608	IntOfTh_1408	football
+student1610	10121609	IntOfTh_1408	table tennis
+student1611	10121610	IntOfTh_1408	swimming
+student1612	10121611	IntOfTh_1408	swimming
+student1613	10121612	IntOfTh_1408	swimming
+student1614	10121613	IntOfTh_1408	football
+student1615	10121614	IntOfTh_1408	table tennis
+student1616	10121615	IntOfTh_1408	badminton
+student1617	10121616	IntOfTh_1408	volleyball
+student1618	10121617	IntOfTh_1408	badminton
+student1619	10121618	IntOfTh_1408	volleyball
+student1620	10121619	IntOfTh_1408	tennis
+student1621	10121620	IntOfTh_1408	volleyball
+student1622	10121621	IntOfTh_1408	swimming
+student1623	10121622	IntOfTh_1408	football
+student1624	10121623	IntOfTh_1408	football
+student1625	10121624	IntOfTh_1408	table tennis
+student1626	10121625	IntOfTh_1408	badminton
+student1627	10121626	IntOfTh_1408	volleyball
+student1628	10121627	IntOfTh_1408	tennis
+student1629	10121628	IntOfTh_1408	volleyball
+student1630	10121629	IntOfTh_1408	volleyball
+student1631	10121630	IntOfTh_1408	tennis
+student1632	10121631	IntOfTh_1408	volleyball
+student1633	10121632	IntOfTh_1408	basketball
+student1634	10121633	IntOfTh_1408	taekwondo
+student1635	10121634	IntOfTh_1408	taekwondo
+student1636	10121635	IntOfTh_1408	table tennis
+student1637	10121636	IntOfTh_1408	badminton
+student1638	10121637	IntOfTh_1408	tennis
+student1639	10121638	IntOfTh_1408	swimming
+student1640	10121639	IntOfTh_1408	volleyball
+student1641	10121640	IntOfTh_1408	football
+student1642	10121641	IntOfTh_1408	table tennis
+student1643	10121642	IntOfTh_1408	badminton
+student1644	10121643	IntOfTh_1408	swimming
+student1645	10121644	IntOfTh_1408	tennis
+student1646	10121645	IntOfTh_1408	volleyball
+student1647	10121646	IntOfTh_1408	badminton
+student1648	10121647	IntOfTh_1408	basketball
+student1649	10121648	IntOfTh_1408	tennis
+student1650	10121649	IntOfTh_1408	tennis
+student1651	10121650	IntOfTh_1408	badminton
+student1652	10121651	IntOfTh_1408	swimming
+student1653	10121652	IntOfTh_1408	table tennis
+student1654	10121653	IntOfTh_1408	badminton
+student1655	10121654	IntOfTh_1408	volleyball
+student1656	10121655	IntOfTh_1408	tennis
+student1657	10121656	IntOfTh_1408	badminton
+student1658	10121657	IntOfTh_1408	basketball
+student1659	10121658	IntOfTh_1409	table tennis
+student1660	10121659	IntOfTh_1409	table tennis
+student1661	10121660	IntOfTh_1409	table tennis
+student1662	10121661	IntOfTh_1409	table tennis
+student1663	10121662	IntOfTh_1409	taekwondo
+student1664	10121663	IntOfTh_1409	taekwondo
+student1665	10121664	IntOfTh_1409	football
+student1666	10121665	IntOfTh_1409	football
+student1667	10121666	IntOfTh_1409	gymnastics
+student1668	10121667	IntOfTh_1409	swimming
+student1669	10121668	IntOfTh_1409	swimming
+student1670	10121669	IntOfTh_1409	table tennis
+student1671	10121670	IntOfTh_1409	taekwondo
+student1672	10121671	IntOfTh_1409	taekwondo
+student1673	10121672	IntOfTh_1409	gymnastics
+student1674	10121673	IntOfTh_1409	gymnastics
+student1675	10121674	IntOfTh_1409	badminton
+student1676	10121675	IntOfTh_1409	taekwondo
+student1677	10121676	IntOfTh_1409	gymnastics
+student1678	10121677	IntOfTh_1409	table tennis
+student1679	10121678	IntOfTh_1409	taekwondo
+student1680	10121679	IntOfTh_1409	taekwondo
+student1681	10121680	IntOfTh_1409	football
+student1682	10121681	IntOfTh_1409	football
+student1683	10121682	IntOfTh_1409	gymnastics
+student1684	10121683	IntOfTh_1409	swimming
+student1685	10121684	IntOfTh_1409	swimming
+student1686	10121685	IntOfTh_1409	table tennis
+student1687	10121686	IntOfTh_1409	taekwondo
+student1688	10121687	IntOfTh_1409	taekwondo
+student1689	10121688	IntOfTh_1409	gymnastics
+student1690	10121689	IntOfTh_1409	gymnastics
+student1691	10121690	IntOfTh_1409	basketball
+student1692	10121691	IntOfTh_1409	basketball
+student1693	10121692	IntOfTh_1409	basketball
+student1694	10121693	IntOfTh_1409	gymnastics
+student1695	10121694	IntOfTh_1409	gymnastics
+student1696	10121695	IntOfTh_1409	basketball
+student1697	10121696	IntOfTh_1409	tennis
+student1698	10121697	IntOfTh_1409	gymnastics
+student1699	10121698	IntOfTh_1409	basketball
+student1700	10121699	IntOfTh_1409	gymnastics
+student1701	10121700	IntOfTh_1409	tennis
+student1702	10121701	IntOfTh_1409	basketball
+student1703	10121702	IntOfTh_1409	tennis
+student1704	10121703	IntOfTh_1409	badminton
+student1705	10121704	ClOfih_1401	basketball
+student1706	10121705	ClOfih_1401	football
+student1707	10121706	ClOfih_1401	basketball
+student1708	10121707	ClOfih_1401	football
+student1709	10121708	ClOfih_1401	table tennis
+student1710	10121709	ClOfih_1401	swimming
+student1711	10121710	ClOfih_1401	swimming
+student1712	10121711	ClOfih_1401	swimming
+student1713	10121712	ClOfih_1401	football
+student1714	10121713	ClOfih_1401	table tennis
+student1715	10121714	ClOfih_1401	badminton
+student1716	10121715	ClOfih_1401	volleyball
+student1717	10121716	ClOfih_1401	badminton
+student1718	10121717	ClOfih_1401	volleyball
+student1719	10121718	ClOfih_1401	tennis
+student1720	10121719	ClOfih_1401	volleyball
+student1721	10121720	ClOfih_1401	swimming
+student1722	10121721	ClOfih_1401	football
+student1723	10121722	ClOfih_1401	football
+student1724	10121723	ClOfih_1401	table tennis
+student1725	10121724	ClOfih_1401	badminton
+student1726	10121725	ClOfih_1401	volleyball
+student1727	10121726	ClOfih_1401	tennis
+student1728	10121727	ClOfih_1401	volleyball
+student1729	10121728	ClOfih_1401	volleyball
+student1730	10121729	ClOfih_1401	tennis
+student1731	10121730	ClOfih_1401	volleyball
+student1732	10121731	ClOfih_1401	basketball
+student1733	10121732	ClOfih_1401	taekwondo
+student1734	10121733	ClOfih_1401	taekwondo
+student1735	10121734	ClOfih_1401	table tennis
+student1736	10121735	ClOfih_1401	badminton
+student1737	10121736	ClOfih_1401	tennis
+student1738	10121737	ClOfih_1401	swimming
+student1739	10121738	ClOfih_1401	volleyball
+student1740	10121739	ClOfih_1401	football
+student1741	10121740	ClOfih_1401	table tennis
+student1742	10121741	ClOfih_1401	badminton
+student1743	10121742	ClOfih_1401	swimming
+student1744	10121743	ClOfih_1401	tennis
+student1745	10121744	ClOfih_1401	volleyball
+student1746	10121745	ClOfih_1401	badminton
+student1747	10121746	ClOfih_1401	basketball
+student1748	10121747	ClOfih_1401	tennis
+student1749	10121748	ClOfih_1402	tennis
+student1750	10121749	ClOfih_1402	badminton
+student1751	10121750	ClOfih_1402	swimming
+student1752	10121751	ClOfih_1402	table tennis
+student1753	10121752	ClOfih_1402	badminton
+student1754	10121753	ClOfih_1402	volleyball
+student1755	10121754	ClOfih_1402	tennis
+student1756	10121755	ClOfih_1402	badminton
+student1757	10121756	ClOfih_1402	basketball
+student1758	10121757	ClOfih_1402	table tennis
+student1759	10121758	ClOfih_1402	table tennis
+student1760	10121759	ClOfih_1402	table tennis
+student1761	10121760	ClOfih_1402	table tennis
+student1762	10121761	ClOfih_1402	taekwondo
+student1763	10121762	ClOfih_1402	taekwondo
+student1764	10121763	ClOfih_1402	football
+student1765	10121764	ClOfih_1402	football
+student1766	10121765	ClOfih_1402	gymnastics
+student1767	10121766	ClOfih_1402	swimming
+student1768	10121767	ClOfih_1402	swimming
+student1769	10121768	ClOfih_1402	table tennis
+student1770	10121769	ClOfih_1402	taekwondo
+student1771	10121770	ClOfih_1402	taekwondo
+student1772	10121771	ClOfih_1402	gymnastics
+student1773	10121772	ClOfih_1402	gymnastics
+student1774	10121773	ClOfih_1402	badminton
+student1775	10121774	ClOfih_1402	taekwondo
+student1776	10121775	ClOfih_1402	gymnastics
+student1777	10121776	ClOfih_1402	table tennis
+student1778	10121777	ClOfih_1402	taekwondo
+student1779	10121778	ClOfih_1402	taekwondo
+student1780	10121779	ClOfih_1402	football
+student1781	10121780	ClOfih_1402	football
+student1782	10121781	ClOfih_1402	gymnastics
+student1783	10121782	ClOfih_1402	swimming
+student1784	10121783	ClOfih_1402	swimming
+student1785	10121784	ClOfih_1402	table tennis
+student1786	10121785	ClOfih_1403	taekwondo
+student1787	10121786	ClOfih_1403	taekwondo
+student1788	10121787	ClOfih_1403	gymnastics
+student1789	10121788	ClOfih_1403	gymnastics
+student1790	10121789	ClOfih_1403	basketball
+student1791	10121790	ClOfih_1403	basketball
+student1792	10121791	ClOfih_1403	basketball
+student1793	10121792	ClOfih_1403	gymnastics
+student1794	10121793	ClOfih_1403	gymnastics
+student1795	10121794	ClOfih_1403	basketball
+student1796	10121795	ClOfih_1403	tennis
+student1797	10121796	ClOfih_1403	gymnastics
+student1798	10121797	ClOfih_1403	basketball
+student1799	10121798	ClOfih_1403	gymnastics
+student1800	10121799	ClOfih_1403	tennis
+student1801	10121800	ClOfih_1403	basketball
+student1802	10121801	ClOfih_1403	tennis
+student1803	10121802	ClOfih_1403	table tennis
+student1804	10121803	ClOfih_1403	badminton
+student1805	10121804	ClOfih_1403	table tennis
+student1806	10121805	ClOfih_1403	badminton
+student1807	10121806	ClOfih_1403	swimming
+student1808	10121807	ClOfih_1403	table tennis
+student1809	10121808	ClOfih_1403	swimming
+student1810	10121809	ClOfih_1403	table tennis
+student1811	10121810	ClOfih_1403	badminton
+student1812	10121811	ClOfih_1403	swimming
+student1813	10121812	ClOfih_1403	swimming
+student1814	10121813	ClOfih_1403	basketball
+student1815	10121814	ClOfih_1403	football
+student1816	10121815	ClOfih_1403	volleyball
+student1817	10121816	ClOfih_1403	volleyball
+student1818	10121817	ClOfih_1403	table tennis
+student1819	10121818	ClOfih_1403	badminton
+student1820	10121819	ClOfih_1403	badminton
+student1821	10121820	ClOfih_1403	basketball
+student1822	10121821	ClOfih_1403	football
+student1823	10121822	ClOfih_1403	basketball
+student1824	10121823	ClOfih_1403	football
+student1825	10121824	ClOfih_1403	table tennis
+student1826	10121825	ClOfih_1404	swimming
+student1827	10121826	ClOfih_1404	swimming
+student1828	10121827	ClOfih_1404	swimming
+student1829	10121828	ClOfih_1404	football
+student1830	10121829	ClOfih_1404	table tennis
+student1831	10121830	ClOfih_1404	badminton
+student1832	10121831	ClOfih_1404	volleyball
+student1833	10121832	ClOfih_1404	badminton
+student1834	10121833	ClOfih_1404	volleyball
+student1835	10121834	ClOfih_1404	tennis
+student1836	10121835	ClOfih_1404	volleyball
+student1837	10121836	ClOfih_1404	swimming
+student1838	10121837	ClOfih_1404	football
+student1839	10121838	ClOfih_1404	football
+student1840	10121839	ClOfih_1404	table tennis
+student1841	10121840	ClOfih_1404	badminton
+student1842	10121841	ClOfih_1404	volleyball
+student1843	10121842	ClOfih_1404	tennis
+student1844	10121843	ClOfih_1404	volleyball
+student1845	10121844	ClOfih_1404	volleyball
+student1846	10121845	ClOfih_1404	tennis
+student1847	10121846	ClOfih_1404	volleyball
+student1848	10121847	ClOfih_1404	basketball
+student1849	10121848	ClOfih_1404	taekwondo
+student1850	10121849	ClOfih_1404	taekwondo
+student1851	10121850	ClOfih_1404	table tennis
+student1852	10121851	ClOfih_1404	badminton
+student1853	10121852	ClOfih_1404	tennis
+student1854	10121853	ClOfih_1404	swimming
+student1855	10121854	ClOfih_1404	volleyball
+student1856	10121855	ClOfih_1404	football
+student1857	10121856	ClOfih_1404	table tennis
+student1858	10121857	ClOfih_1404	badminton
+student1859	10121858	ClOfih_1404	swimming
+student1860	10121859	ClOfih_1404	tennis
+student1861	10121860	ClOfih_1404	volleyball
+student1862	10121861	ClOfih_1404	badminton
+student1863	10121862	ClOfih_1404	basketball
+student1864	10121863	ClOfih_1404	tennis
+student1865	10121864	ClOfih_1404	tennis
+student1866	10121865	ClOfih_1404	badminton
+student1867	10121866	ClOfih_1404	swimming
+student1868	10121867	ClOfih_1404	table tennis
+student1869	10121868	ClOfih_1404	badminton
+student1870	10121869	ClOfih_1404	volleyball
+student1871	10121870	ClOfih_1404	tennis
+student1872	10121871	ClOfih_1404	badminton
+student1873	10121872	ClOfih_1404	basketball
+student1874	10121873	ClOfih_1404	table tennis
+student1875	10121874	ClOfih_1404	table tennis
+student1876	10121875	ClOfih_1404	table tennis
+student1877	10121876	ClOfih_1404	table tennis
+student1878	10121877	ClOfih_1404	taekwondo
+student1879	10121878	ClOfih_1404	taekwondo
+student1880	10121879	ClOfih_1404	football
+student1881	10121880	ClOfih_1404	football
+student1882	10121881	ClOfih_1404	gymnastics
+student1883	10121882	ClOfih_1404	swimming
+student1884	10121883	ClOfih_1404	swimming
+student1885	10121884	ClOfih_1404	table tennis
+student1886	10121885	ClOfih_1404	taekwondo
+student1887	10121886	ClOfih_1404	taekwondo
+student1888	10121887	ClOfih_1404	gymnastics
+student1889	10121888	ClOfih_1404	gymnastics
+student1890	10121889	ClOfih_1404	badminton
+student1891	10121890	ClOfih_1404	taekwondo
+student1892	10121891	ClOfih_1405	gymnastics
+student1893	10121892	ClOfih_1405	table tennis
+student1894	10121893	ClOfih_1405	taekwondo
+student1895	10121894	ClOfih_1405	taekwondo
+student1896	10121895	ClOfih_1405	football
+student1897	10121896	ClOfih_1405	football
+student1898	10121897	ClOfih_1405	gymnastics
+student1899	10121898	ClOfih_1405	swimming
+student1900	10121899	ClOfih_1405	swimming
+student1901	10121900	ClOfih_1405	table tennis
+student1902	10121901	ClOfih_1405	taekwondo
+student1903	10121902	ClOfih_1405	taekwondo
+student1904	10121903	ClOfih_1405	gymnastics
+student1905	10121904	ClOfih_1405	gymnastics
+student1906	10121905	ClOfih_1405	basketball
+student1907	10121906	ClOfih_1405	basketball
+student1908	10121907	ClOfih_1405	basketball
+student1909	10121908	ClOfih_1405	gymnastics
+student1910	10121909	ClOfih_1405	gymnastics
+student1911	10121910	ClOfih_1405	basketball
+student1912	10121911	ClOfih_1405	tennis
+student1913	10121912	ClOfih_1405	gymnastics
+student1914	10121913	ClOfih_1405	basketball
+student1915	10121914	ClOfih_1405	gymnastics
+student1916	10121915	ClOfih_1405	tennis
+student1917	10121916	ClOfih_1405	basketball
+student1918	10121917	ClOfih_1405	tennis
+student1919	10121918	ClOfih_1405	badminton
+student1920	10121919	ClOfih_1405	basketball
+student1921	10121920	ClOfih_1405	football
+student1922	10121921	ClOfih_1405	basketball
+student1923	10121922	ClOfih_1405	football
+student1924	10121923	ClOfih_1405	table tennis
+student1925	10121924	ClOfih_1405	swimming
+student1926	10121925	ClOfih_1405	swimming
+student1927	10121926	ClOfih_1405	swimming
+student1928	10121927	ClOfih_1405	football
+student1929	10121928	ClOfih_1405	table tennis
+student1930	10121929	ClOfih_1405	badminton
+student1931	10121930	ClOfih_1405	volleyball
+student1932	10121931	ClOfih_1405	badminton
+student1933	10121932	ClOfih_1405	volleyball
+student1934	10121933	ClOfih_1405	tennis
+student1935	10121934	ClOfih_1405	volleyball
+student1936	10121935	ClOfih_1405	swimming
+student1937	10121936	ClOfih_1405	football
+student1938	10121937	ClOfih_1405	football
+student1939	10121938	ClOfih_1405	table tennis
+student1940	10121939	ClOfih_1405	badminton
+student1941	10121940	ClOfih_1405	volleyball
+student1942	10121941	ClOfih_1405	tennis
+student1943	10121942	ClOfih_1405	volleyball
+student1944	10121943	ClOfih_1405	volleyball
+student1945	10121944	ClOfih_1405	tennis
+student1946	10121945	ClOfih_1405	volleyball
+student1947	10121946	ClOfih_1405	basketball
+student1948	10121947	ClOfih_1405	taekwondo
+student1949	10121948	ClOfih_1406	taekwondo
+student1950	10121949	ClOfih_1406	table tennis
+student1951	10121950	ClOfih_1406	badminton
+student1952	10121951	ClOfih_1406	tennis
+student1953	10121952	ClOfih_1406	swimming
+student1954	10121953	ClOfih_1406	volleyball
+student1955	10121954	ClOfih_1406	football
+student1956	10121955	ClOfih_1406	table tennis
+student1957	10121956	ClOfih_1406	badminton
+student1958	10121957	ClOfih_1406	swimming
+student1959	10121958	ClOfih_1406	tennis
+student1960	10121959	ClOfih_1406	volleyball
+student1961	10121960	ClOfih_1406	badminton
+student1962	10121961	ClOfih_1406	basketball
+student1963	10121962	ClOfih_1406	tennis
+student1964	10121963	ClOfih_1406	tennis
+student1965	10121964	ClOfih_1406	badminton
+student1966	10121965	ClOfih_1406	swimming
+student1967	10121966	ClOfih_1406	table tennis
+student1968	10121967	ClOfih_1406	badminton
+student1969	10121968	ClOfih_1406	volleyball
+student1970	10121969	ClOfih_1406	tennis
+student1971	10121970	ClOfih_1406	badminton
+student1972	10121971	ClOfih_1406	basketball
+student1973	10121972	ClOfih_1406	table tennis
+student1974	10121973	ClOfih_1406	table tennis
+student1975	10121974	ClOfih_1406	table tennis
+student1976	10121975	ClOfih_1406	table tennis
+student1977	10121976	ClOfih_1406	taekwondo
+student1978	10121977	ClOfih_1406	taekwondo
+student1979	10121978	ClOfih_1406	football
+student1980	10121979	ClOfih_1406	football
+student1981	10121980	ClOfih_1406	gymnastics
+student1982	10121981	ClOfih_1406	swimming
+student1983	10121982	ClOfih_1406	swimming
+student1984	10121983	ClOfih_1406	table tennis
+student1985	10121984	ClOfih_1406	taekwondo
+student1986	10121985	ClOfih_1407	taekwondo
+student1987	10121986	ClOfih_1407	gymnastics
+student1988	10121987	ClOfih_1407	gymnastics
+student1989	10121988	ClOfih_1407	badminton
+student1990	10121989	ClOfih_1407	taekwondo
+student1991	10121990	ClOfih_1407	gymnastics
+student1992	10121991	ClOfih_1407	table tennis
+student1993	10121992	ClOfih_1407	taekwondo
+student1994	10121993	ClOfih_1407	taekwondo
+student1995	10121994	ClOfih_1407	football
+student1996	10121995	ClOfih_1407	football
+student1997	10121996	ClOfih_1407	gymnastics
+student1998	10121997	ClOfih_1407	swimming
+student1999	10121998	ClOfih_1407	swimming
+student2000	10121999	ClOfih_1407	table tennis
+student2001	10122000	ClOfih_1407	taekwondo
+student2002	10122001	ClOfih_1407	taekwondo
+student2003	10122002	ClOfih_1407	gymnastics
+student2004	10122003	ClOfih_1407	gymnastics
+student2005	10122004	ClOfih_1407	basketball
+student2006	10122005	ClOfih_1407	basketball
+student2007	10122006	ClOfih_1407	basketball
+student2008	10122007	ClOfih_1407	gymnastics
+student2009	10122008	ClOfih_1407	gymnastics
+student2010	10122009	ClOfih_1407	basketball
+student2011	10122010	ClOfih_1407	tennis
+student2012	10122011	ClOfih_1407	gymnastics
+student2013	10122012	ClOfih_1407	basketball
+student2014	10122013	ClOfih_1407	gymnastics
+student2015	10122014	ClOfih_1407	tennis
+student2016	10122015	ClOfih_1407	basketball
+student2017	10122016	ClOfih_1407	tennis
+student2018	10122017	ClOfih_1407	badminton
+student2019	10122018	ClOfih_1407	basketball
+student2020	10122019	ClOfih_1407	football
+student2021	10122020	ClOfih_1407	basketball
+student2022	10122021	ClOfih_1407	football
+student2023	10122022	ClOfih_1407	table tennis
+student2024	10122023	ClOfih_1407	swimming
+student2025	10122024	ClOfih_1407	swimming
+student2026	10122025	ClOfih_1407	swimming
+student2027	10122026	ClOfih_1407	football
+student2028	10122027	ClOfih_1407	table tennis
+student2029	10122028	ClOfih_1407	badminton
+student2030	10122029	ClOfih_1407	volleyball
+student2031	10122030	ClOfih_1407	badminton
+student2032	10122031	ClOfih_1407	volleyball
+student2033	10122032	ClOfih_1407	tennis
+student2034	10122033	ClOfih_1407	volleyball
+student2035	10122034	ClOfih_1407	swimming
+student2036	10122035	ClOfih_1407	football
+student2037	10122036	ClOfih_1407	football
+student2038	10122037	ClOfih_1407	table tennis
+student2039	10122038	ClOfih_1407	badminton
+student2040	10122039	ClOfih_1407	volleyball
+student2041	10122040	ClOfih_1407	tennis
+student2042	10122041	ClOfih_1407	volleyball
+student2043	10122042	ClOfih_1407	volleyball
+student2044	10122043	ClOfih_1407	tennis
+student2045	10122044	ClOfih_1407	volleyball
+student2046	10122045	ClOfih_1407	basketball
+student2047	10122046	ClOfih_1407	taekwondo
+student2048	10122047	ClOfih_1407	taekwondo
+student2049	10122048	ClOfih_1407	table tennis
